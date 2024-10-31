@@ -1,7 +1,7 @@
 # Question_Answering_System
 This is a question answering system code implementation.
 
-# Question Answering System with LLM, Qdrant, and Raptor Indexing
+# Question Answering System with LLM, MILVUS, and Raptor Indexing
 
 ## Components
 
