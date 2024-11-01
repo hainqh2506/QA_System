@@ -11,7 +11,7 @@ This is a question answering system code implementation.
 
 Before running the project, ensure you have the following prerequisites installed:
 
-1. **Zilliz cloud account: Milvus cloud Vector database 
+1. **Zilliz** cloud account: Milvus cloud Vector database 
 2. **Python 3.12.5**: Ensure you have Python 3.x installed on your system.
 3. **pip**: Ensure you have pip installed to manage Python packages.
 
@@ -75,5 +75,5 @@ This component uses a Language Model (LLM) (chat GPT-4o-mini)to generate answers
 
 ### 8. Video demo (incoming)
 
-### 9. System architecture
+### 9. Proposed system architecture
 ![Proposed system architecture](img/img3.png)
