@@ -40,8 +40,8 @@ Before running the project, ensure you have the following prerequisites installe
     docker-compose up -d
     ```
 5. run streamlit app
-       ```sh
-    stremlit run pipeline.py
+    ```sh
+    streamlit run pipeline.py
     ```
 ![Simple Q&A interface](img/img.png)
 ![Simple Q&A ](img/img2.png)
