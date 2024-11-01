@@ -28,18 +28,17 @@ Before running the project, ensure you have the following prerequisites installe
     pip install -r requirements.txt
     ```
 
-3. Create a zilliz cloud account to use milvus database on the cloud
+3. Create a Zilliz cloud account to use the Milvus database on the cloud.
 
-4. Or you can also download the script from Milvus documentation :https://milvus.io/docs/install_standalone-docker-compose.md
-- Download the script to the directory of your project (provided in Milvus documentation), note :go to docker compose
-- Open your terminal
-- Now run docker compose up -d  (not to include sudo)
+4. Alternatively, you can create a local database by following the Milvus documentation:https://milvus.io/docs/install_standalone-docker-compose.md
+- Download the script provided in the Milvus documentation to your project directory.
+- Open your terminal, navigate to the project directory, and run:
 - These will create and start the container
 
     ```sh
     docker-compose up -d
     ```
-5. run streamlit app
+1. run streamlit app
     ```sh
     streamlit run pipeline.py
     ```
@@ -66,14 +65,14 @@ This component sets up the Milvus vector database to store and manage the text e
 Objective: To create a hybrid search that combines sparse retrievers with dense retrievers.
 - **Creating Index**: Index the text embeddings stored in Milvus.
 - **Creating Vector Store and Retriever**: Create a vector store and a retriever using the indexed data.
-- **Using Reranking Algorithm**: Apply a reranking algorithm like CrossEncoder to refine the retrieved documents. (incoming)
+- **Using Reranking Algorithm**: Apply a reranking algorithm like CrossEncoder to refine the retrieved documents. (upcoming)
 
 ### 6. LLM for Question Answering
 This component uses a Language Model (LLM) (chat GPT-4o-mini)to generate answers to user queries based on the context provided by the retrieved documents. It involves constructing prompts and invoking the LLM to generate accurate and relevant responses.
 
-### 7. Future: adding routing and chat history (incoming)
+### 7. Future: adding routing and chat history (upcoming)
 
-### 8. Video demo (incoming)
+### 8. Video demo (upcoming)
 
 ### 9. Proposed system architecture
 ![Proposed system architecture](img/img3.png)
