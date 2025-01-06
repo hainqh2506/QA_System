@@ -1,0 +1,498 @@
+1. Trong cơ cấu tổ chức của Đại học Bách khoa Hà Nội hiện có bao nhiêu Trường?
+4 Trường
+5 Trường
+6 Trường
+7 Trường
+2. Thời gian xin rút một học phần là bao giờ
+Trước 1/2 thời gian của học phần đó
+Trước 1/3 thời gian của học phần đó
+Trước 1/4 thời gian của học phần đó
+Trước 1/5 thời gian của học phần đó
+3. Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy từ 0-63 tín chỉ thì điểm TOEIC tối thiểu sẽ là (áp
+dụng cho Chương trình đào tạo chuẩn)
+Đạt hai học phần Tiếng Anh cơ sở (FL1129; FL1130)
+400
+
+500
+450
+4. Bạn đọc tìm hiểu các nội quy và quy trình hướng dẫn sử dụng dịch vụ thư viện ở đâu
+Trên cổng thông tin Thư viện : http://library.hust.edu.vn và tại các phòng phục vụ
+Chỉ có tại các phòng phục vụ
+Trên trang chủ trường ĐH Bách Khoa Hà Nội https://www.hust.edu.vn/
+Hỏi cán bộ thư viện
+5. Địa chỉ email của Ban Đào tạo
+dt@hust.edu.vn
+daotao@hust.edu.vn
+daotaodaihoc@hust.edu.vn
+phongdaotao@hust.edu.vn
+ctsv@hust.edu.vn
+6. Mức học bổng khuyến khích học tập loại giỏi (loại B)
+Tương đương với mức học phí sinh viên phải đóng của tất cả các học phần tính điểm trung bình học kỳ
+(GPA)
+Tương đương với 1,2 lần mức học phí sinh viên phải đóng của tất cả các học phần tính điểm trung bình học
+kỳ (GPA)
+Tương đương với 1,5 lần mức học phí sinh viên phải đóng của tất cả các học phần tính điểm trung bình học
+kỳ (GPA)
+Tương đương với 2 lần mức học phí sinh viên phải đóng của tất cả các học phần tính điểm trung bình học
+kỳ (GPA)
+Tương đương với 1,2 lần mức học phí sinh viên phải đóng của kỳ trước đó
+7. Sinh viên được xếp loại học lực trung bình nếu điểm CPA như sau
+CPA = 1.9
+CPA = 2.5
+
+CPA = 3.2
+CPA từ 2.0-2.49
+8. Khi lập được một Kế hoạch học tập tốt và tuân thủ theo kế hoạch đề ra thì kết quả đạt được là
+Kết quả học tập tốt, rút ngắn được thời gian hoàn thành CTĐT
+Kết quả học tập kém
+Kết quả học tập trung bình
+9. Khi nào sinh viên được chuyển ngành học
+Có điểm xét tuyển trong kỳ tuyển sinh Đại học cao hơn điểm trúng tuyển (cùng tổ hợp môn xét tuyển) của
+ngành/chương trình muốn chuyển sang học
+Có số tín chỉ tích lũy sau hai học kỳ đầu tiên của khóa học bằng hoặc vượt khối lượng thiết kế của hai học
+kỳ đầu trong chương trình đào tạo. Điểm trung bình tích lũy bằng hoặc cao hơn 2.5
+Không bị cảnh báo học tập hoặc bị xét thi hành kỷ luật
+Cả ba nội dung trên
+10. Trong bộ quy tắc văn hóa giao tiếp trong Nhà trường và môi trường mạng đối với sinh viên, học
+viên và nghiên cứu sinh, quy tắc số 4 liên quan đến
+Kính trọng, lễ phép, tôn sự trọng đạo với thầy cô; tôn trọng, hợp tác, lịch sự, nhã nhặn với cán bộ, nhân viên
+trường.
+Đoàn kết, tương trợ, bình đẳng và tôn trọng sự khác biệt với bạn bè.
+Thân thiện, lịch sự, tận tình hướng dẫn với khách của Nhà trường.
+Trang phục phù hợp với môi trường sư phạm; đeo thẻ sinh viên/học viên khi đến trường.
+11. Các tiêu chí hoạt động liên quan đến GPA, Đạt trình độ ngoại ngữ sẽ do
+Sinh viên tự đối chiếu và cộng điểm.
+Giáo viên chủ nhiệm đối chiếu và cộng điểm.
+Trường (thông qua Ban CTSV, hệ thống iCTSV) đối chiếu và cộng điểm.
+Cả 3 đáp án kia đều sai.
+
+12. Khoảng thời gian sinh viên sẽ đăng ký học tập cho học kỳ tới?
+Tuần 5 của kỳ đang học
+Tuần 4-5 của kỳ đang học
+Tuần 5-6 của kỳ đang học
+Ngay sau khi thi giữa kỳ của kỳ đang học
+13. Có mấy mức cảnh báo học tập đối với sinh viên
+Có ba mức: mức 1, mức 2, mức 3
+Có bốn mức: mức 0, mức 1, mức 2, mức 3
+Có hai mức: mức 1, mức 2
+Có năm mức: mức 1, mức 2, mức 3, mức 4, mức 5
+14. Theo quy chế, sinh viên bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp sẽ bị xử lý như thế nào
+Nhắc nhở
+Kỷ luật cảnh cáo
+Nâng cảnh cáo học tập lên mức 2
+Buộc thôi học
+15. Nếu học phần bị điểm F phải học lại thì học lại tại thời điểm nào
+Sớm nhất khi môn học có mở lớp ở kỳ tới hay kỳ tiếp theo
+Học lúc nào cũng được
+Năm cuối mới học
+Tùy vào tình hình đăng ký học càng sớm càng tốt
+16. Sinh viên có thể xem tổng số tiền học phí phải đóng trong một học kỳ ở đâu
+Trang ctt-daotao.hust.edu.vn rồi vào tài khoản cá nhân để xem
+Ban Công tác Sinh viên
+Ban Tài chính - Kế hoạch
+Ban Đào tạo
+17. Quy tắc văn hóa giao tiếp trong Nhà trường và môi trường mạng của Nhà trường liên quan đến
+những nhóm đối tượng nào?
+Giảng viên và sinh viên
+Cán bộ, viên chức, giảng viên, sinh viên, học viên, nghiên cứu sinh
+Cán bộ, viên chức, giảng viên, sinh viên, học viên và khách đến làm việc với trường
+Sinh viên, học viên, nghiên cứu sinh
+18. Địa chỉ Ban Công tác Sinh viên
+Phòng 101-102-103-104-105 nhà C1
+Phòng 202-203-204-205 nhà C2
+Phòng 202-203-204-205 Tòa nhà Thư viện Tạ Quang Bửu
+Phòng 202-203-204-205 nhà D3
+19. Sau thời gian điều chỉnh đăng ký, sinh viên có thể làm đơn xin rút học phần để không tính kết
+quả học tập không
+Được làm đơn xin rút và phải đóng học phí cho học phần được rút
+Không được làm đơn
+Được làm đơn xin rút và không phải đóng học phí của học phần được rút
+Được làm đơn xin rút và được xem xét để không phải đóng học phí của học phần xin rút
+20. Một môn học có điểm chữ là B thì quy đổi sang thang 4 sẽ là
+1 điểm
+2 điểm
+3 điểm
+4 điểm
+
+21. Phòng tiếp nhận, hỗ trợ, tư vấn về học tập và tâm lý cho sinh viên gặp khó khăn là
+C2 - 208
+B8 - 101
+C1 - 101
+D4 - 104
+22. Địa chỉ Ban Đào tạo
+Phòng 201-202 nhà C1
+Phòng 101-102 nhà C1
+Phòng 101-102 nhà C2
+Phòng 101-102 nhà D7
+23. Khi mất thẻ sinh viên bạn phải làm gì
+Báo cho Ban Công tác sinh viên và đăng ký làm lại thẻ mới
+Báo cho Ban Đào tạo và đăng ký làm lại thẻ
+Báo cho Viện chuyên ngành và đăng ký làm lại thẻ
+Tự in lại thẻ ở bất cứ cơ sở in nào có thể
+24. Đại học Bách khoa Hà Nội được phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân
+năm nào
+Năm 2001
+Năm 2006
+Năm 2011
+Năm 2016
+25. Sinh viên được phép hoàn thành chương trình (Chương trình đào tạo từ 4 đến 5 năm) và tốt
+nghiệp sớm hơn hoặc chậm hơn so với kế hoạch bao lâu
+Không quá 5 học kỳ
+Không quá 4 học kỳ
+Không quá 3 học kỳ
+Không quá 6 học kỳ
+26. Sinh viên bị nâng một mức cảnh cáo trong trường hợp nào
+Sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 7 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 6 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 8 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 5 tín chỉ
+27. Bạn hãy cho biết để đạt được Danh hiệu Sinh viên 5 tốt, bạn cần đáp ứng đủ những tiêu chí nào
+sau đây?
+Đạo đức tốt, Học tập tốt, Tình nguyện tốt, Thể lực tốt, Hội nhập tốt
+Đạo đức tốt, Học tập tốt, Tình nguyện tốt, Sức khỏe tốt, Hội nhập tốt
+Đạo đức tốt, Học tập tốt, Tình nguyện tốt, Thể lực tốt, Kỹ năng tốt
+Đạo đức tốt, Học tập tốt, Lao động tốt, Thể lực tốt, Hội nhập tốt
+28. Sinh viên được xếp hạng trình độ năm thứ hai căn cứ số tín chỉ tích lũy như thế nào
+Trình độ năm thứ hai nếu số tín chỉ tích lũy từ 32-63
+Trình độ năm thứ hai nếu số tín chỉ tích lũy từ 28-30
+Trình độ năm thứ hai nếu số tín chỉ tích lũy từ 30-32
+Trình độ năm thứ hai nếu số tín chỉ tích lũy từ 24-30
+29. Fanpage của Trường là
+https://www.facebook.com/tsdhbk/
+https://www.facebook.com/dhbkhanoi/
+https://www.facebook.com/groups/k65daihocbachkhoahanoi/
+https://www.facebook.com/ctsv.hust.edu.vn/
+
+30. Một môn học có trọng số KT(0.3)-T(0.7) nghĩa là môn học đó có
+Trọng số giữa kỳ là 0.3 và Cuối kỳ là 0.7
+Trọng số giữa kỳ là 0.7 và Cuối kỳ là 0.3
+Trọng số giữa kỳ là 0.5 và Cuối kỳ là 0.5
+31. Khi cần khôi phục tài khoản Email sinh viên liên hệ với
+Ban Đào tạo
+Ban Công tác sinh viên
+Viện chuyên ngành
+Hội Sinh viên
+32. Trong trường hợp lớp bị hủy thì sinh viên phải làm gì
+Viết đơn xin mở lớp khác
+Viết đơn xin thay mã lớp đã bị hủy bằng mà lớp khác có mở ngoài thời gian quy định.
+Không cần viết đơn tự động, hệ thống sẽ tự đăng ký lớp khác
+Chủ động đăng ký vào lớp khác thay cho lớp đã bị hủy trong thời gian đăng ký quy định.
+33. Tài liệu Phòng mượn giáo trình được dán nhãn màu gì ?
+Màu xanh
+Màu đỏ
+Màu vàng
+Màu tím
+34. Sinh viên khi đăng ký học phần thì được gì
+Được đăng ký học tập trong đợt chính thức
+Được đăng ký học tập trong đợi điều chỉnh
+Được đăng ký trong cả hai đợt: chính thức và điều chỉnh
+
+Được đăng ký vào lớp đã đầy
+35. Xin cấp giấy chứng nhận sinh viên ở đâu
+Ban Công tác Sinh viên hoặc Văn phòng Khoa/Viện/Trường chuyên nghành
+Ban Đào tạo
+Ban Tài chính - Kế hoạch
+Trung tâm Dịch vụ và Hỗ trợ Bách Khoa
+36. Điểm mốc lịch sử quan trọng năm 2023 là?
+Trường có bộ máy lãnh đạo mới
+Trường Đại học Bách Khoa Hà Nội chuyển thành Đại học Bách Khoa Hà Nội
+Tổ chức thành công Đại hội đại biểu Đảng bộ Trường Đại học Bách Khoa Hà Nội
+Không có đáp án đúng
+37. Sinh viên được hạ một mức cảnh cáo trong trường hợp nào
+Sinh viên có số tín chỉ không đạt trong học kỳ <= 4 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ <= 5 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ <= 6 tín chỉ
+Sinh viên có số tín chỉ không đạt trong học kỳ <= 7 tín chỉ
+38. Điểm rèn luyện được đánh giá khi nào
+Đầu học kỳ
+Giữa học kỳ
+Cuối học kỳ
+Cuối khóa học
+39. Thủ tục hoãn thi do bị đau, ốm cần có
+Giấy xác nhận/ bệnh án của bệnh viện bất kỳ
+
+Giấy xác nhận của Ban Đào tạo
+Giấy xác nhận của Ban Công tác sinh viên
+Giấy xác nhận của Trung tâm Y tế
+40. Trang web của Đoàn thanh niên
+svbk.hust.edu.vn
+dtn.hust.edu.vn
+doanthanhnien.hust.edu.vn
+sinhvienbachkhoa.hust.edu.vn
+41. Làm thế nào để học đúng tiến độ
+Học theo môn học tự lựa chọn
+Học theo bạn bè
+Học theo học kỳ chuẩn của Chương trình đào tạo
+42. Đại học Bách khoa Hà Nội được thành lập vào năm nào?
+1955
+1956
+1957
+1958
+43. Một môn học có thời lượng 3(4-1-0-6) thì có số tín chỉ học tập sẽ là
+1 tín chỉ học tập
+6 tín chỉ học tập
+3 tín chỉ học tập
+4 tín chỉ học tập
+44. Quy định, quy chế về học tập thì sinh viên xem ở trang nào
+
+http://sis.hust.edu.vn
+https://ctt-daotao.hust.edu.vn/
+https://hust.edu.vn/
+http://ctsv.hust.edu.vn/
+45. Theo quy định của Luật Bảo hiểm y tế (BHYT) thì
+Mọi sinh viên bắt buộc phải có BHYT
+Chỉ những sinh viên năm thứ nhất
+Chỉ những sinh viên ở KTX
+Chỉ những sinh viên sắp tốt nghiệp
+46. Ai là người chịu trách nhiệm giám sát hoạt động học tập của sinh viên?
+Cố vấn học tập
+Bản thân sinh viên
+Giảng viên phụ trách học phần
+Trợ lý đào tạo của Viện phụ trách học phần
+47. Học bổng Trần Đại Nghĩa có mấy mức học bổng?
+1 mức: 50% học phí
+2 mức: 75% học phí; 100% học phí
+2 mức: 50% học phí, 100% học phí
+2 mức: 50% học phí, 75% học phí
+48. Quy trình đăng ký học tập trên hệ thống thông tin sinh viên theo các giai đoạn chuẩn như thế
+nào
+Đăng ký học phần - Đăng ký lớp chính thức - Điều chỉnh đăng ký
+Đăng ký học phần - Điều chỉnh đăng ký – Đăng ký lớp chính thức
+Đăng ký học phần – Đăng ký lớp chính thức
+
+Đăng ký học phần – Đăng ký điều chỉnh
+49. Các dịch vụ của Thư viện Tạ Quang Bửu
+Đọc tài liệu (sách, báo, tạp chí, luận văn, luận án,v.v…) tại chỗ
+Mượn tài liệu (giáo trình, sách văn học, chính trị, ngôn ngữ,…) về nhà
+Sử dụng máy tính tra cứu để truy cập các Cơ sở dữ liệu điện tử trực tuyến và tìm kiếm thông tin trên
+Internet miễn phí
+Tất cả các phương án trên
+50. Sinh viên đăng ký nội trú KTX ở đâu
+Ban Công tác Sinh viên
+Trung tâm Dịch vụ và Hỗ trợ Bách Khoa
+Ban Đào tạo
+Trường/Viện chuyên ngành
+51. Giả sử kỳ 2023.1, một sinh viên chỉ đăng ký học tập hai môn MI1010 3(3-2-0-6) và MI1110 4(3-2-
+0-8) với số điểm lần lượt là B+ và D. Hỏi GPA của sinh viên này trong kỳ 2023.1 là bao nhiêu?
+2.25
+3.2
+2.07
+2.45
+52. Sinh viên làm lại thẻ bảo hiểm y tế ở đâu
+Ban Đào tạo
+Trường/Viện/Khoa chuyên nghành
+Ban Công tác Sinh viên
+Trung tâm Dịch vụ và Hỗ trợ Bách Khoa
+53. Các bước xin cấp giấy chứng nhận sinh viên bao gồm?
+
+Bước 1 đăng ký trên app iCTSV, bước 2 check mail hẹn lịch, bước 3 đến Ban Công tác Sinh viên để nhận giấy
+Bước 1 đăng ký trên app iCTSV, bước 2 check mail hẹn lịch, bước 3 đến Ban Đào tạo để nhận giấy
+Bước 1 đăng ký trên app iCTSV, bước 2 check mail hẹn lịch, bước 3 đến Ban Công tác chính trị để nhận giấy
+Bước 1 đăng ký trên app iCTSV, bước 2 check mail hẹn lịch, bước 3 đến Văn phòng Khoa/Viện để nhận giấy
+54. Trong những ngày dưới đây, Bác Hồ đã về thăm trường ta vào các ngày nào?
+Ngày Mùng 1 Tết Mậu Tuát 1958
+Ngày 17/06/1960
+Ngày 11/03/1960
+Ngày 11/03/1962
+55. Khi nào sinh viên phải hoàn toàn tự đăng ký lớp?
+Bắt đầu từ kỳ 1
+Bắt đầu từ kỳ 2
+Bắt đầu từ kỳ 3
+Bắt đầu từ kỳ 4
+56. Một môn học có thời lượng 3(3-1-0-6) thì có giờ Thí nghiệm/Thực hành sẽ là
+3 giờ Thí nghiệm/Thực hành
+1 giờ Thí nghiệm/Thực hành
+0 giờ Thí nghiệm/Thực hành
+6 giờ Thí nghiệm/Thực hành
+57. Điểm rèn luyện được xếp loại theo cách nào dưới đây
+Xuất sắc, Tốt, Khá, Trung bình, Yếu, Kém
+Xuất sắc, Khá, Trung bình, Yếu, Kém
+Giỏi, Trung bình, Yếu, Kém
+
+Xuất sắc, Khá, Trung bình, Kém
+58. Sinh viên bị cảnh cáo học tập mức 1 thì được đăng ký tối đa và tối thiểu bao nhiêu tín chỉ trong
+một học kỳ chính
+Tối đa 14 tín chỉ và tối thiểu 8 tín chỉ cho một học kỳ chính
+Tối đa 18 tín chỉ và tối thiểu 10 tín chỉ cho một học kỳ chính
+Tối đa 16 tín chỉ và tối thiểu 12 tín chỉ cho một học kỳ chính
+Tối đa 18 tín chỉ và tối thiểu 12 tín chỉ cho một học kỳ chính
+59. Theo thông báo số 1096/TB-ĐHBK-CTSV, nếu sinh viên không mang thẻ SV sẽ
+Không được vào khuôn viên Đại học BKHN
+Bị nhắc nhở, ghi nhận vi phạm quy tắc giao tiếp
+Có thể bị từ chối vào một số khu vực ở khuôn viên Đại học BKHN
+Xin phép bảo vệ vẫn được vào
+60. Theo khung đánh giá kết quả rèn luyện sinh viên năm 2023-2024, tiêu chí có các thành tích trong
+học tập, NCKH và rèn luyện được cộng tối đa
+4 điểm
+5 điểm
+6 điểm
+3 điểm
+61. Ban Chấp hành Đoàn Đại học gồm có bao nhiêu ban Chuyên môn?
+05
+06
+07
+08
+62. Để kiểm tra thông tin về hoạt động mượn trả tài liệu của tài khoản Thư viện, bạn đọc phải truy
+cập vào địa chỉ nào
+
+Thư viện số http://dlib.hust.edu.vn/
+Trang Tra cứu http://libopac.hust.edu.vn/
+Trang chủ ĐHBKHN http://www.hust.edu.vn/
+Cổng thông tin thư viện http://library.hust.edu.vn
+63. Xử lý học tập trong một học kỳ của sinh viên dựa vào những yếu tố nào
+Số tín chỉ đạt - Số tín chỉ không đạt - Điểm trung bình học kỳ
+Số tín chỉ đạt - Điểm trung bình học kỳ
+Số tín chỉ không đạt - Điểm trung bình học kỳ
+Điểm trung bình học kỳ
+64. Mục tiêu học tập phải đảm bảo những thuộc tính nào
+Tính vừa sức; Tính rõ ràng; Tính cụ thể
+Tính vừa sức; Tính rõ ràng
+Tính rõ ràng; Tính cụ thể
+65. Những trường hợp nào sau đây không phải mua BHYT
+Sinh viên đã được cấp thẻ BHYT theo diện hộ nghèo/ cận nghèo
+Sinh viên đã được cấp thẻ BHYT theo diện con lực lượng vũ trang
+Sinh viên đã mua BHYT doanh nghiệp
+Cả 3 đáp án trên đều đúng
+66. Sinh viên muốn tra cứu về đăng ký học tập của cá nhân thì xem ở trang nào
+https://ctt-daotao.hust.edu.vn/
+https://hust.edu.vn/
+http://sis.hust.edu.vn
+http://ctsv.hust.edu.vn/
+
+67. Điều kiện để được xét học bổng khuyến khích học tập loại giỏi?
+GPA >= 2,5; ĐRL >= 65
+GPA >= 3,7; ĐRL >= 95
+GPA >= 3,6; ĐRL >= 90
+GPA >= 3,2; ĐRL >= 80
+68. Sinh viên nạp tiền thẻ gửi xe đạp/ xe máy ở đâu
+Ban Công tác sinh viên
+Ban Đào tạo
+Trung tâm Dịch vụ và Hỗ trợ Bách Khoa
+Ban Tài chính - Kế hoạch
+69. Quy định về việc xét cấp học bổng cho sinh viên xem tại
+Ctt-daotao.hust.edu.vn
+ctsv@hust.edu.vn
+Cả 2 đáp án trên đều đúng
+70. Trong học kỳ hè sinh viên có thể học tối đa bao nhiêu tín chỉ
+Tối đa 5 tín chỉ
+Tối đa 7 tín chỉ
+Tối đa 8 tín chỉ
+Tối đa 4 tín chỉ
+71. Theo bộ khung tiêu chí của năm học 2023-2024, đâu là mục có điểm rèn luyện cao nhất
+Điểm học tập
+Điểm về tổ chức ý thức kỷ luật
+Điểm tham gia hoạt động chính trị, xã hội, văn hoá, thể thao
+
+Điểm ý thức công dân trong quan hệ cộng đồng
+72. Theo khung đánh giá kết quả rèn luyện sinh viên năm 2023-2024, tiêu chí điểm học tập cộng tối
+đa
+25 điểm
+30 điểm
+35 điểm
+40 điểm
+73. Muốn mở thêm lớp trong học kỳ thì sinh viên phải đến đâu
+Ban Công tác Sinh viên
+Ban Đào tạo
+Ban Tuyển sinh - Hướng nghiệp
+Viện/Trường quản lý học phần
+74. Luật Parkinson của GS. Cyril Northcote Parkinson cho rằng mối quan hệ giữa sự nỗ lực và thời
+gian làm việc có mối quan hệ như thế nào?
+Thời gian độc lập với sự nỗ lực
+Thời gian càng dài, sự nỗ lực càng tăng
+Thời gian càng dài, sự nỗ lực càng giảm
+Thời gian quyết định đến nổ lực
+75. Xin giấy chứng nhận làm vé tháng xe buýt ở đâu
+Ban Công tác Sinh viên
+Ban Đào tạo
+Trung tâm Dịch vụ và Hỗ trợ Bách Khoa
+Đoàn thanh niên
+76. Thời gian nghỉ ốm dài hạn có phép không tính vào thời gian chậm tiến độ nếu tổng cộng không
+vượt quá
+
+Không quá 2 năm
+Không quá 1 năm
+Không quá 4 năm
+Không quá 3 năm
+77. Theo khung đánh giá kết quả rèn luyện sinh viên năm 2023-2024, sinh viên bị trừ điểm nếu vi
+phạm các quy định nào
+Vi phạm trong học tập
+Vi phạm quy định về an ninh trật tự, an toàn giao thông, giữ gìn vệ sinh, cảnh quan môi trường, nếp sống
+văn minh
+Vi phạm pháp luật
+Cả 3 phương án trên
+78. Một môn học có thể có các điều kiện học phần nào
+Học phần học trước
+Học phần học trước; Học phần song hành; Học phần tiên quyết
+Học phần song hành
+Học phần hỗ trợ
+79. Mục chấm điểm rèn luyện có 2 cột điểm SV chấm và điểm GV chấm, vậy điểm chốt tính theo
+điểm nào?
+Cột điểm SV chấm.
+Cột điểm GV chấm.
+Cột điểm nào cao hơn.
+Cột điểm nào thấp hơn.
+80. Sinh viên bị ốm, tai nạn hoặc vì một lý do đặc biệt nào đó thì phải nộp đơn và các minh chứng
+giấy tờ về đâu
+Ban Đào tạo
+Ban Công tác Sinh viên
+
+Trường/Viện chuyên ngành
+Trung tâm y tế
+81. Địa chỉ email của Đoàn Thanh niên
+doanthanhnien@hust.edu.vn
+dtndhbk@hust.edu.vn
+dtn@hust.edu.vn
+dtn_hust@hust.edu.vn
+82. Cho mã học phần IT4xxx, học phần này thuộc nhóm?
+Cốt lõi ngành
+Đại cương
+Cơ sở ngành
+Chuyên ngành (theo module)
+83. Quy định về việc đánh giá điểm rèn luyện sinh viên xem tại
+Ctt-daotao.hust.edu.vn
+Ctsv.hust.edu.vn
+Cả hai đáp án trên đều đúng
+84. Địa chỉ email của Hội sinh viên
+hsv@hust.edu.vn
+hsvdhbk@hust.edu.vn
+hsv.dhbk@hust.edu.vn
+hoisinhvien@hust.edu.vn
+85. Sinh viên thuộc chương trình ELITECH được đăng ký tối đa bao nhiêu tín chỉ trong một học kỳ
+nếu bị cảnh cáo học tập mức 2
+
+18 tín chỉ
+14 tín chỉ
+12 tín chỉ
+10 tín chỉ
+86. GPA và CPA có nghĩa là gì ?
+GPA là điểm để xét học bổng, CPA là điểm tốt nghiệp
+GPA là điểm trung bình môn từ lúc vào trường, CPA là điểm trung bình môn trong 1 năm học
+GPA là điểm trung bình môn trong 1 học kỳ, CPA là điểm trung bình môn từ năm học thứ nhất
+GPA là điểm trung bình môn trong 1 năm học kỳ, CPA là điểm trung bình môn từ năm học thứ nhất
+87. Yêu cầu bắt buộc đối với sinh viên khi gửi email thắc mắc vấn đề như đăng ký học tập, chuyển
+điểm tương đương/thay thế, học phí... là?
+Sử dụng email nào cũng được
+Sử dụng email do Trường cấp
+Sử dụng gmail
+Nhắn tin qua fanpage của phòng Đào tạo
+88. Sinh viên cần tư vấn học tập liên hệ với
+A. Ban Đào tạo
+B. Ban Cố vấn học tập của Viện/Trường
+C. Cán bộ quản lý lớp sinh viên (Giáo viên chủ nhiệm)
+Cả 3 phương án A,B, C đều đúng
+89. Như thế nào là được coi là điểm liệt (điểm học phần là F) ?
+Điểm giữa kỳ bé hơn 5 hoặc điểm cuối kỳ bé hơn 4
+Điểm giữa kỳ bé hơn 3 hoặc điểm cuối kỳ bé hơn 3
+Điểm giữa kỳ bé hơn 4 hoặc điểm cuối kỳ bé hơn 4
+
+Điểm giữa kỳ bé hơn 1 hoặc điểm cuối kỳ bé hơn 1
+90. Muốn thắc mắc, phúc tra điểm thì sinh viên cần liên hệ với ai?
+Liên hệ với Ban Đào tạo
+Liên hệ với Ban Công tác sinh viên
+Liên hệ với Khoa/Viện/Trường
+Liên hệ với Giảng viên môn học đó
+Nội dung này được tạo bởi chủ sở hữu của biểu mẫu. Dữ liệu bạn gửi sẽ được gửi đến chủ sở hữu biểu mẫu. Microsoft không chịu trách
+nhiệm về quyền riêng tư hoặc thực tiễn bảo mật của khách hàng, bao gồm cả các biện pháp bảo mật của chủ sở hữu biểu mẫu này. Không
+bao giờ đưa ra mật khẩu của bạn.
+Hoạt động trên nền tảng Microsoft Forms | Quyền riêng tư và cookie | Điều khoản sử dụng
+

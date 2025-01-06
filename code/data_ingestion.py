@@ -2,7 +2,7 @@ import os
 import glob
 import re
 from tqdm import tqdm
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from typing import List, Optional, Tuple
 
 class PDFProcessor:
@@ -73,6 +73,26 @@ def setup_knowledge_base(pdf_directory: str, specific_pdf: Optional[str] = None)
     """
     processor = PDFProcessor(pdf_directory)
     return processor.load_and_clean(specific_pdf)
-
 # Cách sử dụng
 # cleaned_documents = setup_knowledge_base('đường/dẫn/đến/thư_mục_pdf', 'đường/dẫn/đến/file_cụ_thể.pdf')
+class TXTProcessor:
+    def __init__(self, directory: str = None, encoding: str = 'utf-8'):
+        self.directory = directory
+        self.encoding = encoding
+        self.file_paths = []
+
+    def get_txt_files(self) -> list:
+        if not self.directory:
+            raise ValueError("Directory is not specified.")
+        self.file_paths = glob.glob(os.path.join(self.directory, "*.txt"))
+        return self.file_paths
+
+    def setup_txt(self, file_path: str) -> list:
+        if not os.path.exists(file_path):
+            raise FileNotFoundError(f"File not found: {file_path}")
+        file_name = os.path.basename(file_path)
+        loader = TextLoader(file_path, encoding=self.encoding)
+        loaded_docs = loader.load()
+        for doc in loaded_docs:
+            doc.metadata['source'] = file_name
+        return loaded_docs

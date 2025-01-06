@@ -1,155 +1,89 @@
-from data_ingestion import setup_knowledge_base # step1_loaddata
-from chunking import text_splitter # step2_chunking
-from raptor import RaptorPipeline # step3_RAPTOR
-from vector_db import MilvusStorePipeline  # step4_vector_store
-from vector_db import MilvusRetrieval # step5_retrieval
-import pickle
+from milvus_db import MilvusDB, MilvusQADB# step4_vector_store
+from utils import convert_df_to_documents
+from model_config import VietnameseEmbeddings
 import os
 import pandas as pd
-from langchain_core.messages import HumanMessage, SystemMessage
-from model_config import load_gpt4o_mini_model
-import streamlit as st 
-def step1_load_data():
-    """
-    Load và làm sạch tài liệu PDF.
-    """
-    # Đường dẫn đến thư mục chứa file PDF
-    pdf_directory = r'D:\DATN\QA_System\data'
-    # Đường dẫn đến file PDF cụ thể (có thể có hoặc không)
-    specific_pdf = r'D:\DATN\QA_System\data\20230710 1. QĐ Học bổng KKHT 2023.pdf'
-    
-    # Gọi hàm setup_knowledge_base để load và làm sạch tài liệu
-    documents = setup_knowledge_base(pdf_directory, specific_pdf= specific_pdf)
-
-    # In số lượng tài liệu đã load và làm sạch
-    print(f"Tổng số trang tài liệu đã load và làm sạch: {len(documents)}")
-    return documents
-def step2_chunking():
-    pages = step1_load_data()
-    chunks = text_splitter.split_documents(pages)
-    for i, chunk in enumerate(chunks):
-        chunk.metadata["id"] = str(i)
-    chunks_metadata = [chunk.metadata for chunk in chunks]
-    chunks_content = [chunk.page_content for chunk in chunks]
-    return chunks_metadata, chunks_content
-
-def step3_RAPTOR(refresh_final_df: bool = False):
-    """
-    Gom cụm và tóm tắt các tài liệu.
-    
-    Tham số:
-    - refresh_final_df: Bool, nếu True sẽ làm mới và xây dựng lại final_df từ đầu.
-    """
-    # Đường dẫn để lưu DataFrame (pickle format)
-    final_df_path = "final_df768.pkl"
-    
-    if not refresh_final_df and os.path.exists(final_df_path):
-        # Nếu file tồn tại và không cần làm mới, tải final_df từ file đã lưu
-        print("Đang tải final_df từ file...")
+def load_final_df():
+    final_df_path = r"D:\DATN\QA_System\data_analyze\finaldf.pkl"
+    if os.path.exists(final_df_path):
         final_df = pd.read_pickle(final_df_path)
+        print(f"Đã load final_df từ file: {final_df_path}")
+        return final_df
     else:
-        # Nếu file chưa tồn tại hoặc yêu cầu làm mới, xây dựng final_df từ đầu
-        print("Xây dựng final_df từ đầu...")
-        chunks_metadata, chunks_content = step2_chunking()
-        raptor = RaptorPipeline()
-        
-        # Thực hiện gom cụm và tóm tắt
-        results = raptor.recursive_embed_cluster_summarize(chunks_content, chunks_metadata, level=1, n_levels=3)
-        
-        # Xây dựng DataFrame cuối cùng
-        final_df = raptor.build_final_dataframe(results)
-        
-        # Lưu final_df vào file pickle
-        final_df.to_pickle(final_df_path)
-        print(f"Đã lưu final_df vào file: {final_df_path}")
-        # Lưu trữ csv
-        final_df.to_csv("final_df768.csv", index=False)
-        print("Đã lưu trữ vector của các tài liệu vào file final_df.csv.")
-    
-    print(final_df.head())
-    return final_df
+        print("File final_df chưa tồn tại.")
+        return None
 def step4_vector_store():
     """
-    Store document vectors in Qdrant Cloud.
+    Store document vectors
     """
-    final_df = step3_RAPTOR()
-    store = MilvusStorePipeline(collection_name="test", df=final_df)
-    store.create_collection_cloud()
-    print("Stored document vectors in Milvus Cloud.")
-
-def step5_retrieval(query: str, collection_name: str = "test", top_k: int = 5):
-    """
-    Perform a retrieval operation on Milvus with the specified query.
+    final_df = load_final_df()
+    documents = convert_df_to_documents(final_df)
+    corpus=[doc.page_content for doc in documents]
+    # Tạo Milvus database
+    milvus_db = MilvusDB(collection_name="hybrid_demo", corpus=corpus)
+    milvus_db.create_collection()
+    milvus_db.insert_documents(documents)
+# Tối ưu 1: Sử dụng singleton pattern để cache DataFrame và corpus
+class DataManager:
+    _instance = None
+    _final_df = None
+    _corpus = None
     
-    :param query: The query string for similarity search.
-    :param collection_name: The name of the Milvus collection.
-    :param top_k: Number of top similar documents to retrieve.
-    :return: Retrieved context documents.
-    """
-    retrieval = MilvusRetrieval(collection_name=collection_name)
-    combined_input = retrieval.similarity_search(query=query, top_k=top_k)
-    # Create a ChatOpenAI model
-    chat_model = load_gpt4o_mini_model()
+    @classmethod
+    def get_instance(cls):
+        if cls._instance is None:
+            cls._instance = cls()
+        return cls._instance
+    
+    def get_final_df(self):
+        if self._final_df is None:
+            print("Loading final_df from file...")
+            self._final_df = load_final_df()
+        return self._final_df
+    
+    def get_corpus(self):
+        if self._corpus is None:
+            documents = convert_df_to_documents(self.get_final_df())
+            self._corpus = [doc.page_content for doc in documents]
+        return self._corpus
 
-    # Define the messages for the model
-    messages = [
-        SystemMessage(content="You are a helpful assistant."),
-        HumanMessage(content=combined_input),
-    ]
+# Tối ưu 2: Singleton pattern cho MilvusDB để tránh khởi tạo lại
+class MilvusManager:
+    _instance = None
+    _milvus_db = None
+    _milvus_qa_db = None
+    @classmethod
+    def get_instance(cls):
+        if cls._instance is None:
+            cls._instance = cls()
+        return cls._instance
+    
+    def get_milvus_db(self, collection_name):
+        if self._milvus_db is None:
+            data_manager = DataManager.get_instance()
+            corpus = data_manager.get_corpus()
+            self._milvus_db = MilvusDB(collection_name=collection_name, corpus=corpus)
+            self._milvus_db.load_collection()
+        return self._milvus_db
+    def get_milvus_qa_db(self, qa_collection_name):
+            # Khởi tạo QA collection
+        if self._milvus_qa_db is None:
+            self._milvus_qa_db = MilvusQADB(collection_name=qa_collection_name)
+            self._milvus_qa_db.load_qa_collection()
+        return self._milvus_qa_db
 
-    # Invoke the model with the combined input
-    result = chat_model.invoke(messages)
-    return result.content
-    # # Display the full result and content only
-    # print("\n--- Generated Response ---")
-    # print(result.content)
-
-# Streamlit app interface
-import time  # Import time for response time calculation
-
-if __name__ == "__main__":
-    st.set_page_config(page_title="QA Chatbot System")
-    st.title("QA Chatbot System")
-
-    # Initialize session state for input counter if not exists
-    if 'input_key' not in st.session_state:
-        st.session_state.input_key = 0
-
-    # Use dynamic key for text input
-    user_query = st.text_input("Enter your question:", key=f"user_input_{st.session_state.input_key}")
-
-    if st.button("Get Answer"):
-        if user_query.strip():
-            try:
-                # Measure response time
-                start_time = time.process_time()
-                response = step5_retrieval(query=user_query, top_k=5)  # Original function call
-                response_time = time.process_time() - start_time
-
-                # Display response time
-                st.write(f"**Response time:** {response_time:.2f} seconds")
-
-                # Check if response is a string or dictionary
-                if isinstance(response, str):
-                    # If response is a string, display it as the answer
-                    st.write("### Answer:")
-                    st.write(response)
-                else:
-                    # If response is a dictionary, display 'answer' and 'context'
-                    st.write("### Answer:")
-                    st.write(response.get("answer", "No answer available."))
-
-                    # Optionally show document similarity search
-                    with st.expander("Document Similarity Search"):
-                        for i, doc in enumerate(response.get("context", [])):
-                            st.write(f"**Document {i + 1}**")
-                            st.write(doc.page_content)
-                            st.write("-----------------------------------")
-
-                # Increment the key to force a new input field
-                st.session_state.input_key += 1
-
-            except Exception as e:
-                st.write("Error:", e)
-        else:
-            st.write("Please enter a question to get an answer.")
+# Tối ưu 3: Cập nhật hàm step5_retrieval
+def step5_retrieval(collection_name: str):
+    data_manager = DataManager.get_instance()
+    milvus_manager = MilvusManager.get_instance()
+    corpus = data_manager.get_corpus()
+    milvus_db = milvus_manager.get_milvus_db(collection_name)
+    return corpus, milvus_db 
+def step6_qa_db(collection_name: str):
+    milvus_manager = MilvusManager.get_instance()
+    milvus_qa_db = milvus_manager.get_milvus_qa_db(collection_name)
+    return milvus_qa_db
+# if __name__ == "__main__":
+#     copus, milvus_db = step5_retrieval("hybrid_demo")
+#     relevant_docs = milvus_db.perform_retrieval(query="giám đốc đại học là ai", top_k=5)
+#     print(relevant_docs)

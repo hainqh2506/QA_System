@@ -1,0 +1,24 @@
+Giới thiệu chung
+Tên tiếng Anh: International Centre for R&D on Satellite Navigation Technology in South East Asia (NAVIS Centre)
+Giám đốc: PGS. Lã Thế Vinh
+Đồng Giám đốc Quốc tế: GS. Gustavo Belforte
+Địa chỉ: Phòng 605, Thư viện Tạ Quang Bửu, Đại học Bách khoa Hà Nội
+Email: navis@hust.edu.vn
+Website: navis.hust.edu.vn
+Trong khuôn khổ Dự án FP7 SEAGAL được tài trợ bởi Liên minh Châu Âu, Trung tâm Quốc tế Nghiên cứu và Phát triển Công nghệ định vị sử dụng vệ tinh (NAVIS) được thành lập tại Trường Đại học Bách Khoa Hà Nội vào năm 2010, với mục đích thúc đẩy các hoạt động nghiên cứu, phát triển, đào tạo, và chuyển giao công nghệ GNSS, đặc biệt là công nghệ EGNSS (Galileo) của Châu Âu tại khu vực Đông Nam Á. Tháng 2/2012, Trung tâm chuyển sang mô hình trung tâm quốc tế hỗn hợp với cơ chế đồng giám đốc Việt Nam và Italia. Tháng 2/2020, nhằm tinh gọn bộ máy quản lý, ĐHBK Hà Nội quyết định sáp nhập về mặt hành chính Trung tâm NAVIS về Viện Công nghệ Thông tin và Truyền thông.
+Trải qua 10 hình thành và phát triển, Trung tâm NAVIS đã xây dựng một mạng lưới hợp tác quốc tế rộng khắp với các đối tác truyền thống Châu Âu (Đại học Bách khoa Torino, Đại học Bách khoa Catalunya, LINKS, Viện Nghiên cứu về Địa Vật lý và Núi lửa Quốc gia Italia…), Nhật Bản, Úc, các nước Đông Nam Á… Thông qua hợp tác quốc tế, Trung tâm đã và đang thực hiện các đề tài/dự án quốc tế với nguồn kinh phí rất cạnh tranh như: FP7 (SEAGAL, Growing NAVIS), Horizon 2020 (BELS, BELS+), và nhiều hợp đồng nghiên cứu với các tổ chức quan trọng như: Cơ quan Vũ trụ Châu Âu (ESA), Cơ quan GNSS Châu Âu (GSA), Trung tâm Nghiên cứu Hỗn hợp thuộc Ủy ban Châu Âu (JRC – EC)…
+Trung tâm hiện đang triển khai và vận hành 3 trạm giám sát chất lượng tín hiệu định vị:
+Trạm Giám sát tín hiệu đa hệ thống GNSS: hợp tác với Cơ quan Vũ trụ Nhật Bản (JAXA). Đây là 1 trong 20 trạm lõi thuộc Hệ thống giám sát tín hiệu đa hệ thống toàn cầu – Multi GNSS Monitoring (MGM-Net) của JAXA.
+Trạm Giám sát tín hiệu hệ thống GNSS/Galileo: hợp tác với Cơ quan Vũ trụ Châu Âu (ESA). Trạm tập trung vào phân tích chất lượng của các tín hiệu hệ thống Galileo của Châu Âu bên ngoài lãnh thổ Châu Âu.
+Trạm Giám sát và phát hiện hiện tượng nhấp nháy tầng điện ly (ionospheric scintillation): hợp tác với Trung tâm Nghiên cứu Hỗn hợp (Joint Research Center – JRC) thuộc Ủy ban Châu Âu (European Commission – EC). Hệ thống có khả năng phát hiện các bất thường của tầng điện ly ở khu vực Hà Nội, dữ liệu thu thập được phù hợp cho đánh giá khả năng “sống sót” của các bộ thu trong các điều kiện hoạt động khó khăn.
+Về nghiên cứu khoa học và chuyển giao công nghệ, Trung tâm có những thành tựu nổi bật sau:
+2013: NAVIS là 1 trong 50 đơn vị đầu tiên trên thế giới, 1 trong 3 đơn vị đầu tiên tại Châu Á (cùng với 2 đơn vị của Nhật Bản và Trung Quốc) được Cơ quan Vũ trụ Châu Âu (European Space Agency – ESA) chứng nhận chế tạo thành công bộ thu định vị Hệ thống Galileo (tương tự GPS, do EU phát triển);
+2015: Giải Nhất duy nhất của Giải thưởng NHÂN TÀI ĐẤT VIỆT 2015 với sản phẩm: “Bộ giải pháp định vị GPS/GNSS ứng dụng trong định vị độ chính xác cao (cỡ cm) và nâng cao độ an toàn / an ninh trong định vị vệ tinh – NAVISTAR”;
+NAVIS trên sân khấu nhận Giải Nhất Nhân tài Đất Việt 2015.
+Giấy chứng nhận của Cơ quan Vũ trụ Châu Âu xác nhận NAVIS là một trong 50 tổ chức sử dụng tín hiệu Galileo đầu tiên trên Thế giới.
+Từ 2015: Hợp tác với Tổng cục Đường bộ Việt Nam trong tư vấn, thẩm định, và xây dựng các quy chuẩn liên quan đến triển khai các hệ thống giám sát hành trình (như: Trung tâm GSHT của Tổng cục Đường bộ, Hệ thống Bản đồ số ứng dụng trong GSHT, Quy chuẩn Thiết bị đo thời gian và quãng đường học thực hành lái xe, Quy chuẩn Thiết bị mô phỏng thực hành lái xe, Quy chuẩn Thiết bị GSHT…).
+Từ 2016: triển khai các hệ thống giám sát xe chở tiền và hàng hóa đặc biệt NAVISTAR cho Ngân hàng Nhà nước, VietinBank, BIDV…
+Từ 2017: Hợp tác với Cục Đo đạc, Bản đồ và Thông tin Địa lý Việt Nam trong đánh giá và thẩm định hồ sơ dự án triển khai mạng lưới CORS tại Việt Nam.
+2018: chuyển giao hệ thống phân tuyến xe bus và giám sát học sinh NAVIMOS cho VinSchool.
+2019: chuyển giao hệ thống mô phỏng tín hiệu NAVISIM cho Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng 2 (QUATEST 2) – Đà Nẵng.
+Trung tâm NAVIS cũng đã chứng tỏ được uy tín không chỉ ở Việt Nam mà còn trong khu vực, điều này thể hiện qua việc: PGS. Tạ Hải Tùng (nguyên Giám đốc Trung tâm, nay là Viện trưởng Viện CNTT&TT) được bầu làm Đồng Chủ tịch Tổ chức Định vị Đa hệ thống Châu Á (GNSS.asia) – Tổ chức chuyên môn về GNSS lớn nhất Châu Á và Châu Đại dương – từ 2016 đến 2019; và PGS. Lã Thế Vinh (Giám đốc Trung tâm) là thành viên Ban Điều hành từ 2019.

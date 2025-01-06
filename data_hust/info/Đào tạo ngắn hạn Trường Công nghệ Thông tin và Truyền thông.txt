@@ -1,0 +1,7 @@
+Với mục đích trang bị kỹ năng số, cũng như các kiến thức chuyên ngành phù hợp với các nhu cầu khác nhau của người học, hiện tại, Trường CNTT&TT đang cung cấp các chương trình đào tạo ngắn hạn, với các nội dung chuyên sâu được thiết kế riêng để phù hợp cho các đối tượng khác nhau (nhà quản lý chính sách, nhà quản lý công nghệ, nhân viên kỹ thuật, kỹ sư chuyển đổi từ các lĩnh vực khác):
+Khóa đào tạo về Khoa học Dữ liệu (Data Science);
+Khóa đào tạo về Trí tuệ Nhân tạo (Artificial Intelligence – AI);
+Khóa đào tạo về Xử lý Dữ liệu lớn (Big Data);
+Khóa đào tạo về Công nghệ Chuỗi khối (Blockchain);
+và nhiều khóa đào tạo khác
+Các khóa đào tạo này được triển khai bởi Trung tâm Công nghệ và Giải pháp Chuyển đổi số trong Giáo dục (EdTech) thông qua nền tảng DaoTao.ai của nhà trường.

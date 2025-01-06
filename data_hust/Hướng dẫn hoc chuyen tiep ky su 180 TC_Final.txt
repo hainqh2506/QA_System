@@ -1,0 +1,33 @@
+HƯỚNG DẪN HỌC TẬP CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU ĐẶC THÙ (180 TC)
+1. Phạm vi áp dụng
+Áp dụng với sinh viên các khóa từ K62 đang học tập và muốn tiếp tục học theo chương trình đào tạo kỹ sư chuyên sâu đặc thù.
+Áp dụng với các chương trình đào tạo (CTĐT) có đào tạo bậc kỹ sư chuyên sâu đặc thù (KS).
+2. Điều kiện học chuyển tiếp Cử nhân Kỹ sư chuyên sâu đặc thù
+A. Sinh viên chưa tốt nghiệp cử nhân:
+Tích lũy từ 118 tín chỉ trở lên của CTĐT cử nhân được học trước tối đa 15 tín chỉ của CTĐT KS.
+Học phần tích lũy trước chỉ được công nhận sau khi tốt nghiệp cử nhân và đăng ký học tiếp CTĐT KS.
+B. Sinh viên đã tốt nghiệp cử nhân:
+Được đăng ký xét tuyển học CTĐT KS theo quy định riêng.
+C. Sinh viên chương trình Elitech:
+Có thể học chuyển tiếp lên CTĐT KS chuẩn.
+D. Yêu cầu về hướng chuyên sâu:
+Hướng chuyên ngành KS phải phù hợp với định hướng cử nhân.
+Nếu chọn hướng khác, cần học bổ sung theo quy định.
+3. Đăng ký tốt nghiệp cử nhân
+Hoàn thành CTĐT cử nhân (bao gồm Thực tập kỹ thuật 2 TC và Đồ án tốt nghiệp 6 TC).
+Đăng ký tốt nghiệp cử nhân và học chuyển tiếp CTĐT KS.
+Sinh viên tốt nghiệp cử nhân chưa đăng ký học tiếp KS không được đăng ký học kỳ kế tiếp.
+4. Điểm trung bình và xếp hạng tốt nghiệp kỹ sư
+Điểm học phần KS không tính cho học bổng bậc cử nhân.
+Điểm trung bình toàn khóa KS tính cả giai đoạn cử nhân và kỹ sư.
+Xếp bậc năng lực: Hoàn thành CTĐT và đạt chứng chỉ ngoại ngữ B2 được cấp bằng Kỹ sư chuyên sâu đặc thù Bậc 7.
+5. Thông tin trên hệ thống quản lý học tập
+Sinh viên tốt nghiệp cử nhân và đăng ký học KS được cấp mã số mới.
+Chưa đăng ký học KS: Trạng thái "Tốt nghiệp ra trường".
+Thời gian học KS tính từ quyết định cho phép học.
+6. Bảo hiểm y tế, thẻ học viên và học bổng
+Bắt buộc có bảo hiểm y tế.
+Được cấp thẻ học viên.
+Không áp dụng học bổng khuyến khích học tập.
+7. Học phí
+Mức thu tương đương học phí bậc đại học (Cử nhân).

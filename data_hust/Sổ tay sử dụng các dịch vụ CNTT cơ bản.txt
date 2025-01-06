@@ -1,0 +1,261 @@
+SỔ TAY HƯỚNG DẪN SỬ DỤNG NHANH CÁC DỊCH VỤ CNTT DÙNG CHUNG TRONG TRƯỜNG ĐHBK HN 
+Tài liệu lưu hành nội bộ
+Trung tâm Mạng Thông tin
+Văn phòng: P922 - Thư viện Tạ Quang Bửu - Trường ĐHBK HN
+SĐT hotline Office 365: 0243 868 2203
+SĐT hotline LMS/ Teams: 0243 868 3188
+SĐT hotline Wifi HUST: 0243 668 1426
+Trang web: https://bknic.hust.edu.vn/
+Email: office-bknic@hust.edu.vn
+I. MỤC ĐÍCH TÀI LIỆU3
+II. PHẠM VI ÁP DỤNG3
+III. NỘI DUNG3
+1. Giới thiệu chung về Office 365 và hệ thống Wifi HUST
+2. Hướng dẫn cài đặt Office 365 trên máy tính
+3. Hướng dẫn quản lý tài khoản Office 365
+3.1 Hướng dẫn tự đổi mật khẩu8
+3.2 Hướng dẫn đăng ký mới hoặc reset lại mật khẩu bị mất
+3.3 Hướng dẫn thiết lập xác thực hai lớp
+4. Hướng dẫn sử dụng nhanh hệ thống wifi HUST
+5. Hướng dẫn sử dụng các ứng dụng Office 365 và hệ thống LMS
+5.1 Hướng dẫn sử dụng Teams
+5.2 Hướng dẫn sinh viên làm bài kiểm tra trên Microsoft Teams
+5.3 Hướng dẫn sinh viên nộp bài tập trên Microsoft Teams
+5.4 Giới thiệu các phần mềm khác của Office 365
+5.5 Hướng dẫn sử dụng LMS Moodle
+ I. MỤC ĐÍCH TÀI LIỆU
+ Tài liệu hỗ trợ cho sinh viên trường Đại học Bách Khoa Hà nội sử dụng nhanh một số các dịch vụ CNTT dùng chung thiết yếu trong Nhà trường như các phần mềm của Office 365, dịch vụ Wifi HUST, hệ thống LMS Moodle trong quá trình học tập tại Nhà trường. Tuy nhiên trong khuôn khổ tài liệu không thể đưa đầy đủ toàn bộ thông tin hướng dẫn sử dụng của tất cả các phần mềm dịch vụ CNTT mà chỉ tập trung giới thiệu những nội dung cơ bản nhất phục vụ học tập tại Nhà trường, để xem đầy đủ các hướng dẫn sử dụng các dịch vụ phần mềm cung cấp xin xem chi tiết tại website của TT MTT: https://bknic.hust.edu.vn/ 
+ II. PHẠM VI ÁP DỤNG
+Đối tượng sử dụng tài liệu là các bạn sinh viên trường Đại học Bách Khoa Hà nội. Tài liệu chỉ được lưu hành nội bộ.
+III. NỘI DUNG
+1. Giới thiệu chung về Office 365 và hệ thống Wifi HUST
+Office 365 là một hệ thống gồm nhiều phần mềm hỗ trợ giảng dạy và học tập hiệu suất cao (bao gồm Word, PowerPoint, Excel, Outlook, OneNote, Publisher, Access, …). Office 365 được xem là phiên bản nâng cao của Microsoft Office truyền thống khi được tích hợp công nghệ điện toán đám mây giúp người dùng có thể truy cập và sử dụng mọi lúc mọi nơi cũng như chia sẻ trực tuyến với những người khác. Office 365 này cũng được Microsoft cung cấp trên nhiều nền tảng, thiết bị khác nhau như máy tính, máy tính bảng và điện thoại thông minh, và tất nhiên tất cả các dữ liệu trên các thiết bị này đều được đồng bộ theo thời gian thực.
+Ngoài những ứng dụng cốt lõi như Word, Excel và PowerPoint là những công cụ văn phòng truyền thống của Microsofr (không được giới thiệu trong sổ tay này), Office 365 còn cung cấp thêm nhiều dịch vụ khác phục vụ cho các tổ chức và doanh nghiệp như Form, Yammer, Microsoft Teams, Sway, etc.
+Bản quyền phần mềm Office 365 của Trường Đại học Bách Khoa Hà Nội cung cấp cho giảng viên/ sinh viên cho phép người dùng tiếp cận trải nghiệm Office trên tối đa trên 5 thiết bị gồm PC Windows/  máy MacOS và trên các thiết bị di động. Ngoài ra, Office 365 cho phép các tùy chọn triển khai mới linh hoạt mà người dùng cá nhân và/hoặc chuyên viên CNTT có thể chọn để cài đặt Office hoặc có thể chạy online trực tiếp từ trang https://office.com không giống các phiên bản Office truyền thống trước đây.
+Hệ thống Wifi HUST là hệ thống wifi miễn phí cung cấp trên giảng đường, các phòng thí nghiệm để phục vụ giảng viên/ sinh viên phục vụ công tác học tập. Hệ thống Wifi Nhà trường được cung cấp miễn phí và sử dụng chính tài khoản Office 365 để đăng nhập sử dụng.
+2. Hướng dẫn cài đặt Office 365 trên máy tính 
+Lưu ý: Để cài đặt phiên bản mới sinh viên nên Gỡ hoặc xóa Microsoft cũ/hết hạn. Để cài đặt O365 các bạn theo các hướng dẫn sau:
+Bước 1. Truy cập www.offfice.com và đăng nhập bằng tài khoản email trường cấp 
+Bước 2. Chọn tài khoản email trường cấp 
+Bước 3. Nhập vào mật khẩu email
+Bước 4. Chọn chọn Install Office. 
+Bước 5. Chọn Office 365 apps để tải về file cài đặt
+Vào download để chạy bản OfficeSetup.exe vừa tải về máy theo các bước hướng dẫn
+Bước 7. Click OfficeSetup .exe 
+Sau khi cài đặt xong, mở OneNote hoặc bất kỳ một ứng dung nào khác có trong Office 365 để kích hoạt bản quyền, nhập user vào với được cấp và nhấn Next để tiếp tục
+Tiếp sau đó nhập user và password và nhấn Sign in để đăng nhập kích hoạt. Kích hoạt thành công nhấn Ok
+3. Hướng dẫn quản lý tài khoản Office 365
+Lưu ý: Các bạn sinh viên cần đổi mật khẩu ngay khi được cấp tài khoản. 
+3.1 Hướng dẫn tự đổi mật khẩu
+Bước 1: Đăng nhập vào địa chỉ ctt.hust.edu.vn
+Bước 2: Sau khi đăng nhập “Đăng nhập”, chọn mục “Đổi mật khẩu”
+Bước 3: Điền thông tin vào form đổi mật khẩu bao gồm
+1. Thông tin cá nhân
+Email muốn đổi. Ví dụ: lan.nth171234@sis.hust.edu.vn
+Mật khẩu cũ
+2. Mật khẩu mới: Nhập mật khẩu mới và xác nhận lại mật khẩu mới
+(Lưu ý: Tất cả các bạn sinh viên của trường đại học Bách Khoa có thẻ sinh viên (vẫn còn hạn sử dụng thì đều có thể thực hiện việc đăng ký online)
+3.2 Hướng dẫn đăng ký mới hoặc reset lại mật khẩu bị mấtTop of Form
+Bước 1: Gõ địa chỉ ctt.hust.edu.vn
+Chọn mục “Đăng nhập”
+Bước 2: Trong trang “Đăng nhập”, chọn mục “Quên mật khẩu”
+Bước 3: Điền thông tin vào form đăng ký bao gồm
+1. Thông tin cá nhân
+Mã số sinh viên
+Điện thoại
+Email đã đăng ký với phòng CTSV 
+CMT hoặc thẻ căn cước
+Nơi cấp CMT hoặc thẻ căn cước
+Ngày cấp CMT hoặc thẻ căn cước theo định dạng dd/mm/yyyy
+2. Nhấn nút “Chọn ảnh” để tải ảnh CMT của bạn
+3. Nhấn vào nút “Gửi thông tin”
+Mỗi sinh viên được tạo một tài khoản email sinh viên có định dạng là “tên sinh viên” . “viết tắt họ đêm” “mã sinh viên bỏ số 20 ở đầu” @sis.hust.edu.vn
+Ví dụ: Sinh viên tên là Nguyễn Thị Hoàng Lan mã sinh viên20171234 có địa chỉ hòm thư là : lan.nth171234@sis.hust.edu.vn
+Để đăng ký tạo hòm thư mới hoặc đổi mật khẩu hòm thư cũ sinh viên thực hiện các bước như trên.
+(Lưu ý: Tất cả các bạn sinh viên của trường đại học Bách Khoa có thẻ sinh viên (vẫn còn hạn sử dụng thì đều có thể thực hiện việc đăng ký online)
+3.3 Hướng dẫn thiết lập xác thực hai lớp
+Bảo mật 2 lớp, hay còn gọi tắt là 2FA (2-factor authentication) là việc thêm một bước vào hoạt động đăng nhập thông thường của bạn. Nếu không có 2FA, bạn sẽ chỉ nhập tên người dùng và mật khẩu để đăng nhập vào hệ thống, tài khoản của mình. Phần mật khẩu sẽ là tầng bảo vệ duy nhất cho tài khoản. Trong khi đó, lớp bảo mật thứ hai được thêm vào sẽ giúp bạn bảo vệ tài khoản tốt hơn.
+Sau khi người quản trị bên bạn kích hoạt tổ chức và tài khoản của bạn, để sử dụng tính năng xác thực đa yếu tố (MFA), bạn phải thiết lập tài khoản người dùng để sử dụng tính năng này. Quá trình này sẽ chỉ diễn ra trong khoảng một phút trở lên. Đăng nhập vào Microsoft 365 bằng tài khoản cơ quan hoặc trường học bằng mật khẩu của bạn như bạn thường làm. Sau khi chọn Đăng nhập,bạn sẽ được nhắc để biết thêm thông tin.
+Một hộp thoại cho bạn biết rằng cần có thêm thông tin để hoàn thành quá trình đăng nhập của bạn
+Chọn Tiếp theo/ Next.
+Phương pháp xác thực mặc định là sử dụng ứng dụng Microsoft Authenticator miễn phí. Bạn cần cài đặt ứng dụng trên thiết bị di động của mình, chọn Tiếp theo, rồi làm theo lời nhắc để thêm tài khoản này. Nếu bạn chưa cài đặt ứng dụng này, có một liên kết được cung cấp để tải xuống.
+Ngoài ra, nếu thay vào đó bạn muốn sử dụng tin nhắn SMS được gửi đến điện thoại của mình, hãy chọn Tôi muốn thiết lập một phương thức khác. Microsoft 365 số di động của bạn, sau đó gửi cho bạn tin nhắn SMS có chứa mã 6 chữ số để xác minh thiết bị của bạn.
+Nhập mã xác thực được gửi đến tin nhắn điện thoại và lựa chọn “Kiểm chứng”
+Xác thực thành công, lựa chọn “Hoàn tất”
+Mỗi lần đăng nhập trên một máy tính lạ ngoài mật khẩu sẽ xác thực qua tin nhắn OTP gửi đến điện thoại, chúng ta cần nhập mã OTP – One Time Password và lựa chọn “Kiểm chứng”
+Sau khi bạn hoàn thành các hướng dẫn để chỉ định phương pháp xác minh bổ sung, vào lần đăng nhập tiếp theo vào Microsoft 365, bạn sẽ được nhắc cung cấp thông tin hoặc hành động xác minh bổ sung, chẳng hạn như nhập mã xác minh do ứng dụng trình xác thực cung cấp hoặc gửi cho bạn qua tin nhắn văn bản.
+Ngoài ra, bạn có thể vào trực tiếp liên kết https://mysignins.microsoft.com/ để thay đổi các phương thức xác thực.
+Giao diện tuỳ chỉnh xác thức hai yếu tố trên https://mysignins.microsoft.com
+4. Hướng dẫn sử dụng nhanh hệ thống wifi HUST
+Bước 1: Tham gia vào một mạng Wifi HUST đang hiện có
+Bước 2: Kết nối vào Internet và xác thực bằng cách sử dụng tài khoản Office 365. Sau khi Bước 1 thành công, người dùng mở một trình duyệt bất kỳ như Chrome, IE, FireFox... và gõ vào một địa chỉ kết nối đến một trang mạng bất kỳ (ví dụ: dantri.com.vn) thì trên màn hình hiển thị của các thiết bị di động, laptop, desktop sẽ tự động hiển thị màn hình đăng nhập như bên dưới:
+Người dùng gõ thông tin tài khoản người sử dụng và mật khẩu Office 365 cá nhân của mình được Nhà trường cấp, sau đó nhấn nút "Connect" để thực hiện việc kết nối. Phần username chỉ điền tên cá nhân hòm thư không cần đuôi :@hust.edu.vn" ví dụ: anh.nguyenvan (không cần đuôi @hust.edu.vn).
+Một vài chú ý:
+Trong trường hợp một số máy không tự động bật màn hình đăng nhập thì người dùng có thể tự thao tác bằng cách mở một trình duyệt bất kỳ( IE, FireFox, Chrome.. ) sau đó vào thanh địa chỉ gõ một link website bất kỳ( Ex: https://hust.edu.vn) thì trên màn hinh sẽ đẩy ra giao diện đăng nhập và kết nối như trên.
+Khuyến cáo cài đặt đồng thời một số trình duyệt như Chrome, IE, Firefox. Trong trường hợp khi người sử dụng đã bật trình duyệt và gõ đường link kết nối internet mà vẫn không xuất hiện giao diện đăng nhập thậm chí đã tự thao tác như bước trên thì thông thường do trình duyệt đã quá nặng các file cookie, cache. Người dùng cần phải làm nhẹ trình duyệt của mình bằng cách vào "Cài đặt" trên trình duyệt để xóa các file đó. Một cách đơn giản khác, người dùng cũng có thể sử dụng phần mềm miễn phí CCleaner để dọn dẹp máy tính gồm cả trình duyệt của mình. 
+Do trên hệ thống có giới hạn thời gian sử dụng Internet của mỗi người dùng, cho nên hết thời gian này người dùng sẽ phải đăng nhập lại, cụ thể sẽ quay lại Bước 2 để kết nối bình thường.
+5. Hướng dẫn sử dụng các ứng dụng Office 365 và hệ thống LMS
+5.1 Hướng dẫn sử dụng Teams
+Microsoft Teams là ứng dụng trò chuyện, họp, gọi và cộng tác trực tuyến bất kể bạn ở đâu. Microsoft Teams là một trong những phần mềm dạy học trực tuyến được dùng để dạy học và làm việc online giúp nhóm của bạn duy trì được công việc từ xa đồng thời nâng cao hiệu suất làm việc. Trường Đại học Bách Khoa Hà nội sử dụng Microsoft Teams để phục vụ giảng dạy từ xa thời gian thực. Để sử dụng Microsoft Teams học trực tuyến, sinh viên có thể lựa chọn sử dụng ứng dụng trên web browser hoặc sử dụng ứng dụng cài đặt trực tiếp trên hệ điều hành Windows (hoặc MacOS), hoặc sử dụng trên điện thoại (Android/ hoặc iOS). Hướng dẫn nhanh sử dụng Microsoft Teams trên web browser (sử dụng trên ứng dụng app hoàn toàn tương tự).
+Bước 1. Đăng nhập vào https://www.office.com, chọn công cụ và khởi động ứng dụng Teams (ở góc trên cùng bên trái màn hình)/ Hoặc mở ứng dụng MS Teams đã cài đặt trên máy tính.
+Bước 2: Để tham gia lớp học, sinh viên cần chọn tính năng Join or Create Team 
+Bước 3: Sau khi nhập đúng mã lớp (xem trên phần mềm quản lý đào tạo) sẽ được tham gia vào lớp học tương ứng.
+Bước 4: Click Meet now để khởi động một cuộc họp trực tuyến.
+Bước 5: Sinh Viên phải chọn Use your microphone hoặc Camera nếu muốn khi tham gia học tập . Click Allow
+Bước 6. Để tham gia một cuộc họp/ học trực tuyến, click Join now để tham gia vào giờ học, hoặc chọn tham gia trên Calendar/ Lịch
+Chú ý: Tăt mic trước khi tham gia để tránh làm phiền người cùng tham dự cuộc họp
+hoặc chỉ bật mic và camera khi có yêu cầu 
+Hướng dẫn chi tiết sử dụng phần mềm Teams xem tại https://bknic.hust.edu.vn/ 
+5.2 Hướng dẫn sinh viên làm bài kiểm tra trên Microsoft Teams 
+Bước 1. Khởi động ứng dụng Microsoft Teams
+Bước 2. Vào đúng lớp học ở menu Teams bên trái màn hình
+Bước 3. Click chọn bài kiểm tra 
+Bước 4: Tích hoặc trả lời cho phương án trả lời đúng 
+Bước 5: Sinh viên làm bài xong nhấn nút Submit 
+Bước 6: Nhấn View result để xem kết quả
+Bước 7: Xem lại kết quả làm bài 
+5.3 Hướng dẫn sinh viên nộp bài tập trên Microsoft Teams 
+Vào phần  Assignment trong lớp học 
+Bước 1: Click vào Reply để phản hồi lại GV về việc nhận được yêu cầu làm Assignment 
+Bước 2: Click Attach file
+Bước 3: Upload from my computer (SV chọn file bài tập cần gửi cho GV từ máy tính của mình)
+Bước 4. Chọn file trên máy tính cần Upload để nộp 
+Bước 5. Click nút Send để gửi bài
+Giao diện khi gửi bài tập thành công 
+Chú ý: Cách nộp này SV không lưu được điểm bài làm của mình lên Teams
+HƯỚNG DẪN NỘP ASSIGNMENT CÓ LƯU  ĐIỂM TRÊN TEAMS
+Bước 1: Click View assignments
+Bước 2: Khi đó Assignment GV giao cho SV sẽ vào muc Assignment 
+Bước 3: Click Add work
+Bước 4: Chọn file cần upload từ máy tính của mình
+Bước 5: Click Done khi File đã được upload lên
+Bước 6: Nhớ sau khi gửi file bài tập cho giảng viên thì sinh viên phải bấm TURN IN  để hoàn tất quá trình nộp bài. Nếu không bấm Turn in bài sẽ coi như chưa nộp bài và không có điểm
+Bước 7: Thông báo gửi bài thành công 
+Bước 8: Xem điểm và nhận xét của giảng viên trong Assignment
+Trong General chọn Grades
+Giao diện xem điểm các bài kiểm tra và assignment
+Click vào Feedback Xem phản hồi của Giảng viên về bài làm
+5.4 Giới thiệu các phần mềm khác của Office 365
+5.4.1 Giới thiệu phần mềm OneDrive
+OneDrive là dịch vụ lưu trữ đám mây có thể hoạt động trên nhiều hệ điều hành. OneDrive for Business cung cấp cho người dùng 5 TB lưu trữ dữ liệu, hỗ trợ lưu toàn bộ hình ảnh, video và các tài liệu quan trọng tại một không gian, đồng thời có thể truy cập dữ liệu từ nhiều thiết bị như máy tính, tablet, điện thoại chạy trên các hệ điều hành như Windows, Mac, Windows Phone, iOS, Android và Xbox. Người sử dụng OneDrive có thể cộng tác trực tuyến với 5 người cùng lúc thông qua tính năng Office Online để dễ dàng chia sẻ và làm việc cùng nhau trên Word, Excel, PowerPoint và thậm chí là OneNote Online. Chúng ta có thể sử dụng OneDrive trực tuyến trên web browser hoặc thông qua việc cài đặt trực tiếp ứng dụng trên máy tính, hoặc điện thoại (khuyến khích sử dụng). Việc sử dụng lưu trữ dữ liệu thường xuyên trên hệ thống OneDrive giúp chúng ta có hình thức lưu trữ dữ liệu an toàn, đảm bảo sẵn sàng sử dụng mọi lúc, mọi nơi (khi có Internet). Một số chức năng chính của OneDrive:
+Upload file và thư mục
+Download file và thư mục
+Chia sẻ file và thư mục
+Cho phép nhiều người dùng tương tác trên 1 file cùng thời điểm
+Đồng bộ dữ liệu với máy tính cá nhân
+Giao diện của OneDrive
+Hướng dẫn sử dụng chi tiết OneDrive có thể xem tại trang web của Trung tâm Mạng thông tin tại địa chỉ: https://bknic.hust.edu.vn/ 
+Ngoài ra chúng ta có thể xem thêm hướng dẫn sử dụng OneDrive trực tiếp trên trang chủ hỗ trợ của hệ thống Office tại địa chỉ: https://support.microsoft.com/vi-VN/onedrive 
+5.4.2 Giới thiệu phần mềm Microsoft Forms
+Microsoft Forms là một ứng dụng mới của Microsoft có trong bộ Microsoft Office 365. Với Microsoft Forms, ta sẽ dễ dàng tạo khảo sát dùng để thu thập thông tin, ý kiến và hơn nữa, ta có thể tạo những bài Quiz/ bài kiểm tra sử dụng trong giảng dạy/ học tập. Để sử dụng Forms, các bạn vào trang chủ Office, sau đó đăng nhập vào hệ thống bằng tài khoản Office 365 của Nhà trường, chọn Forms.
+ Các chức năng của Forms gồm:
+Tạo Form
+Thiết lập Form
+Phân phối Form tới người dùng (qua link, email, QRcode, etc.)
+Hướng dẫn sử dụng chi tiết OneDrive có thể xem tại trang web của Trung tâm Mạng thông tin tại địa chỉ: https://bknic.hust.edu.vn/. 
+Ngoài ra chúng ta có thể xem thêm hướng dẫn sử dụng OneDrive trực tiếp trên trang chủ hỗ trợ của hệ thống Office tại địa chỉ: https://support.microsoft.com/vi-VN/forms 
+5.4.3 Giới thiệu phần mềm Microsoft OneNote
+OneNote với mục đích giúp cho việc thu thập, ghi chép thông tin không định dạng và hỗ trợ làm việc nhóm với nhiều người sử dụng. Chương trình này có thể thu thập các ghi chép của người dùng dưới dạng chữ viết tay, đánh máy, hình vẽ, âm thanh, hình ảnh và chia sẻ các ghi chép của mình trên mạng Internet. OneNote như một quyển sổ tay là nơi có thể lưu trữ thông tin và các ghi chú –mọi thứ bạn cần ghi nhớ và quản lý. Trong OneNote không giới hạn khổ giấy dễ sắp xếp, chia sẻ và có khả năng tìm kiếm nhanh. Một số chức năng chính của OneNote:
+Tạo hoặc chèn thông tin vào sổ tay của bạn.
+Cộng tác với người khác trong sổ tay dùng chung.
+Phân biệt nội dung ghi chú bằng cách sử dụng thẻ và tô sáng.
+Truy nhập thông tin, dữ liệu cập nhật từ hầu hết mọi thiết bị.
+Giao diện của phần mềm OneNote gồm có:
+Thanh công cụ truy cập nhanh.
+Thanh công cụ Ribbon gồm các chức năng chính cho soạn thảo ghi chú.
+Thanh công cụ Bảng (Table) và sắp xếp dữ liệu trong bảng.
+Danh sách các sổ tay (Notebooks) đã tạo.
+Các phần trong sổ tay (Sections).
+Khung tìm kiếm trong trang hiện tại hoặc tất cả các sổ tay cùng lúc.
+Thêm một trang mới (Page) trong sổ tay (Page nằm trong Sections).31
+Vùng soạn thảo ghi chú trong sổ tay
+5.4.4 Giới thiệu phần mềm Microsoft Yammer
+Yammer là một mạng xã hội được cung cấp bởi Microsoft dành riêng cho các doanh nghiệp, cơ quan và tổ chức. Yammer cho phép cán bộ, nhân viên giao tiếp, tương tác, chia sẻ thông tin tới cán bộ, nhân viên khác trong doanh nghiệp, cơ quan, tổ chức. Trường ĐHBK HN sử dụng Yammer như một mạng xã hội nội bộ trong Nhà trường (facebook là mạng xã hội công cộng) để các giảng viên, Phòng/ Ban Khoa/ Viện có thể tương tác trực tiếp với các bạn sinh viên. Hướng dấn sử dụng phần mềm Yammer có thể xem tại trang web của TT MTT. 
+Giao diện Yammer:
+4.4.5 Giới thiệu phần mềm Microsoft Outlook
+Outlook sắp xếp các email, lịch, danh bạ, tác vụ và danh sách việc cần làm của bạn, tất cả ở cùng một chỗ. Việc sắp xếp đó sẽ bắt đầu bằng tài khoản email của bạn. Từ đó, bạn có thể bắt đầu làm việc với các email, chuyển email thành tác vụ hoặc cuộc hẹn, cũng như lưu trữ thông tin về những người bạn tương tác trong danh bạ của mình để không bao giờ phải ghi nhớ địa chỉ email hay số điện thoại. Hãy cùng tìm hiểu nhanh về một số tác vụ cơ bản. Để sử dụng Outlook các bạn có thể sử dụng trực tuyến tại địa chỉ https://outlook.office.com/ hoặc tải về trên máy tính, điện thoại (hỗ trợ iOS và Andoird).
+Giao diện hệ thống Outlook trên web
+5.4.6 Giới thiệu phần mềm Microsoft Sway
+Sway là công cụ giúp người dùng tạo ra những bản thuyết trình ngay trên "đám mây" và chia sẻ chúng với bạn bè của mình. Sway được gọi là phiên bản cải tiến của công cụ thuyết trình nổi tiếng PowerPoint. Sway được thiết kế tối ưu cho việc trình chiếu và chia sẻ dữ liệu với nhiều người dùng cùng lúc. Với Sway bạn có thể tạo những bản trình chiếu đẹp mắt bằng những thao tác kéo thả ngay trên mạng. Sau khi hoàn thành, các bản trình chiếu sẽ được lưu trữ trên nền tảng điện toán đám mây. Người dùng có thể chia sẻ chúng với mọi người xung quanh thông qua các mạng xã hội hoặc nhúng vào web.
+Sway có thể nhập nhiều dạng dữ liệu: văn bản, hình ảnh, video cho đến những đoạn tweet trên Twitter. Sway cũng tự động điều chỉnh bố cục cho phù hợp với nhiều loại thiết bị khác nhau từ máy tính, TV màn ảnh rộng cho tới tablet, smartphone. Sau khi hoàn thành bản thuyết trình, người dùng có thể chia sẻ chúng ngay lên các mạng xã hội như Facebook, Twitter, gửi liên kết qua email hoặc nhúng vào trang web mà mình yêu thích. Đặc biệt, người xem có thể chia sẻ hoặc tương tác trực tiếp với các file trình chiếu. Các hiệu ứng của Sway cũng đẹp mắt không kém gì PowerPoint.
+Giao diện phần mềm Sway trên web office
+Click Insert (1) chọn ảnh nền chủ đề của bài giảng hoặc kéo thả hình ảnh thả vào
+storyline. Thực hiện theo thứ tự như hình dưới. Trong đó: số (2) đại diện cho chủ đề; số (3) chủ đề bài giảng; số (4) tìm kiếm ảnh qua mạng; số (5) mở thêm slide mới. Nhấn Play để chạy slide, nút "Remix" ở cạnh trên màn hình để đổi sang ngữ cảnh khác cho slide. Nhấn Esc để quay trở lại màn hình chỉnh sửa
+Các chức năng của Sway
+Tạo slide mở đầu.
+Tạo slide nội dung
+Tùy biến, hoàn thiện slide
+Chia sẻ slide
+5.5 Hướng dẫn sử dụng LMS Moodle
+Hệ thống quản trị học tập LMS Moodle là hệ thống hỗ trợ hình thức học tập trực tuyến theo hình thức Blended learning. Đây là phần mềm hỗ trợ dạy & học cho cán bộ giảng viên sinh viên trường ĐHBKHN. Hệ thống tận dụng triệt để thế mạnh của công nghệ thông tin trong dạy & học nhằm nâng cao hiệu quả đào tạo; tiết kiệm sử dụng phòng học và thời gian lên lớp của cán bộ cũng như sinh viên.
+ĐĂNG NHẬP HỆ THỐNG LMS Moodle
+Bước 1: Đăng nhập hệ thống LMS tại địa chỉ http://lms.hust.edu.vn/
+        Tài khoản đăng nhập:
+Username: taikhoan_email@sis.hust.edu.vn 
+Password: password địa chỉ email SV
+Email: taikhoan_email@sis.hust.edu.vn 
+Tài khoản Office 365 là tài khoản mail@sis.hust.edu.vn
+Ví dụ:
+Username: chau.nc150329@sis.hust.edu.vn
+Password: password địa chỉ email SV
+Email: chau.nc150329@sis.hust.edu.vn
+Bước 2: Click vào khóa
+Bước 3: Xuất hiện cửa sổ login dành cho Sinh Viên
+Bước 4: Khai báo thông tin Mail SV lần đầu đăng nhập
+Bước 5: Tại địa chỉ sso.hust.edu.vn Sinh viên thực hiện Sign in  với Mật khẩu là mật khẩu hộp thư @sis.hust.edu.vn đã được cấp 
+Chỉnh sửa thông tin cá nhân
+Bước 1. Chỉnh sửa thông tin cá nhân sau lần đăng nhập đầu tiên
+Bước 2. Update profile hoàn tất việc chỉnh sửa
+ Cập nhật thông tin cá nhân
+Hoàn tất chỉnh sửa
+ Xem giao diện hệ thống khi vào học
+Hướng dẫn sinh viên tham gia học tập 
+Bước 1: Click chon My Course (trong mục Navigation) 
+Bước 2: Chọn lớp mà sv đã đăng ký đã có tên trong lớp học 
+Giao diện khi tham gia vào lớp học ! 
+Hướng dẫn xem nội dung học tập 
+Bước 1. Click chon nội dung học được phân theo bài , theo tuần của môn học tại cột Navigation bên trái
+Bước 2. Click chọn từng phần bài giảng để học
+ Hướng dẫn xem video bài giảng
+Bước 1. Chọn video cần xem, các video được lưu tại hệ thống Microsoft Stream nên sinh viên có thể cần đăng nhập lần đầu để xem được.
+Bước 2. Đăng nhập email office 365 (nếu được hỏi) 
+                                        Video bài giảng hiển thị sau khi đăng nhập 
+ Hướng dẫn nộp bài tập nhóm
+Bước 1. Chọn mục Nộp bài tập nhóm có biểu tượng  
+Bước 2. Thêm và lưu nội dung bình luận
+Lưu lại nội dung bình luận 
+Bước 3. Nhấn Add submission để up thêm file nội dung
+Bước 4. Chọn file nội dung cần up lên 
+Bước 5. Nhấn Save changes để lưu lại
+Hướng dẫn thảo luận – diễn đàn 
+Bước 1. Chọn diễn đàn cần tham gia có biểu tượng 
+Bước 2. Thêm nội dung chủ đề cần thảo luận
+Bước 3. Thêm nội dung chủ đề cần thảo luận
+1.4.6. Luyện tập trắc nghiệm
+Bước 1. Click chọn bài trong tuần có nội dung  cần làm trắc nghiệm  có biểu tượng            
+Bước 2: Nhấn nút để nhận t hông báo thời gian bắt đầu làm bài 
+Bước 3: Nhấn nút Start attempt
+Tiếp tục thực hiện bước 4 và 5 tại giao diện làm bài trắc nghiệm.
+Bước 4: Chọn câu trả lời đúng
+Bước 5: Bấm để làm câu tiếp theo 
+Bưcó 6.Bấm kết thúc khi làm bài
+Bước 7.1. Bấm quay lại để làm tiếp câu chưa làm . Nếu chưa hoàn thành bài ! 
+(Nếu đã hoàn thành chuyển sang Bước 8)
+Bước 7.2. Bấm quay lại đến câu chưa làm và làm tiếp Nếu chưa hoàn thành bài !
+Bước 8. Sau đó bấm Finish attempt để kết thúc
+Sinh viên xem giao diện thông báo đã hoàn thành  bài quiz và thực hiện tiếp  Bước 9, 10
+Bước 9. Nhấn Submit để xem kết quả
+Bước 10. Xác nhận Submit kết quả
+Giao diện xem lại toàn bộ bài làm 
+Xem kết quả làm bài 
+Hướng dẫn thoát khỏi hệ thống 
+Bước 1: Click khóa
+Bước 2: Click Log out để thoát khỏi hệ thống 
+Hướng dẫn ghi thông tin hỏi đáp hỗ trợ qua email: techsupport.elearning@hust.edu.vn
+Tiêu đề Email:  [Hotro] Su dung he thong HUST LMS:
+Nội dung Email:
+Họ và tên:………………………………………………………
+MSSV :…………………………………………………………..
+Mã học phần online – Mã lớp online: ……………………….
+Học trên hệ thống: LMS / LMS1
+Tình trạng :………………………………………………………

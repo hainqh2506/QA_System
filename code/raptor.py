@@ -1,4 +1,4 @@
-from model_config import load_tokenizer, load_embedding_model, load_summarization_model, load_gpt4o_mini_model,load_embedding_model_VN
+from model_config import load_tokenizer2,  load_summarization_model, load_gpt4o_mini_model,load_embedding_model_VN2, load_gemini
 from clutering import get_clusters
 import pandas as pd
 import numpy as np
@@ -11,12 +11,13 @@ from langchain_core.output_parsers import StrOutputParser
 
 class RaptorPipeline:
     def __init__(self, embedding_model=None, summarization_model=None):
-        self.embedding_model = embedding_model or load_embedding_model_VN()
-        self.summarization_model = summarization_model or load_gpt4o_mini_model()
-        self.tokenizer = load_tokenizer()
+        self.embedding_model = embedding_model or load_embedding_model_VN2()
+        self.summarization_model = summarization_model or load_gemini()
+        self.tokenizer = load_tokenizer2()
 
     def embed_text(self, texts: List[str]) -> np.ndarray:
-        embeddings = self.embedding_model.encode(texts, convert_to_numpy=True)
+        #embeddings = self.embedding_model.encode(texts, convert_to_numpy=True)
+        embeddings = self.embedding_model.embed_text(texts)
         #embeddings_np = np.array(embeddings)  # Convert to NumPy array #
         return embeddings
     @lru_cache(maxsize=None)
@@ -65,18 +66,31 @@ class RaptorPipeline:
         expanded_df = pd.DataFrame(expanded_list)
         all_clusters = expanded_df["cluster"].unique()
         
-        template = """Đây là một tài liệu.
-        Hãy đưa ra bản tóm tắt chi tiết của tài liệu được cung cấp. Tài liệu:
-        {context}"""
+        template = """
+        Dưới đây là các đoạn văn bản thuộc tài liệu về các thông tin, quy định và hướng dẫn dành cho sinh viên Đại học Bách Khoa Hà Nội. 
+        Hãy tóm tắt ngắn gọn và chi tiết nội dung chính của các văn bản dưới đây. 
+        ###Quan trọng: luôn trả lời bằng tiếng Việt (Chỉ trả lời với nội dung đã tóm tắt)
+
+        Các đoạn văn bản:
+        {context}
+        Tóm tắt (Chỉ trả lời với nội dung đã tóm tắt):
+        """
+
+
         
         prompt = ChatPromptTemplate.from_template(template)
         chain = prompt | self.summarization_model | StrOutputParser()
-        
-        summaries = [
-            chain.invoke({"context": self.fmt_txt(expanded_df[expanded_df["cluster"] == i])})
-            for i in all_clusters
-        ]
-        
+        ## k độ trễ
+        # summaries = [
+        #     chain.invoke({"context": self.fmt_txt(expanded_df[expanded_df["cluster"] == i])})
+        #     for i in all_clusters
+        # ]
+        summaries = []
+        for i in all_clusters:
+            summary = chain.invoke({"context": self.fmt_txt(expanded_df[expanded_df["cluster"] == i])})
+            summaries.append(summary)
+            time.sleep(4.5)  # Thêm thời gian nghỉ giữa các lần gọi API
+
         df_summary = pd.DataFrame({
             "summaries": summaries,
             "level": [level] * len(summaries),
@@ -138,7 +152,7 @@ class RaptorPipeline:
     def aggregate_metadata(self, metadata_list: List[Dict]) -> Dict:
         aggregated_metadata = {
             "id": [md["id"] for md in metadata_list],
-            "page": list(set(md["page"] for md in metadata_list)),
+           #"page": list(set(md["page"] for md in metadata_list)),
             "source": list(set(md["source"] for md in metadata_list)),
         }
         return aggregated_metadata

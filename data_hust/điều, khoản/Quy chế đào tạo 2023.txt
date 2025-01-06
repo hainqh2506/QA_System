@@ -1,0 +1,371 @@
+QUY CHẾ ĐÀO TẠO (Ban hành kèm theo Quyết định số 4600/QĐ–ĐHBK ngày 09 tháng 6 năm 2023 của Giám đốc Đại học Bách khoa Hà Nội) 
+CHƯƠNG I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định về công tác đào tạo đối với các khóa đào tạo theo hình thức chính quy, vừa làm vừa học và cấp văn bằng cử nhân, kỹ sư, thạc sĩ hoặc tiến sĩ của Đại học Bách khoa Hà Nội (sau đây gọi tắt là ĐHBK Hà Nội). Những vấn đề không được đề cập đến trong Quy chế này sẽ được áp dụng theo các quy chế đào tạo do Bộ Giáo dục và Đào tạo (Bộ GDĐT) ban hành 1 2 3.
+2. Quy chế này áp dụng cho sinh viên đại học, học viên của chương trình thạc sĩ và nghiên cứu sinh (sau đây gọi chung là người học) của ĐHBK Hà Nội.
+3. Các đơn vị cấp 2 thuộc ĐHBK Hà Nội được giao nhiệm vụ thực hiện công tác đào tạo được gọi tắt là trường/khoa.
+Điều 2. Ngành đào tạo, chương trình đào tạo
+1. Ngành đào tạo (sau đây gọi tắt là ngành) là một lĩnh vực chuyên môn rộng, có mã số trong Danh mục thống kê ngành đào tạo của giáo dục đại học do Bộ GDĐT quản lý 4.
+2. Chương trình đào tạo (sau đây gọi tắt là CTĐT) được xây dựng theo đơn vị tín chỉ và là bản thiết kế cho toàn bộ quá trình đào tạo của một ngành. Chương trình thể hiện rõ trình độ đào tạo; đối tượng đào tạo, điều kiện nhập học và điều kiện tốt nghiệp; mục tiêu đào tạo, chuẩn kiến thức, kỹ năng của người học khi tốt nghiệp; nội dung (chương trình giảng dạy); kế hoạch đào tạo theo thời gian học tập chuẩn; phương pháp và hình thức đào tạo; cách thức đánh giá kết quả học tập; các điều kiện thực hiện chương trình. 
+1 Quy chế đào tạo trình độ đại học, ban hành theo Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo. 
+2 Quy chế tuyển sinh và đào tạo trình độ thạc sĩ, ban hành theo Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo. 
+3 Quy chế tuyển sinh và đào tạo trình độ tiến sĩ, ban hành theo Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo. 
+4 Danh mục thống kê ngành đào tạo của giáo dục đại học ban hành theo Thông tư số 09/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo. 2
+3. CTĐT tích hợp là chương trình được thiết kế tổng thể theo hướng tích hợp kiến thức của hai bậc trình độ, đảm bảo học tập liên tục giữa các bậc đào tạo nhằm tối ưu hóa thời gian đào tạo cho người học. Chương trình tích hợp cử nhân-kỹ sư có thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC; bao gồm hai bậc trình độ: Cử nhân (thời gian đào tạo 4 năm, trình độ đại học, cấp bằng cử nhân) và Kỹ sư (thời gian đào tạo 1,5 năm, cấp bằng kỹ sư, tương đương trình độ thạc sĩ). Tính tích hợp được thể hiện bằng việc thiết kế các mô đun học phần trong chương trình cử nhân có kiến thức nền tảng liên quan chặt chẽ đến các chuyên ngành kỹ sư.
+4. Chương trình ELITECH (từ viết tắt của cụm từ Elite Technology Program) là CTĐT chất lượng cao (tên gọi theo Thông tư 23/2014/TT-BGDĐT), thể hiện ở một số yếu tố sau: chất lượng đầu vào; chuẩn đầu ra; giá trị văn bằng tốt nghiệp; phương thức tổ chức đào tạo; điều kiện hỗ trợ đào tạo; nội dung, phương pháp và ngôn ngữ dạy và học. Chương trình ELITECH có mức độ quốc tế hóa cao với ngôn ngữ dạy và học chủ yếu bằng tiếng Anh hoặc có thể bằng các ngoại ngữ khác đáp ứng mục tiêu của chương trình. CTĐT được xây dựng trên cơ sở tham chiếu chương trình tương đương của các trường đại học nước ngoài có danh tiếng; chương trình có các điều kiện thuận lợi để trao đổi sinh viên, công nhận tín chỉ, cấp song bằng cùng với các trường đối tác.
+5. Thời gian và khối lượng học tập chuẩn đối với các CTĐT theo hình thức chính quy không kể các môn học bổ sung kiến thức được quy định như sau: Chương trình Cử nhân Thạc sĩ Tiến sĩ Kỹ sư 6 Người học Tốt nghiệp THPT Tốt nghiệp cử nhân Tốt nghiệp cử nhân theo chương trình tích hợp 5 Tốt nghiệp thạc sĩ Tốt nghiệp đại học Tốt nghiệp cử nhân theo chương trình tích hợp Thời gian 4 năm 2 năm 1,5 năm 3 năm 4 năm 1,5 năm Khối lượng tối thiểu 132 tín chỉ 60 tín chỉ 48 tín chỉ 90 tín chỉ 120 tín chỉ 48 tín chỉ
+6. Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính quy của cùng CTĐT.
+7. Các CTĐT cấp bằng cử nhân, kỹ sư, thạc sĩ, tiến sĩ được công bố công khai trước khi tuyển sinh, phù hợp với các quy định hiện hành của Bộ Giáo dục và Đào tạo và chuẩn CTĐT của ĐHBK Hà Nội.
+8. CTĐT có thể được điều chỉnh và áp dụng cho từng khóa tuyển sinh; sinh viên, học viên nhập học năm nào sẽ được áp dụng phiên bản chương trình giảng dạy của 5 Chương trình đào tạo cử nhân-thạc sĩ tích hợp là chương trình được thiết kế một cách tổng thể, liên tục giữa bậc đào tạo đại học trình độ cử nhân và đào tạo sau đại học ở trình độ thạc sĩ. Sinh viên được tích lũy trước 12TC-15TC của chương trình bậc thạc sĩ khi tốt nghiệp cử nhân. 6 Chương trình đào tạo cử nhân-kỹ sư tích hợp là chương trình được thiết kế một cách tổng thể, liên tục giữa bậc đào tạo đại học cấp bằng cử nhân và bậc đào tạo kỹ sư cấp bằng kỹ sư chuyên sâu đặc thù. 3 năm đó. Những cập nhật liên quan đến CTĐT của một khóa học chỉ được áp dụng khi không ảnh hưởng đến kết quả học tập, rèn luyện đã tích lũy của người học.
+Điều 3. Thời gian và kế hoạch học tập
+1. ĐHBK Hà Nội tổ chức đào tạo theo năm học và học kỳ. Một năm học bao gồm hai học kỳ chính và một học kỳ hè. Một học kỳ chính có thể được chia thành 2 đợt A và B, mỗi đợt có thời gian bằng một nửa học kỳ chính. Học kỳ hè được tổ chức theo yêu cầu của người học và khả năng bố trí giảng viên của trường/khoa phụ trách giảng dạy.
+2. Lịch đăng ký học tập, thời khóa biểu, lịch thi và kế hoạch xét công nhận tốt nghiệp trong năm học tuân theo Khung kế hoạch thời gian năm học của ĐHBK Hà Nội, ngoại trừ các học phần tiến sĩ được bố trí lịch giảng dạy và lịch thi riêng theo tiến độ học tập của nghiên cứu sinh (NCS).
+3. Căn cứ kế hoạch học tập chuẩn toàn khóa của chương trình, người học tự xây dựng kế hoạch học tập theo từng học kỳ.
+a) Người học được phép tốt nghiệp sớm hơn khi đã đáp ứng toàn bộ điều kiện tốt nghiệp của CTĐT hoặc tốt nghiệp chậm hơn so với thời gian theo kế hoạch học tập chuẩn, nhưng thời gian chậm tiến độ không được vượt quá 5 học kỳ đối với các chương trình cấp bằng cử nhân, không quá 2 học kỳ đối với các chương trình cấp bằng kỹ sư và thạc sĩ.
+b) Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian thiết kế để hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng tín chỉ được công nhận và miễn trừ cho người học. Thời gian chậm tiến độ không được vượt quá 3 học kỳ và không vượt quá 2 lần thời gian thiết kế để hoàn thành khóa học.
+c) Thời gian đào tạo chuẩn của trình độ tiến sĩ từ 03 năm đến 04 năm. Nếu NCS đăng ký học tập, nghiên cứu với khối lượng 30 tín chỉ/năm học thì được xác định là tập trung toàn thời gian. NCS được gia hạn thời gian hoàn thành luận án đào tạo tối đa 02 lần, mỗi lần từ 1-2 năm; tổng thời gian đào tạo (kể cả thời gian gia hạn) không được vượt quá 6 năm (72 tháng) kể từ khi có quyết định công nhận NCS đến thời điểm bảo vệ thành công luận án ở cấp cơ sở và hoàn thành các thủ tục để thực hiện quy trình đánh giá luận án cấp Đại học.
+d) Đối với người học các CTĐT đại học và thuộc diện đối tượng ưu tiên theo quy định tại Quy chế tuyển sinh đại học chính quy tại năm trúng tuyển, thời gian tối đa được phép học tại ĐHBK Hà Nội không quá 02 lần thời gian theo kế hoạch học tập chuẩn hoặc thời gian thiết kế đối với đào tạo liên thông.
+Điều 4. Tín chỉ và học phần
+1. Tín chỉ (TC) là đơn vị đo khối lượng học tập. Một TC được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá. 4 Đối với hoạt động dạy học trên lớp, một TC yêu cầu thực hiện tối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khóa luận tốt nghiệp. Một tuần làm đồ án toàn thời gian tương đương 1 TC; một tuần thực tập toàn thời gian tương đương 0,5-0,6 TC.
+2. Học phần là đơn vị cấu thành chương trình học tập và được thực hiện trọn vẹn trong một học kỳ. Một học phần có khối lượng từ 1 TC đến 4 TC, trừ một số học phần như thực tập, đồ án/khóa luận tốt nghiệp, luận văn, luận án có thể có khối lượng lớn hơn.
+3. Mỗi học phần được ấn định một mã số riêng và có thể được sử dụng trong nhiều CTĐT.
+4. Chương trình học tập có thể bao gồm các nhóm học phần bắt buộc và học phần tự chọn như sau:
+a) Nhóm học phần bắt buộc: người học phải hoàn thành tất cả học phần trong danh mục quy định.
+b) Nhóm học phần tự chọn theo mô đun: người học chọn một định hướng chuyên môn và phải hoàn thành tất cả học phần trong danh mục của nhóm học phần tự chọn theo mô đun.
+c) Nhóm học phần tự chọn: người học chọn lựa một số học phần trong danh mục để tích lũy đủ số TC quy định.
+5. Học phần tương đương và học phần thay thế
+a) Người học được tùy chọn học một học phần tương đương để lấy kết quả thay cho một học phần yêu cầu trong chương trình.
+b) Người học được phép học một học phần thay thế được chỉ định để lấy kết quả thay cho một học phần yêu cầu trong chương trình nhưng không còn được giảng dạy.
+6. Đề cương chi tiết của từng học phần thể hiện rõ khối lượng học tập, điều kiện tham dự học phần, mục tiêu và kết quả mong đợi, mức độ đáp ứng chuẩn đầu ra của chương trình, cách thức đánh giá học phần, nội dung và kế hoạch học tập, phương thức và ngôn ngữ giảng dạy, giáo trình và tài liệu tham khảo. Điều 5. Điểm học phần
+1. Một học phần từ 2 TC trở lên được đánh giá từ hai điểm thành phần là điểm quá trình và điểm cuối kỳ, trong đó điểm cuối kỳ có trọng số từ 0,5 đến 0,8 theo quy định trong đề cương chi tiết học phần. Các học phần có khối lượng dưới 2 TC có thể đánh giá kết hợp điểm quá trình và điểm cuối kỳ, hoặc chỉ điểm cuối kỳ.
+2. Điểm quá trình được đánh giá qua thi giữa kỳ, kiểm tra thường kỳ, kết hợp thi giữa kỳ và kiểm tra thường kỳ hoặc kết hợp các thành phần khác (thí nghiệm, bài tập lớn, tiểu luận, chuyên cần…); hình thức và trọng số đánh giá các thành phần được quy định cụ thể trong đề cương chi tiết học phần. Đối với các giờ lên lớp, kết quả điểm danh có thể được sử dụng để cộng/trừ vào điểm quá trình của học phần như sau: 5 Số lần vắng mặt: 0 1-2 3-4 ≥ 5 Điểm quá trình được cộng/trừ: +1 0 1 2
+3. Hình thức đánh giá để cho điểm cuối kỳ và trọng số đánh giá được quy định cụ thể trong đề cương chi tiết học phần.
+4. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp và được quy định bằng văn bản riêng.
+5. Điểm quá trình và điểm cuối kỳ là điểm số được cho theo thang 10 và có thể lẻ tới 0,5; điểm số dưới 5 đối với học phần đồ án/khóa luận tốt nghiệp và điểm số dưới 3 đối với các học phần khác được coi là điểm liệt; trường hợp không dự thi đúng lịch thi đã ấn định và không có lý do chính đáng thì điểm thi là điểm 0.
+6. Điểm học phần được tính từ tổng điểm thành phần với trọng số tương ứng, làm tròn tới một chữ số thập phân và quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F. Điểm đạt là điểm học phần từ D trở lên, riêng đối với các học phần tốt nghiệp phải từ C trở lên. Để tính các điểm trung bình, điểm học phần được quy đổi thành điểm số theo thang 4. 5,0÷ 5,4 4,0
+7. Người học có thể đăng ký học lại học phần đã có điểm đạt để cải thiện điểm trung bình tích lũy. Điểm lần cao nhất được công nhận là điểm chính thức của học phần.
+8. Một số điểm chữ đặc biệt được sử dụng trong các trường hợp sau và không quy đổi được thành điểm số để tính điểm trung bình học tập:
+a) Điểm I: điểm học phần chưa hoàn thiện do được hoãn thi đúng quy định.
+b) Điểm X: điểm học phần chưa hoàn thiện do thiếu dữ liệu đánh giá.
+c) Điểm R: điểm học phần được miễn học và công nhận TC.
+d) Điểm P: áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập.
+đ) Điểm W: điểm học phần đã rút đăng ký học phần trong thời gian quy định.
+e) Điểm K: điểm học phần với các trường hợp được cho phép nghỉ học tạm thời (theo quy định tại khoản 1 Điều 16 Quy chế này) khi đang trong thời gian học của học kỳ.
+Điều 6. Hoãn thi, miễn thi, phúc tra và khiếu nại điểm
+1. Đối với hình thức đào tạo chính quy, người học được thi cuối kỳ một lần đối với mỗi học phần đã đăng ký học trong học kỳ (kể cả trường hợp có điểm quá trình là điểm liệt) và không có lần thi lại. 6
+2. Đối với hình thức đào tạo vừa làm vừa học (sau đây gọi tắt là VLVH), người học được thi lại cuối kỳ một lần cho các học phần điểm F với điều kiện điểm quá trình không phải điểm liệt. Việc tổ chức thi lại phải hoàn thành chậm nhất trước khi bắt đầu học kỳ chính kế tiếp. Điểm học phần sau khi thi lại bị giới hạn không vượt quá mức điểm C.
+3. Người học không dự thi giữa kỳ do bị ốm, tai nạn hoặc vì lý do chính đáng được giảng viên bố trí thi bù giữa kỳ hoặc thực hiện các nội dung kiểm tra khác theo quy định.
+4. Người học không thể dự thi cuối kỳ một học phần (đã học và đã đóng học phí) do bị ốm, tai nạn hoặc vì lý do chính đáng được phép hoãn thi và được dự thi cuối kỳ học phần đó trong thời hạn 2 học kỳ chính tiếp theo để hoàn thiện điểm, nếu không điểm học phần là điểm F.
+5. Người học có thể đề nghị phúc tra hoặc khiếu nại điểm trong thời hạn 7 ngày kể từ khi điểm học phần được cập nhật vào tài khoản học tập của người học. Không áp dụng phúc tra hoặc khiếu nại điểm với các học phần được tổ chức thi theo hình thức vấn đáp hoặc đánh giá trước hội đồng. Điều 7. Số tín chỉ tích lũy, điểm trung bình tích lũy
+1. Số TC tích lũy là tổng số TC của các học phần có điểm đạt kể từ đầu khóa kể cả các học phần được miễn học, được công nhận TC.
+2. Điểm trung bình học kỳ (GPA) là trung bình cộng điểm số quy đổi theo thang 4 của các học phần đã học trong học kỳ với trọng số là số TC của học phần. Điểm trung bình học kỳ được làm tròn tới 2 chữ số thập phân.
+3. Điểm trung bình tích lũy (CPA) là trung bình cộng điểm số quy đổi theo thang 4 của các học phần đã học từ đầu khóa thuộc chương trình giảng dạy với trọng số là số TC của học phần. Điểm trung bình tích lũy được làm tròn tới 2 chữ số thập phân.
+Điều 8. Chuyển cơ sở đào tạo khác
+1. Sinh viên đại học chuyển đến học tại một cơ sở đào tạo khác phải được sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học không được chuyển cơ sở đào tạo.
+2. Học viên thạc sĩ không thể tiếp tục học tập tại ĐHBK Hà Nội vì lý do chuyển nơi cư trú hoặc chuyển nơi công tác sang tỉnh khác được chuyển đến học tại một cơ sở đào tạo khác (đang đào tạo đúng ngành trình độ thạc sĩ) nếu có sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Học viên đang học ở học kỳ cuối của khóa học hoặc đang trong thời gian bị kỷ luật từ cảnh cáo trở lên không được chuyển cơ sở đào tạo.
+3. NCS có thời hạn học tập tại ĐHBK Hà Nội còn tối thiểu 12 tháng (theo quyết định công nhận NCS) được chuyển đến một cơ sở đào tạo khác (đang đào tạo ngành 7 tương ứng ở trình độ tiến sĩ) nếu có sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến.
+Điều 9. Học phí
+1. Người học có nghĩa vụ nộp học phí đầy đủ và đúng thời hạn theo quy định về mức học phí và lịch thu học phí của ĐHBK Hà Nội.
+2. Người học không hoàn thành đầy đủ nghĩa vụ nộp học phí sẽ bị đình chỉ đăng ký học tập một học kỳ kế tiếp. Người học tiếp tục bị đình chỉ lần thứ 2 liên tiếp do không hoàn thành đầy đủ nghĩa vụ nộp học phí sẽ bị xem xét buộc thôi học.
+3. Sinh viên, học viên có đơn đề nghị rút học phần trong khoảng thời gian 7 tuần (hoặc 3 tuần với các học phần tổ chức theo giảng dạy đợt A hoặc B) kể từ khi hết thời hạn điều chỉnh đăng ký lớp của học kỳ, nếu được giải quyết theo nguyện vọng thì chỉ đóng một nửa (50%) học phí của học phần đó. Quy định này không áp dụng với các học phần học ở kỳ hè.
+4. Sinh viên, học viên có đơn đề nghị thôi học, nghỉ học tạm thời hoặc chuyển cơ sở đào tạo trong khoảng thời gian 7 tuần kể từ khi hết thời hạn điều chỉnh đăng ký lớp của học kỳ, nếu được giải quyết theo nguyện vọng thì đóng một nửa (50%) học phí của học kỳ đó. Quy định này không áp dụng với kỳ hè.
+5. NCS đóng mức học phí theo năm học kể cả năm được gia hạn, trong đó đã bao gồm học phí của các học phần trong CTĐT tiến sĩ, không bao gồm các học phần bổ sung. 
+CHƯƠNG II ĐÀO TẠO ĐẠI HỌC
+Điều 10. Đăng ký học tập chương trình đại học
+1. Đăng ký học tập là quy trình bắt buộc của sinh viên cho mỗi học kỳ, trừ các sinh viên mới nhập học được xếp thời khóa biểu theo kế hoạch học tập chuẩn, không phải đăng ký học tập nhưng có thể tự điều chỉnh một số lớp. Sinh viên thực hiện quy trình đăng ký theo các mốc thời gian của Khung kế hoạch thời gian năm học. Quá trình đăng ký học tập gồm 3 giai đoạn: a) Đăng ký học phần: sinh viên chọn đăng ký những học phần dự tính sẽ học trong học kỳ tiếp. Sinh viên có thể đăng ký theo kế hoạch học tập chuẩn hoặc theo kế hoạch cá nhân. Thời gian tổ chức đăng ký học phần cho một học kỳ diễn ra vào những tuần đầu của học kỳ trước đó. Dựa trên số lượng sinh viên đăng ký, ĐHBK Hà Nội đưa ra số lượng lớp sẽ mở và thời khóa biểu cho các lớp này.
+b) Đăng ký lớp chính thức: sinh viên chọn lớp học cho những học phần đã đăng ký. Đối với các học phần có nhiều lớp thành phần (lớp lý thuyết, bài tập, thực hành, thí nghiệm,..), sinh viên phải đăng ký đủ các lớp thành phần theo yêu cầu. 8
+c) Điều chỉnh đăng ký: sinh viên có thể chuyển lớp, hủy lớp hoặc đăng ký lớp bổ sung, kể cả lớp với các học phần chưa đăng ký trước. Mỗi học kỳ chính có hai đợt điều chỉnh đăng ký, kết thúc trước khi bắt đầu học kỳ/đợt học. Riêng việc đăng ký bổ sung vào các lớp học phần đã mở chỉ thực hiện trong tuần đầu của học kỳ/đợt học. Học kỳ hè không có đợt điều chỉnh đăng ký.
+2. Số lượng TC đăng ký:
+a) Sinh viên không thuộc diện cảnh báo học tập theo quy định tại khoản 1 Điều 19 của Quy chế này được đăng ký tối đa 24 TC và tối thiểu 12 TC trong học kỳ chính, không áp dụng ngưỡng TC đăng ký tối thiểu với sinh viên trình độ năm cuối. Sinh viên được đăng ký tối đa 8 TC trong học kỳ hè.
+b) Sinh viên bị cảnh báo học tập hoặc chưa đạt chuẩn ngoại ngữ theo trình độ năm học bị giới hạn khối lượng đăng ký học tập theo quy định tại khoản 2 Điều 19 của Quy chế này.
+3. Sau thời gian điều chỉnh đăng ký, sinh viên có thể đề nghị hủy đăng ký học phần để không tính kết quả học tập nhưng vẫn phải đóng học phí cho học phần đó theo quy định tại khoản 3 Điều 9 của Quy chế này. Thời hạn được phép hủy đăng ký học phần là trước 1/2 thời gian học của học phần đó.
+4. Đối với học phần có giờ lên lớp, chỉ mở lớp khi có tối thiểu 20 sinh viên đăng ký học. Các trường hợp ngoại lệ được giải quyết như sau:
+a) Xem xét mở lớp cho các ngành học hoặc các chương trình ELITECH có ít sinh viên để tạo điều kiện tối đa cho sinh viên học theo kế hoạch học tập chuẩn.
+b) Xem xét mở lớp học phần có từ 5 đến 19 sinh viên đăng ký học theo đề nghị của sinh viên, áp dụng hệ số học phí theo quy định.
+c) Xem xét mở lớp dưới 5 sinh viên đăng ký học lại học phần dưới hình thức làm đồ án môn học.
+Điều 11. Công nhận kết quả học tập và chuyển đổi tín chỉ
+1. Kết quả học tập của người học đã tích lũy từ một trình độ đào tạo khác, một CTĐT khác hoặc từ một cơ sở đào tạo khác được xem xét công nhận, chuyển đổi sang TC của những học phần trong CTĐT.
+2. Xem xét công nhận, chuyển đổi TC trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ: a) Công nhận, chuyển đổi theo từng học phần;
+b) Công nhận, chuyển đổi theo từng nhóm học phần.
+3. Sinh viên được phép thực hiện đồ án/khóa luận tốt nghiệp tại một cơ sở trong nước (cơ sở giáo dục đại học, viện nghiên cứu, doanh nghiệp,…) hoặc tại một cơ sở đào tạo ở nước ngoài theo chương trình trao đổi sinh viên đã được ký kết nhưng phải bảo vệ tại ĐHBK Hà Nội để được đánh giá và cho điểm. Với sinh viên thuộc các 9 CTĐT theo hình thức VLVH tại đơn vị liên kết, việc đánh giá ĐATN được phép thực hiện tại đơn vị liên kết hoặc tại ĐHBK Hà Nội.
+4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng chương trình học tập toàn khóa.
+5. Sinh viên đã có quyết định cho thôi học hoặc buộc thôi học, nếu thi lại và trúng tuyển thì phải học lại toàn bộ chương trình, ngoại trừ chương trình Giáo dục quốc phòng-an ninh đã được cấp chứng chỉ.
+Điều 12. Ý kiến phản hồi của người học, đánh giá kết quả học tập
+1. Kết thúc mỗi học kỳ, sinh viên tham gia khảo sát lấy ý kiến phản hồi về các điều kiện bảo đảm chất lượng, hiệu quả học tập và sự hài lòng của người học đối với các lớp học phần.
+2. Kết quả học tập trong một học kỳ của sinh viên được đánh giá trên cơ sở điểm của các học phần đã đăng ký học thuộc CTĐT nhưng không tính các học phần có điểm R và các học phần về ngoại ngữ cơ bản, Giáo dục thể chất, Giáo dục quốc phòng-an ninh, thể hiện bằng các chỉ số sau đây: a) Tổng số TC của các học phần có điểm đạt trong học kỳ (số TC đạt).
+b) Tổng số TC của các học phần có điểm không đạt trong học kỳ (số TC không đạt).
+c) Điểm trung bình học kỳ (GPA).
+3. Kết quả tiến bộ học tập của sinh viên từ đầu khóa được đánh giá trên cơ sở điểm của các học phần đã học thuộc CTĐT nhưng không tính các học phần về ngoại ngữ cơ bản, Giáo dục thể chất, Giáo dục quốc phòng-an ninh, thể hiện bằng các chỉ số sau đây: a) Số TC tích lũy (số TCTL).
+b) Tổng số TC của các học phần đã học nhưng chưa đạt từ đầu khóa (số TC nợ đọng).
+c) Điểm trung bình tích lũy (CPA).
+d) Trình độ ngoại ngữ của sinh viên đạt được theo yêu cầu của CTĐT.
+4. Kết quả học tập học kỳ hè được đánh giá ở kỳ chính kế tiếp.
+5. Sinh viên được xếp hạng trình độ năm học căn cứ số TC tích lũy (TCTL) như sau: Số TCTL Trình độ Năm thứ nhất Năm thứ hai Năm thứ ba Năm thứ tư Năm thứ năm < 32 32 - 63 64 - 95 96 -127 ≥ 128
+6. Sinh viên được xếp loại học lực theo học kỳ căn cứ điểm trung bình học kỳ và xếp loại học lực từ đầu khóa căn cứ điểm trung bình tích lũy như sau: 1,0-1,99 Yếu GPA hoặc CPA < 1,0 Kém Xếp loại 2,0-2,49 2,5-3,19 3,2-3,59 Trung bình Khá Giỏi 3,6-4,0 Xuất sắc 10
+7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy tắc như sau: Công thức quy đổi Điểm thang 10 = Điểm thang 4 × a + b a = 3,00; b = −0,5 a = 1,42; b = 3,45 a = 2,50; b = 0.00 a = 2,50; b = 0.00
+7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy tắc như sau: Dải điểm thang 4
+Điều 13. Đồ án/khóa luận tốt nghiệp đại học
+Các học phần tốt nghiệp (sau đây gọi tắt là ĐATN) bao gồm đồ án tốt nghiệp cử nhân, khóa luận tốt nghiệp cử nhân.
+1. Sinh viên được giao đề tài ĐATN nếu có tổng số TC chưa đạt không vượt quá 8 TC so với yêu cầu của CTĐT, không tính số TC của các học phần thực tập tốt nghiệp hoặc thực tập kỹ thuật và ĐATN, đồng thời đạt chuẩn ngoại ngữ theo quy định.
+2. Đối với loại hình liên thông, sinh viên được giao đề tài ĐATN nếu có tổng số TC chưa đạt không vượt quá 8 TC so với yêu cầu của CTĐT, không tính số TC của các học phần thực tập tốt nghiệp hoặc thực tập kỹ thuật, ĐATN và các học phần đang học cùng kỳ theo kế hoạch học tập chuẩn, đồng thời đạt chuẩn ngoại ngữ theo quy định.
+3. Kết quả ĐATN được đánh giá như sau:
+a) Điểm quá trình của ĐATN được tính bằng trung bình cộng điểm của người hướng dẫn và điểm của người phản biện, làm tròn tới một chữ số thập phân.
+b) Điểm cuối kỳ là điểm bảo vệ tại hội đồng, được tính trung bình cộng điểm của các thành viên hội đồng, làm tròn tới một chữ số thập phân.
+c) Điểm ĐATN được tính từ các điểm thành phần theo trọng số 0,5 đối với điểm quá trình và trọng số 0,5 đối với điểm cuối kỳ.
+d) Điểm của người hướng dẫn, điểm của người phản biện hoặc điểm của một thành viên hội đồng cho dưới 5 đều được coi là điểm liệt, khi đó điểm học phần là điểm F.
+e) Các điểm của người hướng dẫn, phản biện và thành viên hội đồng đánh giá ĐATN được phép cho lẻ tới 0,5 điểm.
+Điều 14. Đăng ký tốt nghiệp đại học
+1. ĐHBK Hà Nội xét tốt nghiệp nhiều đợt trong năm, cụ thể là cuối mỗi đợt học A, B của các học kỳ chính và cuối học kỳ hè. Sinh viên muốn được xét tốt nghiệp phải đăng ký theo các mốc thời gian quy định trong Khung kế hoạch thời gian năm học.
+2. Sinh viên có thể đăng ký học nhiều hơn yêu cầu của CTĐT, nhưng khi đăng ký tốt nghiệp chỉ chọn đủ hoặc không nhiều hơn 3 TC theo yêu cầu của chương trình. Các 11 trường hợp ngoại lệ sẽ do Hội đồng xét tốt nghiệp quyết định và trình Giám đốc ĐHBK Hà Nội phê duyệt.
+3. Sinh viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:
+a) Đã hoàn thành đầy đủ các học phần theo yêu cầu của CTĐT trong thời gian quy định, bao gồm cả các học phần thuộc chương trình môn học Giáo dục thể chất và Giáo dục quốc phòng-an ninh.
+b) Đạt chuẩn ngoại ngữ đầu ra.
+c) Điểm trung bình tích lũy toàn khóa (tính theo các học phần đăng ký tốt nghiệp) đạt từ 2,0 trở lên.
+d) Không nằm trong danh sách đang bị kỷ luật hoặc bị Hội đồng kỷ luật của ĐHBK Hà Nội xét kỷ luật ở mức đình chỉ học tập hoặc buộc thôi học.
+đ) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự.
+4. Những sinh viên đủ điều kiện tốt nghiệp được Giám đốc ĐHBK Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành các nghĩa vụ liên quan.
+5. Sinh viên đã hết thời gian học tập tối đa theo quy định tại khoản 3 Điều 3 của Quy chế này nhưng chưa đủ điều kiện tốt nghiệp do chưa hoàn thành các học phần Giáo dục quốc phòng-an ninh hoặc Giáo dục thể chất, trong thời hạn tối đa 03 năm kể từ khi hết thời hạn học tập được phép đăng ký học để hoàn thiện các học phần còn thiếu này và đề nghị xét công nhận tốt nghiệp.
+6. Sinh viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT.
+Điều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học
+1. Điểm trung bình toàn khóa là điểm trung bình tích lũy toàn khóa tính theo các học phần đăng ký tốt nghiệp.
+2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6 Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của những sinh viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức: a) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số TC quy định cho toàn CTĐT. Quy định này không xét tới số TC của các học phần học cải thiện điểm.
+b) Sinh viên bị Hội đồng kỷ luật của ĐHBK Hà Nội đề nghị áp dụng mức kỷ luật từ cảnh cáo trở lên. 12
+Điều 16. Nghỉ học tạm thời và tự nguyện thôi học
+1. Điều kiện nghỉ học tạm thời, thời gian nghỉ học tối đa và việc tiếp nhận trở lại học được quy định như sau:
+a) Sinh viên được nghỉ học tạm thời nếu có quyết định cho phép nghỉ học tạm thời của Giám đốc ĐHBK Hà Nội.
+b) Thời gian nghỉ học tạm thời do sinh viên bị ốm, thai sản hoặc tai nạn buộc phải điều trị thời gian dài không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 4 học kỳ chính; thời gian nghỉ trên 4 học kỳ được tính vào thời gian học chậm tiến độ.
+c) Thời gian nghỉ học tạm thời do sinh viên được điều động vào lực lượng vũ trang (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học chậm tiến độ.
+d) Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại điểm b và điểm c khoản 1 của Điều này, sinh viên phải học ít nhất một học kỳ. Thời gian nghỉ học tối đa cho phép là 4 học kỳ chính và được tính vào thời gian học chậm tiến độ.
+đ) Sinh viên phải nộp đơn đề nghị trở lại học chậm nhất 1 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc tế, sinh viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+2. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt.
+3. Tự nguyện thôi học: Sinh viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Sinh viên đã có quyết định cho thôi học không được tiếp nhận trở lại.
+Điều 17. Chuyển chương trình đào tạo, hình thức đào tạo
+1. Sinh viên hoàn thành năm học thứ nhất được xem xét chuyển sang học một CTĐT khác nếu đáp ứng đầy đủ các điều kiện sau:
+a) Đáp ứng điều kiện trúng tuyển của CTĐT muốn chuyển sang học;
+b) Có số TC tích lũy tối thiểu bằng khối lượng thiết kế theo kế hoạch học tập chuẩn của CTĐT và không bị điểm F;
+c) Xếp loại học lực căn cứ theo điểm trung bình tích lũy (CPA) đạt từ loại khá trở lên;
+d) Không bị cảnh báo học tập hoặc bị xét thi hành kỷ luật;
+2. Không cho phép chuyển CTĐT đối với sinh viên đã học từ năm thứ hai trở đi.
+3. Sinh viên thuộc các trường hợp sau được quyền đề nghị chuyển sang học một chương trình thuộc hình thức VLVH của ĐHBK Hà Nội nếu có nguyện vọng: 13
+a) Sinh viên đang học hình thức chính quy;
+b) Sinh viên đã bị buộc thôi học do kết quả học tập yếu kém;
+c) Sinh viên không hoàn thành CTĐT trong thời gian học tập cho phép. Các trường hợp này được xem xét chuyển nếu còn trong thời gian học tập theo quy định đối với hình thức vừa làm vừa học. Khoản 3 Điều này không áp dụng với sinh viên đã xin thôi học.
+4. Kết quả học tập của các học phần đã tích lũy của sinh viên chuyển chương trình hoặc chuyển hình thức đào tạo sẽ được xem xét để bảo lưu và công nhận tương đương theo các học phần trong chương trình mới.
+5. Sinh viên từ trường khác muốn chuyển tới học tại ĐHBK Hà Nội phải đáp ứng điều kiện trúng tuyển của CTĐT cùng khóa tuyển sinh, đồng thời phải được sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo đang học. Thời gian học tập toàn khóa được tính từ khi sinh viên trúng tuyển vào cơ sở đào tạo thứ nhất.
+6. Với những trường hợp đặc biệt Giám đốc ĐHBK Hà Nội thành lập Hội đồng đánh giá và quyết định.
+Điều 18. Học cùng lúc hai chương trình
+1. Sinh viên thuộc hình thức đào tạo chính quy có thể đăng ký học thêm các học phần của một CTĐT khác, nhưng chỉ được hưởng các quyền lợi chính thức và được xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học chương trình thứ hai.
+2. Sinh viên được đăng ký học chương trình thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất. Tại thời điểm đăng ký, sinh viên phải có học lực tính theo điểm trung bình tích lũy (CPA) xếp loại từ trung bình trở lên và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.
+3. Trong thời gian học CTĐT thứ hai, sinh viên phải luôn đảm bảo khối lượng học tập ngành thứ nhất theo quy định với điểm CPA từ trung bình trở lên và không nằm trong diện bị cảnh báo học tập. Sinh viên không duy trì được kết quả này sẽ bị loại khỏi danh sách đăng ký học chương trình thứ hai.
+4. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất.
+5. Khi học chương trình thứ hai, sinh viên được công nhận TC của những học phần có nội dung và khối lượng học tập tương đương ở chương trình thứ nhất. Những học phần được công nhận tương đương này sẽ được cho điểm miễn (điểm R).
+6. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai, nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng kí xét muộn nhất 02 năm trước thời điểm xét tốt nghiệp chương trình thứ hai. 14
+7. Sinh viên hội tụ đủ điều kiện tốt nghiệp cả hai CTĐT sẽ được cấp hai bằng tốt nghiệp và phụ lục văn bằng tương ứng. Các học phần chung giữa hai CTĐT sẽ được công nhận và ghi điểm trên cả hai phụ lục văn bằng.
+Điều 19. Cảnh báo học tập và buộc thôi học
+1. Kết quả học tập được đánh giá vào cuối mỗi học kỳ chính để xác định mức độ cảnh báo học tập với sinh viên và được quy định như sau:
+a) Nâng một mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 8.
+b) Nâng hai mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học, không đăng ký học tập.
+c) Áp dụng cảnh báo học tập mức 3 đối với sinh viên có số TC nợ đọng từ đầu khóa lớn hơn 24.
+d) Sinh viên đang bị cảnh báo học tập mức 1 và mức 2, nếu số TC không đạt trong học kỳ nhỏ hơn hoặc bằng 4 thì được hạ một mức cảnh báo học tập.
+đ) Sinh viên đang bị cảnh báo học tập mức 3, nếu số TC nợ đọng từ đầu khóa nhỏ hơn hoặc bằng 24 thì được hạ cảnh báo học tập xuống mức 2.
+e) Không xem xét cảnh báo học tập với học kỳ hè.
+2. Hạn chế khối lượng học tập là hình thức buộc những sinh viên đang bị cảnh báo học tập hoặc chưa đạt chuẩn ngoại ngữ đăng ký số TC học phần ít hơn bình thường, cụ thể như sau: a) Sinh viên thuộc các CTĐT chuẩn được đăng ký tối đa 14 TC và tối thiểu 8 TC cho một học kỳ chính;
+b) Sinh viên thuộc các chương trình ELITECH và các CTĐT hợp tác quốc tế được đăng ký tối đa 18 TC và tối thiểu 8 TC cho một học kỳ chính.
+3. Buộc thôi học là hình thức áp dụng đối với những sinh viên có kết quả học tập rất kém, cụ thể trong các trường hợp như sau:
+a) Sinh viên bị cảnh báo học tập mức 3 lần thứ hai liên tiếp.
+b) Sinh viên học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại khoản 3 Điều 3 của Quy chế này.
+Điều 20. Xử lý vi phạm đối với sinh viên
+1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 của Điều này. 15
+2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.
+3. Sinh viên sử dụng chứng chỉ ngoại ngữ giả hoặc chứng chỉ Giáo dục quốc phòng-an ninh giả sẽ bị buộc thôi học.
+4. Sinh viên sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp sẽ bị thu hồi, huỷ bỏ. 
+CHƯƠNG III ĐÀO TẠO KỸ SƯ
+Điều 21. Đăng ký học tập chương trình kỹ sư
+1. Đăng ký học phần: học viên thực hiện quy trình đăng ký học tập theo kế hoạch học tập chuẩn hoặc theo kế hoạch cá nhân. Học viên có thể đăng ký tối thiểu 12 TC và tối đa 24 TC trong một học kỳ chính. Không áp dụng ngưỡng đăng ký tối thiểu với học kỳ cuối khóa.
+2. Quy trình đăng ký học tập thực hiện theo khoản 1 Điều 10 của Quy chế này.
+3. Trong quá trình học tập ở bậc đào tạo cử nhân, học viên được đăng ký học trước tối đa 15 TC các học phần thuộc CTĐT kỹ sư.
+Điều 22. Thực tập tốt nghiệp và Đồ án tốt nghiệp kỹ sư
+1. Học viên được đăng ký thực tập tốt nghiệp, được giao đề tài Đồ án tốt nghiệp kỹ sư (sau đây gọi tắt là ĐATN KS) nếu có tổng số TC chưa đạt không vượt quá 8 TC so với yêu cầu của CTĐT (không tính số TC của các học phần thực tập tốt nghiệp và ĐATN KS).
+2. Thực tập tốt nghiệp được thực hiện toàn thời gian tại doanh nghiệp trong thời gian tối thiểu 10 tuần.
+3. Đề tài tốt nghiệp gắn liền với nội dung thực tập hoặc giải quyết các vấn đề chuyên môn xuất phát từ thực tế của doanh nghiệp.
+4. Việc đánh giá kết quả thực hiện ĐATN KS được thực hiện theo khoản 3 Điều 13 của Quy chế này. Đồ án tốt nghiệp kỹ sư được đánh giá đạt khi điểm đánh giá học phần đạt từ điểm C trở lên.
+Điều 23. Đăng ký tốt nghiệp kỹ sư
+1. ĐHBK Hà Nội xét tốt nghiệp nhiều đợt trong năm. Học viên muốn được xét tốt nghiệp phải đăng ký theo các mốc thời gian quy định trong Khung kế hoạch thời gian năm học.
+2. Học viên có thể đăng ký học nhiều hơn yêu cầu của CTĐT, nhưng khi đăng ký tốt nghiệp chỉ chọn đủ hoặc không nhiều hơn 3 TC theo yêu cầu của chương trình. Các 16 trường hợp ngoại lệ sẽ do Hội đồng xét tốt nghiệp quyết định và trình Giám đốc ĐHBK Hà Nội phê duyệt.
+3. Học viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:
+a) Đã hoàn thành đầy đủ các học phần theo yêu cầu của CTĐT trong thời gian quy định.
+b) Đã nộp đồ án tốt nghiệp cho thư viện theo quy cách của bản đồ án do ĐHBK Hà Nội quy định.
+c) Đạt chuẩn ngoại ngữ đầu ra.
+d) Điểm trung bình tích lũy toàn khóa đạt từ 2,0 trở lên.
+đ) Không nằm trong danh sách đang bị kỷ luật hoặc bị Hội đồng kỷ luật của ĐHBK Hà Nội xét kỷ luật ở mức đình chỉ học tập hoặc buộc thôi học.
+e) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự.
+4. Học viên đạt đủ điều kiện tốt nghiệp được Giám đốc ĐHBK Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành các nghĩa vụ liên quan.
+5. Học viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT.
+Điều 24. Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư
+1. Điểm trung bình toàn khóa là điểm trung bình tích lũy của cả giai đoạn đào tạo cử nhân đã tốt nghiệp và giai đoạn đào tạo kỹ sư, với trọng số là tỷ lệ phần trăm của số TC tích lũy của mỗi giai đoạn đào tạo trong tổng số TC tích lũy của cả hai giai đoạn.
+2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6 Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của học viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức: a) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số TC tích lũy của cả giai đoạn đào tạo cử nhân và kỹ sư. Quy định này không xét tới số TC của các học phần học cải thiện điểm;
+b) Học viên bị Hội đồng kỷ luật của ĐHBK Hà Nội đề nghị áp dụng mức kỷ luật từ cảnh cáo trở lên.
+Điều 25. Nghỉ học tạm thời, tự nguyện thôi học và buộc thôi học 1. Đối với học viên được điều động vào lực lượng vũ trang, đi làm nghĩa vụ quốc gia, quốc tế, thời gian nghỉ học tạm thời (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học tại ĐHBK Hà Nội.
+2. Học viên bị ốm hoặc tai nạn buộc phải điều trị trong thời gian dài, hoặc nghỉ thai sản theo quy định được phép nghỉ học tạm thời. Thời gian nghỉ học tạm thời (là thời gian được ghi trong giấy xác nhận của cơ sở khám, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế) không tính vào thời gian chậm tiến độ nếu tổng cộng không 17 vượt quá 2 học kỳ chính; thời gian nghỉ trên 2 học kỳ được tính vào thời gian học chậm tiến độ.
+3. Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại khoản 1 và khoản 2 Điều này thì thời gian nghỉ học tối đa cho phép là 02 học kỳ chính và được tính vào thời gian học tập.
+4. Học viên phải nộp đơn đề nghị trở lại học chậm nhất 1 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc gia, quốc tế, học viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+5. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt.
+6. Học viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Học viên đã có quyết định cho thôi học sẽ không được tiếp nhận trở lại.
+7. Học viên bị buộc thôi học trong các trường hợp sau đây:
+a) Học viên đã học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại điểm a khoản 3 Điều 3 của Quy chế này.
+b) Học viên không đăng ký học tập trong hai học kỳ liên tiếp.
+c) Học viên bị truy cứu trách nhiệm hình sự hoặc vi phạm quy chế học tập, quy chế thi tới mức phải buộc thôi học.
+Điều 26. Xử lý vi phạm đối với học viên
+Việc xử lý vi phạm đối với học viên thực hiện theo Điều 20 của Quy chế này. 
+CHƯƠNG IV ĐÀO TẠO THẠC SĨ
+Điều 27. Đăng ký học tập chương trình thạc sĩ
+1. Đăng ký học phần: Học viên thực hiện quy trình đăng ký học phần từ tài khoản học tập cá nhân theo kế hoạch học tập chuẩn hoặc theo kế hoạch cá nhân. Học viên được đào tạo theo hình thức chính quy có thể đăng ký tối đa 24 TC trong một học kỳ chính nhưng không vượt quá 45 TC trong một năm học. Học viên được đào tạo theo hình thức vừa làm vừa học có thể đăng ký tối đa 20 TC trong một học kỳ chính nhưng không vượt quá 30 TC trong một năm học. Học kỳ cuối khóa không áp dụng ngưỡng tối đa nhưng vẫn phải đảm bảo quy định số TC tối đa trong năm học.
+2. Đăng ký lớp chính thức: Dựa trên số lượng học viên đăng ký, ĐHBK Hà Nội đưa ra số lượng lớp sẽ mở và thời khóa biểu cho các lớp này. Học viên chọn lớp học cho những học phần đã đăng ký. Thời gian đăng ký lớp kết thúc chậm nhất 1 tuần trước khi bắt đầu học kỳ. 18
+3. Đối với các học phần được giảng dạy trên lớp, quy mô lớp học phần tối thiểu là 20 học viên. Các trường hợp ngoại lệ được ĐHBK Hà Nội giải quyết theo trình tự như sau: a) Xem xét mở lớp học phần chuyên môn có từ 5 đến 19 học viên theo đơn đề nghị đăng ký của học viên và áp dụng hệ số học phí theo quy định, trong đó ưu tiên các học phần thuộc chương trình theo định hướng nghiên cứu.
+b) Xem xét mở lớp cho dưới 5 học viên đăng ký học lại học phần chuyên môn dưới hình thức làm đồ án, khóa luận hoặc tiểu luận chuyên đề thay thế giờ lên lớp.
+Điều 28. Học bổ sung, miễn học và công nhận tín chỉ
+1. Học phần bổ sung:
+a) Học viên tốt nghiệp đại học ngành phù hợp hoặc ngành khác so với ngành đăng ký ở trình độ thạc sĩ sẽ phải học bổ sung tối đa 15 TC.
+b) Danh mục các học phần bổ sung và số TC được xác định khi xét hồ sơ đăng ký dự tuyển dựa trên việc đối sánh CTĐT đại học của thí sinh và CTĐT đại học đúng ngành của ĐHBK Hà Nội.
+c) Các học phần bổ sung hoàn thành trước khi bắt đầu học các học phần trong CTĐT chuẩn.
+2. Miễn học và công nhận TC:
+a) Học viên được xem xét miễn học phần và công nhận TC (cho điểm R) của một số học phần khi đã học một CTĐT thạc sĩ khác hoặc đã tốt nghiệp một CTĐT kỹ sư chuyên sâu đặc thù. Những học phần được miễn phải có điểm đánh giá đạt từ điểm C (hoặc quy đổi tương đương) trở lên.
+b) Các học phần miễn học được xác định khi xét hồ sơ đăng ký dự tuyển dựa trên việc đối chiếu CTĐT đã học của thí sinh và CTĐT đúng ngành của ĐHBK Hà Nội. Số TC tối đa được công nhận là 30 TC.
+c) Học viên học chương trình tích hợp Cử nhân - Thạc sĩ khoa học của ĐHBK Hà Nội được đăng ký học trước tối đa 15 TC các học phần thuộc CTĐT thạc sĩ.
+d) Các học phần được miễn không được sử dụng để tính điểm trung bình tích lũy toàn khóa.
+đ) Học viên chuyển về tiếp tục học thạc sĩ tại ĐHBK Hà Nội từ cơ sở đào tạo khác ở trong nước hoặc ngoài nước sẽ được xem xét miễn học và công nhận TC học phần tương đương, căn cứ kết quả học tập của học viên tại cơ sở đào tạo đó.
+3. Kết quả học tập có giá trị công nhận trong thời hạn 05 năm. Số TC của các học phần được miễn học không vượt quá 50% khối lượng chương trình toàn khóa.
+4. Học viên đã có quyết định cho thôi học hoặc buộc thôi học, nếu tiếp tục dự tuyển và trúng tuyển vào ĐHBK Hà Nội thì phải học lại toàn bộ chương trình. 19
+Điều 29. Đăng ký đề tài luận văn thạc sĩ
+1. Đăng ký đề tài luận văn thạc sĩ là yêu cầu bắt buộc đối với học viên trong học kỳ đầu của khóa học. Riêng học viên học chương trình định hướng nghiên cứu phải hoàn thành việc đăng ký đề tài trong học kỳ đầu tiên.
+2. Học viên thực hiện đăng ký đề tài luận văn theo hai cách sau:
+a) Chọn lựa một đề tài và tên người hướng dẫn trong danh mục các đề tài do trường/khoa đề xuất.
+b) Tự đề xuất tên đề tài luận văn, đề cương nghiên cứu chi tiết và người hướng dẫn (dự kiến).
+3. Căn cứ thông tin đăng ký đề tài của học viên, ĐHBK Hà Nội xem xét và ra quyết định giao đề tài và người hướng dẫn. Các trường hợp không được thông qua phải thực hiện đăng ký lại.
+4. Ngay sau khi nhận quyết định giao đề tài, học viên phải xây dựng kế hoạch thực hiện luận văn thạc sĩ và được người hướng dẫn đồng ý.
+Điều 30. Điều kiện được bảo vệ luận văn thạc sĩ
+Học viên có đủ các điều kiện sau đây thì được bảo vệ luận văn thạc sĩ:
+1. Đã hoàn thành đầy đủ các học phần theo yêu cầu của CTĐT trong thời gian quy định.
+2. Đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc các chứng chỉ tương đương khác do Bộ Giáo dục và Đào tạo quy định, hoặc bằng tốt nghiệp trình độ đại học trở lên ngành ngôn ngữ nước ngoài, hoặc bằng tốt nghiệp trình độ đại học trở lên ngành khác mà chương trình được thực hiện hoàn toàn bằng ngôn ngữ nước ngoài.
+3. Điểm trung bình tích lũy (CPA) đạt từ 2,0 trở lên; Điểm đạt của từng học phần trong CTĐT đạt từ điểm C trở lên.
+4. Người hướng dẫn và các phản biện xác nhận bản thảo luận văn đã đáp ứng đầy đủ các yêu cầu về chất lượng và nội dung khoa học để đưa ra bảo vệ.
+Điều 31. Điểm luận văn thạc sĩ
+1. Điểm luận văn thạc sĩ là điểm bảo vệ luận văn cộng điểm thưởng công bố khoa học của học viên (nếu có), được quy định như sau:
+a) Điểm bảo vệ luận văn là trung bình cộng điểm của các thành viên Hội đồng đánh giá luận văn có mặt trong buổi bảo vệ và được làm tròn đến 2 chữ số thập phân, trong đó mỗi thành viên chấm điểm theo thang 10, có thể lẻ tới 0,5 . Hội đồng đánh giá luận văn cho điểm bảo vệ luận văn từ 8,5 trở lên chỉ khi học viên có công bố khoa học
+b) Điểm thưởng công bố khoa học đối với học viên có thành tích công bố khoa học sau đây: có bài báo khoa học liên quan đến nội dung luận văn đã được công bố (hoặc chấp nhận đăng) trên tạp chí khoa học hoặc tuyển tập hội nghị khoa học; có báo cáo tổng kết đề tài khoa học công nghệ cấp Đại học do học viên chủ trì và đã được 20 nghiệm thu, hoặc đề tài nghiên cứu đã được nghiệm thu do người hướng dẫn chủ trì và học viên là người thực hiện chính để giải quyết các vấn đề nghiên cứu của luận văn. Điểm thưởng công bố khoa học do Hội đồng đánh giá luận văn quyết định, nằm trong khoảng từ 0,5 đến 1,5.
+2. Luận văn đạt yêu cầu khi điểm bảo vệ luận văn đạt từ điểm C trở lên và không có điểm của thành viên Hội đồng nào dưới 5 theo thang điểm 10.
+Điều 32. Bảo vệ luận văn lần thứ hai
+1. Trong trường hợp luận văn không đạt yêu cầu và học viên còn được phép học tối thiểu 03 tháng, học viên được phép chỉnh sửa, bổ sung luận văn để bảo vệ lần thứ hai trong thời hạn 03 tháng tính từ ngày bảo vệ luận văn lần thứ nhất.
+2. Trong trường hợp luận văn bảo vệ lần thứ hai vẫn không đạt yêu cầu, nếu học viên có nguyện vọng và còn được phép học tại ĐHBK Hà Nội đủ 06 tháng theo quy định về thời gian học tập tối đa tại điểm b khoản 3 Điều 3 Quy chế này thì có thể đăng ký đề tài mới cho luận văn thạc sĩ để thực hiện. Không tổ chức bảo vệ luận văn lần thứ 3.
+3. Học viên tự chi trả kinh phí cho việc chỉnh sửa, bổ sung luận văn và tổ chức bảo vệ luận văn lần thứ hai; kinh phí thực hiện và bảo vệ luận văn theo đề tài mới.
+Điều 33. Điều kiện tốt nghiệp thạc sĩ và xếp hạng tốt nghiệp
+1. Học viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:
+a) Luận văn đạt yêu cầu.
+b) Hoàn thành việc nộp quyển luận văn đã được chỉnh sửa theo kết luận của Hội đồng đánh giá luận văn.Công khai toàn văn quyển luận văn trên website theo quy định trong thời gian ít nhất 30 ngày, trừ một số đề tài thuộc các lĩnh vực cần bảo mật thực hiện theo quy định của Nhà nước.
+c) Đã nộp quyển luận văn tốt nghiệp cho thư viện theo quy cách của bản luận văn do ĐHBK Hà Nội quy định.
+d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị lỷ luật, đình chỉ học tập.
+2. Hạng tốt nghiệp thạc sĩ được xếp dựa trên điểm trung bình tích lũy toàn khóa tính cho toàn bộ các học phần đã học trong chương trình, kể cả luận văn thạc sĩ. Riêng các học phần được miễn học không đưa vào tính CPA để xếp hạng tốt nghiệp. 3,6 - 4,0 Xếp loại Trung bình Khá Giỏi Xuất sắc
+3. Học viên đạt đủ điều kiện tốt nghiệp được Giám đốc ĐHBK Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành các nghĩa vụ liên quan. 21
+4. Học viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT.
+Điều 34. Nghỉ học tạm thời và bảo lưu kết quả học tập
+1. Đối với học viên được điều động vào lực lượng vũ trang, đi làm nghĩa vụ quốc gia, quốc tế, thời gian nghỉ học tạm thời (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học tại ĐHBK Hà Nội.
+2. Học viên bị ốm hoặc tai nạn buộc phải điều trị trong thời gian dài, hoặc nghỉ thai sản theo quy định được phép nghỉ học tạm thời. Thời gian nghỉ học tạm thời (là thời gian được ghi trong giấy xác nhận của cơ sở khám, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế) không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 2 học kỳ chính; thời gian nghỉ trên 2 học kỳ được tính vào thời gian học chậm tiến độ.
+3. Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại khoản 1 và khoản 2 Điều này, học viên phải học ít nhất một học kỳ tại ĐHBK Hà Nội, không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, mới được xem xét cho nghỉ học tạm thời. Thời gian nghỉ học tối đa là 12 tháng và được tính vào thời gian học tập.
+4. Học viên phải nộp đơn đề nghị trở lại học chậm nhất 1 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc gia, quốc tế, học viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+5. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt. Điều 35. Gia hạn thời gian học tập, thôi học
+1. Học viên học chậm tiến độ so với thời gian thiết kế của chương trình thạc sĩ phải làm thủ tục xin gia hạn thời gian học tập.
+2. Học viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Học viên đã có quyết định cho thôi học không được tiếp nhận trở lại.
+3. Học viên bị buộc thôi học trong các trường hợp sau đây:
+a) Học viên học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại điểm b khoản 3 Điều 3 Quy chế này.
+b) Học viên không đăng ký học tập trong hai học kỳ liên tiếp.
+c) Học viên bị truy cứu trách nhiệm hình sự hoặc vi phạm quy chế học tập, quy chế thi. 22 CHƯƠNG V ĐÀO TẠO TIẾN SĨ
+Điều 36. Lập kế hoạch và báo cáo tiến độ thực hiện
+1. NCS được coi là thành viên chính thức của đơn vị chuyên môn ngay sau khi có quyết định công nhận NCS; chịu sự giám sát và kiểm tra việc thực hiện kế hoạch học tập, nghiên cứu khoa học của đơn vị chuyên môn.
+2. Căn cứ kế hoạch học tập chuẩn toàn khóa của CTĐT tiến sĩ, NCS xây dựng kế hoạch chi tiết theo từng học kỳ và từng năm học, báo cáo đơn vị chuyên môn và người hướng dẫn thông qua.
+3. NCS phải tham gia đầy đủ và có báo cáo chuyên đề tại các buổi sinh hoạt khoa học định kỳ tại đơn vị chuyên môn; có trách nhiệm báo cáo về kết quả, tiến độ học tập và nghiên cứu khoa học theo yêu cầu của đơn vị chuyên môn và đơn vị quản lý NCS.
+4. Trong thời hạn đến ngày 30/6 và ngày 31/12 hàng năm, định kỳ 6 tháng kể từ khi có quyết định công nhận NCS, NCS phải trình bày báo cáo tiến độ học tập đã thực hiện trong 6 tháng trước đó tại hội thảo khoa học do đơn vị chuyên môn tổ chức.
+Điều 37. Học phần bổ sung và học phần tiến sĩ
+1. Các học phần bổ sung nhằm hỗ trợ NCS có đủ kiến thức, trình độ chuyên môn để thực hiện đề tài nghiên cứu.
+a) Đối với NCS đã có bằng thạc sĩ, khối lượng kiến thức cần phải học bổ sung được xác định căn cứ vào các học phần đã tích lũy ở trình độ thạc sĩ, kiến thức cần cập nhật, bổ sung và yêu cầu của lĩnh vực, đề tài nghiên cứu. Khối lượng kiến thức tối thiểu 4 TC tương ứng với 2 học phần.
+b) Đối với NCS chưa có bằng thạc sĩ: các học phần bổ sung bao gồm các học phần ở trình độ thạc sĩ theo định hướng nghiên cứu thuộc ngành tương ứng trừ luận văn thạc sĩ. Khối lượng kiến thức tối thiểu 30 TC.
+c) NCS đăng ký các học phần bổ sung thuộc chương trình (đại học, thạc sĩ) nào thì sẽ học theo lớp học phần thuộc chương trình đó.
+2. Các học phần tiến sĩ nhằm nâng cao trình độ lý thuyết, cập nhật các kiến thức mới nhất của lĩnh vực chuyên môn, phương pháp nghiên cứu và khả năng ứng dụng các phương pháp nghiên cứu trong lĩnh vực, đề tài nghiên cứu. a) Mỗi NCS phải hoàn thành tối thiểu 8 TC tương ứng 3-4 học phần tiến sĩ.
+b) NCS phải thực hiện quy trình đăng ký học phần tiến sĩ từ tài khoản học tập trong thời hạn 4 tuần đầu của học kỳ. Học phần tiến sĩ được tổ chức giảng dạy cho lớp có 5 NCS trở lên; trong trường hợp dưới 5 NCS, học phần được thực hiện dưới hình thức hướng dẫn, làm đồ án, khoá luận hoặc tiểu luận để thay thế giờ lên lớp.
+3. NCS phải hoàn thành tất cả các học phần bổ sung, các học phần tiến sĩ với điểm đạt từ điểm C trở lên theo yêu cầu của chương trình trong vòng 2 năm kể từ khi có quyết định công nhận NCS. Trong trường hợp quá thời hạn 2 năm nhưng không thể 23 hoàn thành, NCS có thể đề nghị xin gia hạn thời gian thực hiện trong khoảng thời gian 6 tháng kế tiếp; quá thời hạn trên vẫn không thể hoàn thành thì bị xem xét cho thôi học.
+Điều 38. Tiểu luận tổng quan và chuyên đề tiến sĩ
+1. Tiểu luận tổng quan yêu cầu NCS thể hiện khả năng phân tích, đánh giá các công trình nghiên cứu trong nước và quốc tế liên quan trực tiếp đến đề tài nghiên cứu, từ đó rút ra mục đích và nhiệm vụ nghiên cứu của luận án tiến sĩ. a) NCS thực hiện Tiểu luận tổng quan dưới sự hướng dẫn của người hướng dẫn khoa học. Tiểu luận tổng quan được đánh giá theo hình thức báo cáo khoa học trước đơn vị chuyên môn. Tiểu luận tổng quan được đánh giá đạt yêu cầu nếu được người hướng dẫn và đơn vị chuyên môn thông qua.
+b) NCS phải hoàn thành Tiểu luận tổng quan với kết quả đạt yêu cầu trong vòng 12 tháng kể từ khi có quyết định công nhận NCS.
+2. Các chuyên đề tiến sĩ yêu cầu NCS nâng cao năng lực nghiên cứu và tự nghiên cứu, cập nhật kiến thức mới, giải quyết một số nội dung liên quan trực tiếp đến đề tài nghiên cứu của luận án tiến sĩ. NCS có thể sử dụng nội dung bài báo của mình liên quan trực tiếp đến kết quả luận án tiến sĩ công bố trên tạp chí ISI/Scopus để phát triển thành chuyên đề tiến sĩ. a) NCS phải hoàn thành 3 chuyên đề tiến sĩ tương đương với khối lượng 6 TC với thời hạn chậm nhất là 1 tháng trước khi trình hồ sơ đăng ký đánh giá luận án ở đơn vị chuyên môn.
+b) NCS phải đăng ký thực hiện các chuyên đề tiến sĩ. Tên của chuyên đề do NCS đề xuất và phải được sự đồng ý của người hướng dẫn khoa học.
+c) Các chuyên đề tiến sĩ được đánh giá theo hình thức báo cáo khoa học trước Tiểu ban đánh giá. Chuyên đề tiến sĩ được đánh giá là đạt nếu điểm trung bình của Tiểu ban đạt từ điểm 5,5 trở lên và không có điểm của thành viên nào dưới 5,0 tính theo thang điểm 10.
+Điều 39. Luận án tiến sĩ
+1. Luận án tiến sĩ là kết quả nghiên cứu khoa học của NCS, trong đó chứa đựng những đóng góp mới về lý luận và thực tiễn ở lĩnh vực chuyên môn, có giá trị trong việc phát triển, gia tăng tri thức khoa học và giải quyết trọn vẹn vấn đề đặt ra của đề tài luận án.
+2. Quyển thuyết minh Luận án tiến sĩ phải đáp ứng quy định về hình thức, cách trình bày luận án; số trang nội dung; quy định trích dẫn và danh mục tài liệu tham khảo của ĐHBK Hà Nội, trong đó phải dành tối thiểu một nửa khối lượng thuyết minh để trình bày các kết quả nghiên cứu và các biện luận, đánh giá khoa học riêng của NCS. 24
+3. Luận án tiến sĩ phải đảm bảo tuân thủ pháp luật về bảo vệ quyền sở hữu trí tuệ, cụ thể:
+a) Trích dẫn đầy đủ và chỉ rõ nguồn tham khảo các kết quả nghiên cứu của các tác giả khác (nếu có);
+b) Trong trường hợp luận án sử dụng nội dung công trình khoa học của tập thể mà NCS là đồng tác giả thì phải có văn bản đồng ý của các đồng tác giả khác cho phép NCS được sử dụng kết quả của nhóm nghiên cứu;
+c) Tuân thủ các quy định khác của Luật sở hữu trí tuệ.
+Điều 40. Điều kiện được bảo vệ luận án tiến sĩ
+1. NCS có đủ các điều kiện sau đây được đăng ký đánh giá luận án tại đơn vị chuyên môn (bảo vệ luận án cấp cơ sở):
+a) Đã hoàn thành đầy đủ các học phần, báo cáo, chuyên đề theo yêu cầu của CTĐT trong thời gian quy định;
+b) Là tác giả chính (tác giả đứng tên đầu hoặc tác giả liên hệ duy nhất) của tối thiểu 02 bài báo về kết quả nghiên cứu của luận án trong đó có 01 bài đăng trên tạp chí khoa học thuộc danh mục các tạp chí ISI-Scopus và 01 bài đăng trên tạp chí khoa học được Hội đồng Giáo sư nhà nước quy định khung điểm tới 0,75 điểm trở lên theo ngành đào tạo hoặc tác giả chính của tối thiểu 02 bài báo về kết quả nghiên cứu của luận án đăng trên tạp chí khoa học quốc tế có phản biện được Hội đồng Giáo sư nhà nước quy định khung điểm 0,75 điểm trở lên theo ngành đào tạo;
+c) Tổng điểm của tất cả các công trình nghiên cứu trong khoản b mục 1 của Điều này phải đạt từ 2,0 điểm trở lên tính theo điểm đối đa do Hội đồng Giáo sư nhà nước quy định cho mỗi loại công trình (không chia điểm khi có đồng tác giả);
+d) Luận án đã được góp ý và đánh giá qua các hội thảo chuyên môn, trong đó hội thảo lần cuối có kết luận (ghi trong biên bản) đồng ý cho NCS đưa luận án ra bảo vệ trước Hội đồng cấp cơ sở;
+đ) Người hướng dẫn (hoặc tập thể hướng dẫn) xác nhận chất lượng của luận án đã đáp ứng yêu cầu và đồng ý cho NCS đăng ký bảo vệ luận án cấp cơ sở;
+e) Các NCS có quyết định công nhận tại thời điểm trước ngày 18 tháng 5 năm 2017 phải có thêm điều kiện đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+2. Điều kiện để NCS được bảo vệ luận án ở Hội đồng đánh giá luận án cấp Đại học (bảo vệ luận án cấp Đại học):
+a) Luận án của NCS được đơn vị chuyên môn đề nghị được đánh giá ở Hội đồng đánh giá luận án cấp Đại học;
+b) Luận án của NCS được các phản biện độc lập tán thành. 25
+Điều 41. Đánh giá luận án tiến sĩ
+1. Đánh giá luận án tiến sĩ cấp cơ sở được quy định cụ thể như sau:
+a) NCS được bảo vệ luận án cấp cơ sở nếu đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 40 Quy chế này và hoàn thành Hồ sơ đăng ký bảo vệ cấp cơ sở trong thời hạn đủ 90 ngày tính đến thời điểm kết thúc thời gian học tập chương trình tiến sĩ quy định tại khoản 3 Điều 2 Quy chế này. Trong trường hợp không đủ thời gian 90 ngày, NCS phải làm thủ tục xin gia hạn thời gian học tập theo quy định.
+b) Hội đồng đánh giá luận án cấp cơ sở (sau đây gọi tắt là hội đồng cấp cơ sở) do Hiệu trưởng trường/Trưởng khoa thừa uỷ quyền của Giám đốc ĐHBK Hà Nội ra quyết định thành lập có 7 thành viên gồm chủ tịch, thư ký, 2 phản biện và các uỷ viên. Khoảng thời gian tổ chức đánh giá luận án cấp cơ sở là sau 21 ngày và trước 45 ngày so với ngày ban hành quyết định thành lập hội đồng cấp cơ sở.
+c) Luận án tiến sĩ được tiến hành đánh giá ở cấp cơ sở dưới hình thức sinh hoạt khoa học được tổ chức một lần hoặc nhiều lần, cho đến khi luận án được đề nghị đưa ra đánh giá ở Hội đồng đánh giá luận án cấp Đại học.
+d) Luận án chỉ được đề nghị đưa ra đánh giá ở Hội đồng đánh giá luận án cấp Đại học khi có tối thiểu 6 thành viên của hội đồng cấp cơ sở ở lần đánh giá cuối cùng tán thành (ghi trong phiếu nhận xét luận án).
+đ) Trong vòng 20 ngày sau khi kết thúc đánh giá luận án cấp cơ sở, NCS phải hoàn thành đầy đủ việc sửa chữa và bổ sung toàn văn luận án theo đề nghị của hội đồng cấp cơ sở.
+2. Toàn văn luận án và tóm tắt luận án của NCS được gửi lấy ý kiến của 2 phản biện độc lập trước khi được đưa ra đánh giá ở Hội đồng đánh giá luận án cấp Đại học. NCS hoàn thành bản tiếp thu ý kiến của các phản biện dưới sự trợ giúp của người hướng dẫn trong thời hạn 15 ngày kể từ ngày nhận được kết quả đánh giá của các phản biện độc lập.
+3. Đánh giá luận án tiến sĩ cấp Đại học được quy định cụ thể như sau:
+a) NCS được bảo vệ luận án cấp Đại học nếu đáp ứng đầy đủ các điều kiện quy định tại khoản 2 Điều 40 Quy chế này và hoàn thành Hồ sơ đề nghị đánh giá luận án ở Hội đồng đánh giá luận án cấp Đại học.
+b) Hội đồng đánh giá luận án cấp Đại học do Giám đốc ĐHBK Hà Nội ra quyết định thành lập có 7 thành viên gồm chủ tịch, thư ký, 3 phản biện và các uỷ viên. Thời gian tổ chức bảo vệ luận án cấp Đại học trong vòng 2 tháng kể từ ngày ban hành quyết định thành lập hội đồng cấp Đại học; không tổ chức họp hội đồng cấp Đại học trong trường hợp chủ tịch hoặc thư ký hoặc có từ 2 thành viên hội đồng trở lên vắng mặt.
+c) Thời gian, địa điểm tổ chức đánh giá luận án, tóm tắt và toàn văn luận án, thông tin về những điểm mới của luận án bằng tiếng Việt và tiếng Anh (hoặc tiếng nước ngoài khác) được công bố công khai trên trang thông tin điện tử của ĐHBK Hà Nội chậm nhất 7 ngày trước ngày bảo vệ. 26
+d) Luận án được đánh giá bằng hình thức bỏ phiếu (tán thành hoặc không tán thành), luận án không được thông qua nếu có từ 2 thành viên hội đồng cấp Đại học có mặt tại buổi bảo vệ trở lên bỏ phiếu không tán thành. Hội đồng cấp Đại học có quyết nghị nêu rõ kết luận của Hội đồng về việc không thông qua luận án và lý do hoặc thông qua luận án và các yêu cầu chỉnh sửa, bổ sung (nếu có).
+Điều 42. Đánh giá lại luận án tiến sĩ
+1. Trong trường hợp Hội đồng đánh giá luận án cấp Đại học có quyết nghị không thông qua luận án và cho phép bảo vệ lại, NCS được phép chỉnh sửa, bổ sung luận án và đề nghị bảo vệ luận án lần thứ hai trong vòng 6 tháng nếu NCS còn thời gian theo quy định. Thành phần Hội đồng đánh giá luận án cấp Đại học lần thứ hai phải có tối thiểu 5 thành viên đã tham gia Hội đồng đánh giá luận án cấp Đại học lần thứ nhất trong đó có đủ những thành viên có ý kiến không tán thành luận án và không thành viên nào vắng mặt trong buổi bảo vệ. Quy trình, thủ tục đánh giá lại được thực hiện như quy định tại Khoản 3 Điều 41 của quy chế này.
+2. NCS tự chi trả kinh phí cho việc chỉnh sửa, bổ sung luận án và tổ chức bảo vệ luận án lần thứ hai.
+3. Trong trường hợp luận án bảo vệ lần thứ hai vẫn không đạt yêu cầu, ĐHBK Hà Nội không tổ chức bảo vệ luận án lần thứ ba.
+Điều 43. Xét cấp bằng tiến sĩ
+1. Điều kiện để NCS được xét cấp bằng tiến sĩ:
+a) Luận án của NCS đã được Hội đồng đánh giá luận án cấp Đại học thông qua;
+b) NCS đã hoàn thành việc sửa đổi, bổ sung luận án theo quyết nghị của Hội đồng đánh giá luận án tiến sĩ cấp Đại học và được người hướng dẫn, đơn vị quản lý NCS, chủ tịch Hội đồng xác nhận;
+c) Nếu là trường hợp cần thẩm định theo thông báo của Bộ GD&ĐT thì kết quả thẩm định phải đạt yêu cầu; hoặc chưa nhận được kết quả thẩm định của Bộ GD&ĐT khi đã hết thời hạn 60 ngày làm việc từ khi Hội đồng thẩm định nhận được hồ sơ thẩm định của ĐHBK Hà Nội;
+d) Đã nộp Thư viện Quốc gia Việt Nam và Thư viện Tạ Quang Bửu của ĐHBK Hà Nội (cả bản in và file pdf) toàn văn luận án và tóm tắt luận án hoàn chỉnh cuối cùng có chữ ký của NCS, chữ ký của người hướng dẫn và xác nhận của Giám đốc ĐHBK Hà Nội sau khi đã bổ sung, sửa chữa theo yêu cầu của Hội đồng đánh giá luận án cấp Đại học và Hội đồng thẩm định (nếu có);
+đ) Toàn văn luận án hoàn chỉnh cuối cùng của NCS được đăng trên trang thông tin điện tử của ĐHBK Hà Nội (trừ những luận án được đánh giá theo chế độ mật) trong thời gian 03 tháng.
+2. Căn cứ Hồ sơ xét cấp bằng tiến sĩ của NCS, đối với những NCS đủ điều kiện tốt nghiệp, Giám đốc ĐHBK Hà Nội ra quyết định công nhận trình độ tiến sĩ và cấp bằng cho NCS sau khi tham vấn ý kiến của Hội đồng Khoa học và đào tạo. Việc cấp 27 bằng tiến sĩ cho nghiên cứu sinh được thực hiện trong thời hạn 30 ngày làm việc kể từ ngày quyết định công nhận trình độ tiến sĩ có hiệu lực.
+3. NCS không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT.
+Điều 44. Những thay đổi trong quá trình đào tạo
+1. Việc thay đổi đề tài luận án theo đề xuất của NCS và người hướng dẫn chỉ được phép trong khoảng nửa thời gian đầu của CTĐT tiến sĩ.
+2. Việc bổ sung hoặc thay đổi người hướng dẫn được thực hiện chậm nhất trước 12 tháng tính đến ngày kết thúc khoá đào tạo tiến sĩ theo quyết định công nhận NCS (bao gồm cả thời gian gia hạn nếu có), trừ trường hợp bất khả kháng.
+3. Việc chuyển cơ sở đào tạo khác theo khoản 3 Điều 8 Quy chế này.
+4. Giám đốc ĐHBK Hà Nội xem xét, quyết định cho phép NCS được rút ngắn thời gian học tập tối đa không quá 1 năm nếu NCS hoàn thành đầy đủ CTĐT trước thời hạn.
+5. Trong trường hợp NCS không có khả năng hoàn thành CTĐT đúng hạn, trước khi hết hạn 60 ngày, NCS phải làm thủ tục xin gia hạn.
+6. NCS bị buộc thôi học trong những trường hợp sau:
+a) Hết thời gian theo quy định, NCS không hoàn thành CTĐT hoặc luận án của NCS không được Hội đồng đánh giá luận án cấp Đại học thông qua (bao gồm cả trường hợp cho phép đánh giá lại theo quy định tại Điều 42 Quy chế này).
+b) Vi phạm nghiêm trọng quy định về thực hiện trách nhiệm của NCS hoặc quy định của pháp luật đã được hội đồng chuyên môn hoặc cơ quan có thẩm quyền kết luận.
+7. NCS không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học.
+Điều 45. Công nhận và chuyển đổi kết quả học tập, nghiên cứu
+1. Kết quả các học phần tiến sĩ của NCS đã tích lũy trong CTĐT tiến sĩ được bảo lưu, xem xét công nhận, chuyển đổi trong những trường hợp sau:
+a) NCS bị thôi học và có nguyện vọng được tiếp tục theo học CTĐT thạc sĩ ngành tương ứng nếu đáp ứng những quy định của quy chế tuyển sinh và đào tạo trình độ thạc sĩ hiện hành.
+b) NCS chuyển ngành đào tạo hoặc cơ sở đào tạo.
+c) NCS đã thôi học, đăng ký dự tuyển lại và được công nhận là NCS mới của ĐHBK Hà Nội.
+d) Kết quả các học phần tiến sĩ có giá trị công nhận trong thời hạn 05 năm. Những học phần được công nhận phải có điểm đánh giá đạt từ điểm C (hoặc quy đổi tương đương) trở lên. Việc công nhận và chuyển đổi kết quả học tập trên của NCS phải 28 phù hợp với nội dung, yêu cầu của CTĐT, được thực hiện trên cơ sở đề xuất của Tiểu ban xét tuyển đầu vào. Trường hợp chuyển cơ sở đào tạo hoặc là NCS mới, việc công nhận và chuyển đổi kết quả học tậptối đa không quá 50% tổng khối lượng của các học phần tiến sĩ trong CTĐT. CHƯƠNG VI TỔ CHỨC THỰC HIỆN
+Điều 46. Quy định chuyển tiếp
+1. Đối với các khoá tuyển sinh có quyết định công nhận NCS sau ngày 01 tháng 5 năm 2023, ĐHBK Hà Nội thực hiện theo quy định của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo và Quy chế này.
+2. Đối với các khoá tuyển sinh có quyết định công nhận NCS trong khoảng thời gian từ ngày 15 tháng 8 năm 2021 đến trước ngày 01 tháng 5 năm 2023, ĐHBK Hà Nội thực hiện theo quy định của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo và Quy chế đào tạo ban hành kèm theo Quyết định số 3095/QĐ-ĐHBK-ĐT ngày 22 tháng 12 năm 2021 của Hiệu trưởng Trường ĐHBK Hà Nội.
+2. Đối với các khoá tuyển sinh đã có quyết định công nhận NCS trong khoảng thời gian từ ngày 18 tháng 5 năm 2017 đến trước ngày 15 tháng 8 năm 2021, ĐHBK Hà Nội thực hiện theo quy định của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 08/2017/TT-BGDĐT ngày 14 tháng 4 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo và Quy định số 2764/QĐ-ĐHBK-SĐH ngày 28 tháng 8 năm 2017 của Hiệu trưởng Trường ĐHBK Hà Nội.
+3. Đối với các khoá tuyển sinh đã có quyết định công nhận NCS trước ngày 18 tháng 5 năm 2017, ĐHBK Hà Nội thực hiện theo quy định của Quy chế đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 10/2009/TT-BGDĐT ngày 07 tháng 5 năm 2009 và được sửa đổi, bổ sung một số điều theo Thông tư số 05/2012/TT-BGDĐT ngày 15 tháng 02 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo và Quy định số 3341/QĐ-ĐHBK-SĐH ngày 21 tháng 8 năm 2014 của Hiệu trưởng Trường ĐHBK Hà Nội. 
+Điều 47. Hiệu lực thi hành
+1. Quy chế này được áp dụng từ năm học 2023-2024 cho tất cả các khóa đào tạo, trừ một số điều, khoản như sau:
+a) Điểm a khoản 2 Điều 15 (về việc giảm hạng tốt nghiệp) được áp dụng với các khóa tuyển sinh từ năm 2022. 29
+b) Khoản 2 Điều 18 (về việc học cùng lúc hai chương trình) được áp dụng với các khóa tuyển sinh từ năm 2022.
+c) Những sinh viên thuộc các khóa 64 trở về trước tốt nghiệp chương trình kỹ sư với thời gian học tập chuẩn 5 năm, khối lượng từ 156-164 TC được cấp văn bằng kỹ sư bậc đại học theo Quyết định số 66/QĐ-ĐHBK-ĐT ngày 04/12/2018 của Hiệu trưởng Trường ĐHBK Hà Nội.
+2. Các quy chế, quy định về đào tạo trước đây trái với các điều, khoản của Quy chế này đều hết hiệu lực thi hành./.

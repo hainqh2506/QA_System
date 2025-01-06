@@ -1,0 +1,40 @@
+1. Giới thiệu Khoa Kỹ thuật máy tính
+Tên tiếng Anh: Faculty of Computer Engineering
+Trưởng khoa: PGS. Nguyễn Linh Giang
+Phó Trưởng khoa: TS. Ngô Lam Trung; TS. Trần Hải Anh
+Địa chỉ: Nhà B1, Trường Đại học Bách khoa Hà Nội
+Tel: (+84) 024 38696125
+Email: ce@soict.hust.edu.vn
+Khoa Kỹ thuật máy tính (The Department of Computer Engineering) là đơn vị đào tạo ngành rộng Kỹ thuật máy tính, được thành lập vào ngày 28/11/2021 trên cơ sở hợp thành từ hai Bộ môn: Bộ môn Kỹ thuật máy tính và Bộ môn Truyền thông và Mạng máy tính. Khoa Kỹ thuật máy tính đảm nhận đào tạo cho các hệ đào tạo chính quy từ các chương trình đào tạo chuẩn tới các chương trình đào ạo chất lượng cao Elitech của Trường Công nghệ thông tin và Truyền thông trên các bậc cử nhân, kỹ sư, thạc sỹ đến tiến sỹ. Đồng thời, các cán bộ của Khoa thực hiện các nghiên cứu chuyên sâu về những vấn đề tiên tiến trong lĩnh vực Kỹ thuật máy tính như Hệ nhúng và Internet vạn vật (IoT), Mạng máy tính và Truyền thông dữ liệu, và An toàn thông tin.
+Trong quá trình hình thành và phát triển, Khoa Kỹ thuật máy tính luôn hướng tới sứ mệnh đào tạo nguồn nhân lực chất lượng cao, góp phần hiện thực hóa sứ mệnh của Trường CNTT&TT nói riêng và của Đại học Bách khoa Hà Nội nói chung.
+Khoa tham gia đào tạo theo các chương trình sau:
+Đào tạo đại học ngành rộng Kỹ thuật máy tính với các định hướng: Hệ nhúng và Internet vạn vật; Mạng máy tính và Truyền thông dữ liệu; An toàn thông tin.
+Tham gia đào tạo đại học theo các chương trình khác của Trường CNTT&TT như Việt Nhật, ICT, Elitech, …
+Đào tạo sau đại học:
+Chương trình Thạc sỹ Khoa học tích hợp ngành Kỹ thuật máy tính với các định hướng Trí tuệ nhân tạo và IoT, An toàn không gian số;
+Chương trình Thạc sỹ Công nghệ thông tin;
+Chương trình Thạc sỹ Khoa học Cyber Security;
+Chương trình Thạc sỹ Khoa học DS/AI.
+Đào tạo Tiến sỹ ngành Kỹ thuật máy tính, Mạng máy tính & Truyền thông dữ liệu.
+Khoa đã đạt được nhiều thành tựu nghiên cứu cơ bản và nghiên cứu ứng dụng trong lĩnh vực Kỹ thuật máy tính với các định hướng chuyên sâu về AIoT và ứng dụng, Các công nghệ Mạng tiên tiến, Xủ lý dữ liệu đa phương tiện, Tin sinh học, An toàn không gian số, Xử lý tiếng nói, … . Những nghiên cứu cơ bản cũng như nghiên cứu ứng dụng do cán bộ Khoa thực hiện tập trung trong việc phát triển những sản phẩm mang lại lợi ích cho cộng đồng phù hợp với Công nghiệp 4.0 và Chuyển đổi số. Các cán bộ của Khoa đã chủ trì nhiều đề tài các cấp, từ cấp Bộ, tới cấp Nhà nước và hợp tác Quốc tế và đã đạt được những kết quả khả quan. Một số nhóm nghiên cứu của các cán bộ Khoa đã đạt các giải thưởng uy tín cấp quốc gia trong lĩnh vực CNTT&TT như giải thưởng Nhân tài đất Việt. Những định hướng nghiên cứu chuyên sâu gồm:
+Hệ nhúng và Internet vạn vật (Embedded Systems and IoT)
+Các mô hình mạng tiên tiến (Next generation networks)
+Các hệ thống dịch vụ trực tuyến thông minh (Smart online services)
+Hệ thống Xử lý dữ liệu và Truyền thông đa phương tiện (Multimedia Data Processing and Communications Systems),
+AIoT ứng dụng trong nông nghiệp (AIoT and Applications in Agriculture) ,
+Các giải pháp và hệ thống An toàn an ninh thông tin và mạng…(Network system security solutions)
+Học máy và Học sâu (Machine Learning and Deep Learning)
+Xử lý tín hiệu, xử lý tiếng nói và xử lý ảnh (Signal Processing, Speech and Image Processing)
+Xử lý tín hiệu trong hệ thống định vị sử dụng vệ tinh (Global Navigation Satellite Systems Signal Processing)
+Với số lượng ra trường đồng đều hàng năm, cử nhân, kỹ sư Kỹ thuật máy tính đã giữ những vị trí quan trọng trong các cơ quan, tập đoàn lớn và có những công ty khởi nghiệp thành công. Những sinh viên do Khoa đào tạo và dìu dắt đã trở thành những kỹ sư vững vàng về chuyên môn, có khả năng nghiên cứu, thiết kế, phát triển và triển khai các giải pháp, ứng dụng, hệ thống và dịch vụ đặc thù trong lĩnh vực Kỹ thuật máy tính.
+2. Các kết quả nghiên cứu, ứng dụng
+ Phần mềm soạn thảo tiếng Việt BKED
+Hệ thống Xác thực đa sinh trắc và BioPKI sử dụng công nghệ nhúng
+Hệ thống xác thực đa sinh trắc là sản phẩm của đề tài Nghị định thư 2009-2010 với Malaysia và đề tài Khoa học công nghệ cấp Nhà nước KC 01.11. Hệ thống cung cấp khả năng kiểm soát truy nhập và an toàn giao dịch điện tử sử dụng khóa đa sinh trắc dựa trên vân tay, vân lòng bàn tay trong xác thực chủ thể. Với việc áp dụng công nghệ nhúng trong quá trình lưu trữ và bảo vệ khóa riêng, độ an toàn và khả năng chống giả mạo trong các pha giao dịch điện tử được cải thiện so với các mô hình truyền thống.
+Phần mềm diệt virus BKAV
+Hệ thống xử lý tấn công DDoS và phát hiện Botnet
+Sản phẩm hệ thống phát hiện xâm nhập mạng dựa trên các kỹ thuật AI cho phép phát hiện một số dạng tấn công từ chối dịch vụ phân tán, phát hiện mạng Botnet. Hệ thống là sản phầm của các đề tài cấp Bộ liên tục từ những năm 2009 đến 2018 và vẫn đang tiếp tục được phát triển để có thể phát hiện tấn công theo hành vi. Sản phẩm cho phép giảm số lượng nguồn tấn công bằng cách phát hiện các Botnet, từ đó làm giảm thiểu ảnh hưởng của Botnet; Trực tiếp xử lý tấn công SYN flood khi xảy ra bằng cách phát hiện tấn công kịp thời và xây dựng những cơ chế lọc chặn và điều hướng tấn công.
+Hệ thống IoT kết hợp AI phục vụ giám sát và điều khiển các quá trình nông nghiệp thông minh
+Hệ thống giám sát và điều khiển hệ thống nuôi trồng rau thủy canh, có thể triển khai tại những cơ sở nông nghiệp lớn và các thành phố lớn. Đây là sản phẩm của các đề tài cấp Bộ và đề tài hợp tác quốc tế IVO trong những năm từ 2015 đến nay. Hệ thống được xây dựng trên cơ sở mạng lưới cảm biến kiểm soát các tham số môi trường nuôi trồng, các hệ thống điều khiển thiết bị cung cấp các điều kiện dinh dưỡng và bộ quyết định dựa trên AI cho phép đưa ra những quyết định điều khiển phù hợp với từng giai đoạn sinh trưởng của cây trồng.
+Hệ thống thu nhận và quản lý dữ liệu y tế an toàn dựa trên IoT và Cloud Computing
+Hệ thống quản lý hồ sơ y tế được triển khai trên điện toán đám mây và kết hợp các cơ chế an toàn thông tin trong các kết nối với mạng lưới thu nhận dữ liệu y tế qua các thiết bị di động và cảm biến y tế. Dữ liệu y tế được đảm bảo tính riêng tư, tính xác thực và bảo mật trong toàn bộ quá trình truyền từ các thiết bị thu nhận tới các hệ thống lưu trữ trên điện toán đám mây. Các cơ chế an toàn thông tin cho mô hình kết hợp mạng vạn vật IoT hướng điện toán đám mây làm trung tâm (Cloud centric IoT) bao gồm: các cơ chế xác thực thiết bị dựa trên hạ tầng PKI không tường minh (IC-PKI), an toàn dữ liệu trong nền tảng IoT OM2M, cơ chế xác thực khi truy cập vào hệ thống đám mây dữ liệu của IoT, an toàn dữ liệu thu nhận từ mạng IoT để lưu trữ trong điện toán đám mây.

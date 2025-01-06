@@ -1,0 +1,49 @@
+CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU ĐẶC THÙ CỦA ĐẠI HỌC BÁCH KHOA HÀ NỘI
+(Áp dụng từ K65, tuyển sinh năm 2020)
+I.  GIỚI THIỆU CHUNG
+Đào tạo kỹ sư phục vụ cho xây dựng và phát triển quốc gia đã gắn liền với Đại học Bách khoa Hà Nội ngay từ những ngày đầu thành lập. Trải qua hơn 65 năm lịch sử, Đại học Bách khoa Hà Nội đã đào tạo và cung cấp hàng trăm ngàn kỹ sư làm việc trong rất nhiều lĩnh vực kỹ thuật, công nghệ, các ngành công nghiệp của đất nước.
+Các chương trình đào tạo kỹ sư đã có truyền thống, có bề dày lịch sử luôn được người học và xã hội đánh giá cao bởi nội dung chương trình luôn được cập nhật, đổi mới phù hợp với xu thế phát triển của các ngành, lĩnh vực công nghiệp và chất lượng đào tạo ngày càng được nâng cao đáp ứng yêu cầu công nghiệp hóa, hiện đại hóa của đất nước và tiệm cận chuẩn chất lượng quốc tế.
+Các chương trình đào tạo kỹ sư được sắp xếp trong 10 học kỳ chuẩn (5 năm). Trước năm 2008, các chương trình được tổ chức đào tạo theo niên chế, từ năm 2009 đến 2020 được tổ chức đào tạo theo tín chỉ (TC) với khối lượng 160 TC và theo mô hình 4+1 (Cử nhân 4 năm + Kỹ sư 1 năm). Đối với một ngành đào tạo, chương trình Kỹ sư 5 năm giống chương trình Cử nhân ở 7 học kỳ đầu, nhưng phần kiến thức của 3 học kỳ cuối tập trung vào một chuyên ngành hẹp.
+Năm 2017, Trường ĐH Bách khoa Hà Nội xây dựng đề án phát triển chương trình đào tạo giai đoạn 2017-2025, trong đó đẩy mạnh mô hình đào tạo theo 2 định hướng: nghiên cứu (chương trình tích hợp Cử nhân – Thạc sĩ khoa học) và ứng dụng nghề nghiệp (chương trình tích hợp cử nhân – Kỹ sư chuyên sâu đặc thù).
+Việc xây dựng, phát triển chương trình đào tạo, đặc biệt là chương trình kỹ sư có sự phân tích, đánh giá kỹ càng tác động của Cách mạng công nghiệp 4.0, yêu cầu của thị trường lao động trong thời kỳ hội nhập quốc tế sâu rộng, làm thay đổi nhanh chóng cơ cấu việc làm và đặt ra yêu cầu ngày càng khắt khe hơn về chất lượng nguồn nhân lực kỹ thuật, công nghệ. Do đó, việc nâng cao năng lực nghề nghiệp và các phẩm chất cá nhân để thích ứng với thị trường lao động thay đổi và đòi hỏi ngày càng cao trở nên cấp thiết hơn bao giờ hết.
+Theo đó, Trường ĐH Bách khoa Hà Nội đã xây dựng chương trình tích hợp Cử nhân – Kỹ sư chuyên sâu đặc thù có khối lượng 180 TC, tổng thời gian học tập là 11 học kỳ (5,5 năm). Người tốt nghiệp được nhận bằng Cử nhân kỹ thuật và bằng Kỹ sư chuyên sâu đặc thù có trình độ bậc 7 tương đương Thạc sĩ.
+Chương trình đào tạo Kỹ sư chuyên sâu đặc thù được xây dựng dựa trên kế thừa những ưu điểm của chương trình kỹ sư truyền thống và nâng cao chất lượng dựa trên những yếu tố:
+Nội dung và cấu trúc chương trình có đối sánh, đảm bảo tương đồng với chương trình kỹ sư của các trường đại học kỹ thuật-công nghệ hàng đầu của các nước phát triển;
+Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế. Văn bằng Kỹ sư chuyên sâu đặc thù tương đồng với văn bằng kỹ sư của hầu hết các trường đại học kỹ thuật-công nghệ tại các nước phát triển;
+Đảm bảo mục tiêu đào tạo trình độ đào tạo kỹ sư theo hướng nghề nghiệp chuyên sâu, kết hợp hài hòa giữa kiến thức hiện đại và các kỹ năng cốt lõi; đảm bảo tính tích hợp, liên thông giữa các trình độ đào tạo cử nhân và kỹ sư;
+Đảm bảo nội dung giảng dạy chuyên môn và đẩy mạnh đào tạo trải nghiệm để hình thành các kỹ năng cần thiết, giúp người học tạo dựng và cải thiện năng lực nghề nghiệp theo một lộ trình học tập phù hợp;
+Đặc biệt, người học sẽ có một học kỳ doanh nghiệp, được học tập, làm việc trực tiếp tại doanh nghiệp, thực hiện đồ án gắn liền với yêu cầu của doanh nghiệp và giải quyết, phát triển công nghệ, giải pháp kỹ thuật phù hợp với thực tế công nghệp;
+Để đạt được chất lượng đào tạo mong đợi, Đại học Bách khoa Hà Nội không chỉ đổi mới về nội dung chương trình mà còn đổi mới phương pháp dạy và học, phương thức kiểm tra, đánh giá năng lực người học và tăng cường kiểm soát chất lượng đào tạo nội bộ, kiểm định chương trình đào tạo theo các chuẩn quốc tế.
+Văn bằng tốt nghiệp “Kỹ sư chuyên sâu đặc thù” phù hợp với các quy định của luật Giáo dục đại học hiện hành, Khung trình độ quốc gia Việt Nam.
+II.  CẤU TRÚC CHƯƠNG TRÌNH VÀ CHUẨN ĐẦU RA
+2.1. Cấu trúc chương trình
+- Chương trình được thiết kế tích hợp, liên tục giữa bậc đào tạo cử nhân và kỹ sư chuyên sâu đặc thù. Chương trình có thời gian thiết kế 5,5 năm. Người tốt nghiệp được cấp 2 văn bằng tốt nghiệp Cử nhân (4 năm) và Kỹ sư chuyên sâu đặc thù (1,5 năm).
+- Chương trình tích hợp cử nhân-kỹ sư có khối lượng học tập tương đương 180 TC, bao gồm hai bậc trình độ: Cử nhân (trình độ đại học) và Kỹ sư (tương đương trình độ thạc sĩ). Tính tích hợp được thể hiện bằng việc thiết kế các môđun học phần trong chương trình cử nhân có kiến thức nền tảng liên quan chặt chẽ đến các chuyên ngành kỹ sư để người học lựa chọn học tập.
+Cấu trúc chương trình đào tạo tích hợp Cử nhân – Kỹ sư chuyên sâu đặc thù 180 TC.
+- Chương trình bậc kỹ sư chuyên sâu (sau khi người học đã đạt được trình độ cử nhân 132 TC) được thiết kế gồm các khối kiến thức:
++ Chuyên ngành cốt lõi (19÷20 TC) bao gồm các mô đun theo chuyên ngành/lĩnh vực ứng, cung cấp kiến thức và hình thành năng lực cốt lõi theo định hướng chuyên môn sâu. Trong mỗi mô đun chuyên ngành cốt lõi có một Đồ án chuyên ngành tổng hợp kiến thức của các học phần chuyên ngành cốt lõi để giải quyết một bài toán kỹ thuật cụ thể, tích hợp trang bị kỹ năng trình bày, kỹ năng phản biện cho người học thông qua thuyết trình, bảo vệ đồ án. Trong khối kiến thức cốt lõi này người học được trang bị các kiến thức liên quan tới quản trị, xây dựng, quản lý vận hành dự án kỹ thuật.
++ Khối kiến thức tự chọn kỹ sư (13÷14 TC) được thiết kế để cung cấp các kiến thức chuyên sâu, đặc thù của lĩnh vực ứng dụng của ngành đào tạo, được kết cầu thành các mô đun theo lĩnh vực ứng dụng của chuyên ngành, mỗi mô đun có một Đồ án chuyên ngành để định hướng tới khả năng áp dụng kiến thức chuyên ngành trong một lĩnh vực cụ thể. Ngoài ra người học sẽ lựa chọn các học phần theo chuyên đề với mục đích cập nhật các kỹ thuật-công nghệ mới, hiện đại đang được áp dụng trong công nghiệp, tiếp cận định hướng nghề nghiệp, doanh nghiệp mà người tốt nghiệp có thể làm việc khi ra trường.
++ Thực tập công nghiệp và đồ án kỹ sư (15 TC) được thiết kế thành học kỳ doanh nghiệp. Người học thực hiện trực tiếp tại các cơ sở công nghiệp để nâng cao tính thực tế và khả năng làm việc khi ra trường, đồng thời thực hiện đề tài tốt nghiệp phù hợp với yêu cầu của doanh nghiệp như thiết kế qui trình công nghệ, giải pháp kỹ thuật nhằm nâng cao hiệu quả sản xuất, chất lượng sản phẩm, cải tiến thiết bị, công nghệ, kết hợp cả các kiến thức về kinh tế, quản trị.
+2.2 Chuẩn đầu ra chương trình đào tạo kỹ sư chuyên sâu đặc thù:
+2.2.1 Chuẩn kiến thức:
+Kiến thức chuyên môn chuyên sâu gắn với chuyên ngành hoặc lĩnh vực ứng dụng của ngành để thích ứng tốt với công việc thiết kế giải pháp kỹ thuật, công nghệ.
+Kiến thức thực tế nghề nghiệp gắn với chuyên ngành được đào tạo.
+Kiến thức nền tảng về quản lý và triển khai dự án.
+2.2.2 Chuẩn kỹ năng nghề nghiệp:
+Kỹ năng tự đào tạo, tự cập nhật kiến thức để thích ứng với sự phát triển nhanh của kỹ thuật và công nghệ.
+Kỹ năng tìm kiếm, phân tích và đánh giá tính thực tế và độ tin cậy của các nguồn thông tin khác nhau.
+Kỹ năng truyền tải kiến thức, truyền bá thông tin (trình bày, viết báo cáo kỹ thuật).
+Kỹ năng làm việc theo nhóm, bao gồm khả năng chia sẻ kiến thức, thích ứng và tôn trọng các ý tưởng khác nhau nhằm hướng tới một mục tiêu chung.
+Kỹ năng sử dụng thành thạo máy tính và các phần mềm chuyên dụng, đáp ứng yêu cầu công việc chuyên môn.
+Kỹ năng sử dụng ngoại ngữ đáp ứng yêu cầu công việc chuyên môn.
+Kỹ năng phân tích đánh giá, nhận dạng các vấn đề thực tiễn và phản biện.
+Tư duy hệ thống trong quá trình giải quyết công việc chuyên môn.
+Kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin để đưa ra giải pháp hợp lý về kinh tế kỹ thuật.
+Kỹ năng thiết kế hệ thống/quy trình/sản phẩm trong lĩnh vực nghề nghiệp.
+2.2.3 Chuẩn thái độ, mức độ tự chủ:
+Tôn trọng và tuân thủ pháp luật,
+Có đạo đức nghề nghiệp, ý thức trách nhiệm trong công việc và tác phong chuyên nghiệp.
+Bền bỉ, kiên trì, sáng suốt trước khó khăn, thách thức của công việc và cuộc sống.
+III. DANH MỤC CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU ĐẶC THÙ
+(1)Chương trình Kỹ sư chuyên sâu đặc thù tách thành 2 chương trình riêng Kỹ thuật điện tử và Kỹ thuật viễn thông.
+(2) Chương trình Kỹ sư chuyên sâu đặc thù tách thành 2 chương trình riêng Kỹ thuật Dệt và Công nghệ May

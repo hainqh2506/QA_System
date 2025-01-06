@@ -1,0 +1,281 @@
+2. Điểm rèn luyện được đánh giá bằng thang điểm 100 và được xếp loại như sau: 
+| TT | Khung điểm                | Xếp loại   |
+|----|---------------------------|------------|
+| 1  | Từ 90 đến 100 điểm        | Xuất sắc   |
+| 2  | Từ 80 đến dưới 90 điểm    | Tốt        |
+| 3  | Từ 65 đến dưới 80 điểm    | Khá        |
+| 4  | Từ 50 đến dưới 65 điểm    | Trung bình |
+| 5  | Từ 35 đến dưới 50 điểm    | Yếu        |
+| 6  | Dưới 35 điểm              | Kém        |
+
+PHỤ LỤC KHUNG ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN NĂM HỌC 2022 – 2023 
+| STT | Tiêu chí đánh giá rèn luyện | Minh chứng | Điểm |
+|-----|------------------------------|-------------|------|
+| **I** | **Tiêu chí điểm cộng (Tối đa 100 điểm)** | | |
+| **TC1** | **Điểm học tập (Tối đa 30 điểm)** | | 30 |
+| 1 | Kết quả học tập có điểm trung bình học kỳ (tối đa 24 điểm): | | |
+| | Có kết quả học tập ở mức GPA ≥ 3.6 | * | 20 |
+| | Có kết quả học tập ở mức: 3.2 ≤ GPA < 3.6 | * | 18 |
+| | Có kết quả học tập ở mức: 2.5 ≤ GPA < 3.2 | * | 16 |
+| | Có kết quả học tập ở mức: 2.0 ≤ GPA < 2.5 | * | 14 |
+| | Có kết quả học tập ở mức: 1.5 ≤ GPA < 2.0 | * | 12 |
+| | Có nỗ lực trong học tập (GPA kỳ đánh giá cao hơn kỳ trước, giảm mức cảnh cáo học tập, hoặc duy trì điểm GPA trên 3.6) | * | 8 |
+| 2 | Trình độ ngoại ngữ (tối đa 6 điểm): | | |
+| | Đạt trình độ ngoại ngữ theo tiến độ của chương trình đào tạo | * | 4 |
+| | Đạt chứng chỉ ngoại ngữ tương đương TOEIC 600 điểm trở lên | MC | 2 |
+| 3 | Tham gia các hoạt động học thuật (tối đa 9 điểm): | | |
+| | Tham gia hoạt động, sự kiện liên quan đến NCKH, học thuật, chuyên môn | MC | 3 |
+| | Tham gia khóa đào tạo kỹ năng nghề nghiệp, kỹ năng bổ trợ chuyên môn | MC | 6 |
+| | Thành viên CLB học thuật, Lab nghiên cứu, Nhóm nghiên cứu, nhóm Khởi nghiệp | MC | 6 |
+| | Tham gia công bố khoa học tại Hội nghị hoặc tạp chí khoa học chuyên ngành | MC | 6 |
+| | Tham gia các cuộc thi Olympic cấp trường, cấp quốc gia, quốc tế | MC | 6 |
+| **TC2** | **Điểm về ý thức tổ chức kỷ luật (tối đa 25 điểm)** | | 25 |
+| 1 | Tham gia các hoạt động bắt buộc (tối đa 20 điểm): | | |
+| | Tham gia Sinh hoạt công dân do Trường, Viện tổ chức | MC | 7 |
+| | Tham gia Họp lớp thường kỳ do Viện, Trường tổ chức | MC | 7 |
+| | Nắm vững quy định và quy chế của Nhà trường | MC | 6 |
+| 2 | Tham gia các hoạt động bổ trợ (tối đa 9 điểm): | | |
+| | Tham gia thực tập tăng cường năng lực nghề nghiệp tại doanh nghiệp | MC | 6 |
+| | Tham gia khóa đào tạo kỹ năng mềm | MC | 6 |
+| | Tham gia hội thảo tăng cường kỹ năng mềm, phương pháp học tập, ý thức học tập, làm việc | MC | 3 |
+| | Tham gia các buổi nói chuyện, các chương trình thời sự, phòng chống tội phạm và tệ nạn xã hội | MC | 3 |
+| | Tham gia hoạt động hướng nghiệp, tìm kiếm thông tin việc làm | MC | 3 |
+| **TC3** | **Điểm tham gia hoạt động chính trị, xã hội, văn hoá, thể thao (tối đa 25 điểm)** | | 25 |
+| 1 | Tham gia các hoạt động phong trào văn hóa, thể thao (tối đa 10 điểm): | | |
+| | Tham gia các cuộc thi biểu diễn văn hóa văn nghệ được tổ chức bởi các đơn vị hợp pháp (hát, múa, nhảy, đàn, sáo, vẽ tranh,...) | MC | 6 |
+| | Tham gia các hoạt động phổ biến, tìm hiểu bản sắc văn hóa dân tộc, văn hóa địa phương, văn hóa trường học,... | MC | 3 |
+| | Tham gia các giải thể thao được tổ chức bởi các đơn vị hợp pháp (các môn thể thao chính thức như: chạy, bóng đá, cờ vua, bóng chuyền,...) | MC | 6 |
+| | Tham gia các hoạt động thể dục nâng cao sức khỏe được tổ chức bởi các đơn vị hợp pháp | MC | 4 |
+| | Tham gia cổ vũ các hoạt động phong trào văn hóa, thể thao | MC | 3 |
+| | Thành viên CLB/Tổ/Đội/Nhóm SV hợp pháp, hoạt động về văn nghệ, thể thao, tình nguyện, sở thích | MC | 6 |
+| 2 | Tham gia các hoạt động chính trị - xã hội (tối đa 12 điểm): | | |
+| | Tham gia các diễn đàn sinh viên, các buổi toạ đàm với lãnh đạo Viện, Trường | MC | 3 |
+| | Có hành động tích cực trên không gian mạng (hoạt động online) phù hợp với chủ trương của Nhà trường, Nhà nước được tập thể ghi nhận | MC | 3 |
+| | Tham gia hoạt động khảo sát thông tin do Nhà trường thực hiện | MC | 3 |
+| | Tham gia hoạt động tình nguyện (tình nguyện tại địa phương, cổng trường ATGT, hỗ trợ Công tác tổ chức các hoạt động/sự kiện của Nhà trường, Viện) | MC | 3 |
+| | Tham gia phong trào "cốc trà đá vì cộng đồng", "tuổi trẻ Bách khoa Nhân ái" | MC | 3 |
+| | Tham gia sự kiện chính trị - xã hội (các Đại hội, Hội nghị, cuộc họp của tổ chức Đảng - Đoàn - Hội từ cấp Chi bộ - Chi đoàn - Chi hội trở lên,... và các chương trình mang tính chính trị - xã hội khác) | MC | 3 |
+| | Tham gia hiến máu nhân đạo do Trường và các tổ chức hợp pháp phát động, tổ chức | MC | 6 |
+| | Tham gia Đội tình nguyện hợp pháp trong và ngoài trường, tham gia chiến dịch tình nguyện "mùa hè xanh", "tình nguyện mùa đông", "tiếp sức mùa thi",... | MC | 6 |
+| 3 | Tham gia công tác cán bộ tại Lớp, tổ chức Đoàn - Hội, Tổ/Đội/CLB hợp pháp (tối đa 6 điểm): | | |
+| | Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành xuất sắc nhiệm vụ được tập thể công nhận | MC | 6 |
+| | Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành tốt nhiệm vụ được tập thể công nhận | MC | 4 |
+| | Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành nhiệm vụ được tập thể công nhận | MC | 2 |
+| **TC4** | **Điểm ý thức công dân trong quan hệ cộng đồng (tối đa 20 điểm)** | | 20 |
+| 1 | Các hoạt động liên quan đến trách nhiệm công dân (tối đa 16 điểm): | | |
+| | Hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà trường và nơi cư trú | MC | 8 |
+| | Khai báo thông tin liên lạc và nơi cư trú theo yêu cầu của Nhà trường | MC | 4 |
+| | Tham gia tuyên truyền chủ trương của Đảng, chính sách pháp luật của Nhà nước, quy định của nơi cư trú, quy định và quy chế của Nhà trường được địa phương, Nhà trường công nhận | MC | 4 |
+| | Tham gia giữ gìn an ninh – trật tự, bảo vệ sinh cảnh quan - môi trường, nếp sống văn minh nơi công cộng, quảng bá hình ảnh đẹp của Nhà trường được địa phương, Nhà trường công nhận | MC | 4 |
+| 2 | Có các thành tích trong học tập và rèn luyện (tối đa 4 điểm): | | |
+| | Đạt giải trong các cuộc thi chính thức cấp Trường, cấp Thành phố, cấp Quốc gia, Quốc tế. | MC | 4 |
+| | Đạt danh hiệu "Sinh viên 5 tốt" từ cấp Trường trở lên | MC | 4 |
+| | Được giấy khen, bằng khen của tổ chức Đoàn, Hội, Nhà trường hoặc chính quyền địa phương | MC | 4 |
+| | Đạt loại Khá trở lên khi tham gia học "Lớp bồi dưỡng nhận thức về Đảng". | MC | 4 |
+| | Đối tượng Đảng được kết nạp Đảng hoặc Đảng viên dự bị được chuyển Đảng chính thức. | MC | 4 |
+| | Được khen thưởng bằng khen, huy chương tương đương cấp Bộ trở lên | MC | 4 |
+| **Tổng điểm cộng tối đa** | | | 100 |
+| **II** | **Sinh viên bị trừ điểm nếu vi phạm các quy định sau đây** | | |
+| 1 | Vi phạm trong học tập | | |
+| | Vi phạm quy chế thi từ cảnh cáo trở lên | * | -10 |
+| | Bị kỷ luật khi thi hộ | * | -20 |
+| 2 | Vi phạm trong rèn luyện | | |
+| | Vi phạm Quy tắc ứng xử văn hóa | * | -10 |
+| | Vi phạm các Quy định của Nhà trường, các Quy định của Pháp luật bị lập biên bản, bị ra quyết định xử lý | * | -20 |
+| 3 | Vi phạm pháp luật | | |
+| | Vi phạm pháp luật thuộc nhóm tội danh hình sự | * | -50 |
+| **Tổng điểm trừ** | | | -110 |
+(*) Dựa trên hệ thống quản lý    
+(MC) Minh chứng được cấp khi tham gia hoạt động   
+
+
+3. Mức phí gửi xe: Mức phí gửi xe đạp, xe máy hiện thực hiện theo Quyết định số 44/2017/QĐ-UBND ngày 15/12/2017 của UBND Thành phố Hà Nội áp dụng đối với khu vực trường học. Cụ thể như sau: 
+| Loại xe              | Thường xuyên (đồng/xe/lượt) | Vãng lai (đồng/xe/lượt) |
+|----------------------|-----------------------------|--------------------------|
+| **Xe đạp**           | 1.000                       | 2.000                    |
+| **Xe máy**           | 2.000                       | 3.000                    |
+| **Xe đạp sau 18h**   | 2.000                       | 3.000                    |
+| **Xe máy sau 18h**   | 4.000                       | 4.000                    |
+
+PHỤ LỤC IV DANH MỤC SỐ TÍN CHỈ HỌC PHÍ CÁC CHƯƠNG TRÌNH ĐÀO TẠO (Kèm theo Quy định về việc miễn, giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập cho sinh viên Đại học Bách khoa Hà Nội ban hành kèm theo Quyết định số /QĐ- ĐHBK ngày / /2023 của Giám đốc Đại học Bách khoa Hà Nội) 
+| TT | Ngành | Số TCHP/ Năm học | Nhóm ngành |
+|----|-------|------------------|-------------|
+| 1  | Công nghệ giáo dục | 53 | I |
+| 2  | Quản trị kinh doanh | 53 | III |
+| 3  | Quản trị kinh doanh (VUW BA) | 50 | |
+| 4  | CTTT Phân tích kinh doanh (ngành Quản trị kinh doanh) | 69 | |
+| 5  | Tài chính - Ngân hàng | 53 | |
+| 6  | Kế toán | 54 | |
+| 7  | Hệ thống thông tin quản lý | 53 | |
+| 8  | Kỹ thuật sinh học | 57 | IV |
+| 9  | Hoá học | 56 | |
+| 10 | Quản lý công nghiệp | 53 | V |
+| 11 | Quản lý công nghiệp (CTĐT chuẩn từ năm 2022) | 54 | |
+| 12 | CTTT Logistic và Quản lý chuỗi cung ứng (ngành Quản lý công nghiệp) | 63 | |
+| 13 | Quản lý công nghiệp (CTĐT hợp tác với ĐH Northampton - EM-NU) | 49 | |
+| 14 | Kinh tế công nghiệp | 53 | |
+| 15 | Kỹ thuật hoá học | 58 | |
+| 16 | Kỹ thuật hoá học (CTĐT tài năng) | 58 | |
+| 17 | CTTT (Kỹ thuật) Hóa dược | 69 | |
+| 18 | Kỹ thuật In | 58 | |
+| 19 | Kỹ thuật dệt | 54 | |
+| 20 | Công nghệ dệt, may | 58 | |
+| 21 | Công nghệ da giầy | 58 | |
+| 22 | Toán tin | 53 | |
+| 23 | Toán tin (CTĐT tài năng) | 53 | |
+| 24 | Công nghệ thông tin | 55 | |
+| 25 | Công nghệ thông tin (Cử nhân công nghệ) | 55 | |
+| 26 | CNTT Việt Pháp (ngành CNTT) | 62 | |
+| 27 | CNTT ICT (ngành CNTT) | 69 | |
+| 28 | CNTT Việt Nhật (ngành CNTT) | 68 | |
+| 29 | Công nghệ thông tin CTĐT hợp tác với ĐH La Trobe - LTU | 54 | |
+| 30 | Kỹ thuật phần mềm CTĐT hợp tác với ĐH Victoria Wellington - VUW | 51 | |
+| 31 | Thiết kế & Quản trị hệ thống thông tin CTĐT hợp tác với ĐH Grenoble INP/ Hệ thống thông tin INPG | 65 | |
+| 32 | Khoa học máy tính | 54 | |
+| 33 | KSTN Công nghệ thông tin/ CTĐT tài năng Khoa học máy tính | 54 | |
+| 34 | CTTT Khoa học dữ liệu | 66 | |
+| 35 | CTTT An toàn không gian số (ngành An toàn thông tin) | 67 | |
+| 36 | Kỹ thuật máy tính | 54 | |
+| 37 | Mạng máy tính và truyền thông dữ liệu | 53 | V |
+| 38 | Hệ thống thông tin (Chất lượng cao PFIEV) | 70 | |
+| 39 | Kỹ thuật cơ khí/ Công nghệ kỹ thuật cơ khí | 57 | |
+| 40 | Kỹ thuật cơ điện tử | 55 | |
+| 41 | Công nghệ kỹ thuật cơ điện tử | 56 | |
+| 42 | Kỹ thuật cơ điện tử (CTĐT tài năng) | 55 | |
+| 43 | CTTT (Kỹ thuật) Cơ điện tử | 68 | |
+| 44 | Cơ điện tử CTĐT hợp tác với ĐH Công nghệ Nagaoka | 59 | |
+| 45 | Cơ khí Chế tạo máy hợp tác với ĐH Griffith ME-GU - ngành Kỹ thuật Cơ khí | 54 | |
+| 46 | Cơ điện tử CTĐT hợp tác với ĐH Leibniz Hannover ME-LUH | 61 | |
+| 47 | Kỹ thuật nhiệt | 56 | |
+| 48 | Kỹ thuật cơ khí động lực | 55 | |
+| 49 | Kỹ thuật hàng không | 53 | |
+| 50 | Kỹ thuật hàng không (Chất lượng cao PFIEV)/ KSCLC Cơ khí hàng không | 70 | |
+| 51 | Kỹ thuật ô tô | 54 | |
+| 52 | CTTT Kỹ thuật Ô tô | 67 | |
+| 53 | Kỹ thuật tàu thủy | 54 | |
+| 54 | Kỹ thuật điện tử - viễn thông | 54 | |
+| 55 | Công nghệ kỹ thuật điện tử - viễn thông | 55 | |
+| 56 | Kỹ thuật điện tử - viễn thông (CTĐT tài năng) | 54 | |
+| 57 | Kỹ thuật Điện tử - Viễn thông/ Kỹ thuật điện tử truyền thông CTĐT hợp tác với ĐH Leibniz Hannover - LUH | 59 | |
+| 58 | CTTT Truyền thông số và Kỹ thuật đa phương tiện (ngành Truyền thông số và Kỹ thuật Đa phương tiện) | 67 | |
+| 59 | CTTT Kỹ thuật y sinh | 70 | |
+| 60 | Kỹ thuật y sinh (CTĐT chuẩn từ năm 2022) | 55 | |
+| 61 | CTTT Điện tử - Viễn thông/ CTTT Kỹ thuật Điện tử viễn thông/ CTTT Kỹ thuật điện tử truyền thông | 66 | |
+| 62 | CTTT Hệ thống nhúng và IoT | 63 | |
+| 63 | Kỹ thuật Điện - Điện tử/ Kỹ thuật điện | 54 | |
+| 64 | Kỹ thuật điều khiển và tự động hoá | 54 | |
+| 65 | Kỹ thuật điều khiển và tự động hoá (CTĐT tài năng) | 54 | |
+| 66 | Tin học công nghiệp (Chất lượng cao PFIEV) | 70 | |
+| 67 | CTTT KTĐK-TĐH | 65 | |
+| 68 | CTTT Hệ thống điện và NLTT | 65 | |
+| 69 | CTTT Kỹ thuật ĐK - TĐH và Hệ thống điện | 65 | |
+| 70 | Kỹ thuật vật liệu/ Kỹ thuật vật liệu kim loại | 54 | |
+| 71 | CTTT (Khoa học và) Kỹ thuật Vật liệu | 54 | |
+| 72 | Kỹ thuật môi trường | 55 | |
+| 73 | Quản lý tài nguyên và môi trường | 55 | |
+| 74 | Vật lý kỹ thuật | 54 | |
+| 75 | Vật lý kỹ thuật (CTĐT tài năng) | 54 | |
+| 76 | Kỹ thuật hạt nhân | 53 | |
+| 77 | Vật lý y khoa | 50 | |
+| 78 | Kỹ thuật/ Công nghệ thực phẩm | 55 | V |
+| 79 | CTTT Kỹ thuật thực phẩm | 67 | |
+| 80 | Ngôn ngữ Anh (CT chuẩn) | 54 | VII |
+| 81 | Ngôn ngữ Anh (Tiếng Anh chuyên nghiệp quốc tế IPE) | 52 | |
+(Danh mục này gồm 81 ngành/chương trình đào tạo)
+
+PHỤ LỤC 1 Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu 
+| CHƯƠNG TRÌNH ĐÀO TẠO | NGOẠI NGỮ CHÍNH |
+|-----------------------|------------------|
+| Các chương trình đào tạo chuẩn | Tiếng Anh |
+| Các chương trình đào tạo tài năng | Tiếng Anh |
+| Các chương trình PFIEV | Tiếng Pháp |
+| Các chương trình Elitech, chương trình tăng cường ngoại ngữ | |
+| 1. Công nghệ thông tin Global ICT | Tiếng Anh |
+| 2. Khoa học dữ liệu và Trí tuệ nhân tạo | Tiếng Anh |
+| 3. An toàn không gian số | Tiếng Anh |
+| 4. Kỹ thuật điều khiển - Tự động hóa | Tiếng Anh |
+| 5. Hệ thống điện và năng lượng tái tạo | Tiếng Anh |
+| 6. Kỹ thuật Điện tử - Viễn thông | Tiếng Anh |
+| 7. Kỹ thuật Y sinh | Tiếng Anh |
+| 8. Truyền thông số và kỹ thuật đa phương tiện | Tiếng Anh |
+| 9. Kỹ thuật Cơ điện tử | Tiếng Anh |
+| 10. Kỹ thuật Ô tô | Tiếng Anh |
+| 11. Khoa học và Kỹ thuật Vật liệu | Tiếng Anh |
+| 12. Kỹ thuật hóa dược | Tiếng Anh |
+| 13. Kỹ thuật thực phẩm | Tiếng Anh |
+| 14. Kỹ thuật sinh học | Tiếng Anh |
+| 15. Phân tích kinh doanh | Tiếng Anh |
+| 16. Logistic và Quản lý chuỗi cung ứng | Tiếng Anh |
+| 17. Hệ thống nhúng thông minh và IoT | Tiếng Nhật |
+| 18. Công nghệ thông tin Việt-Nhật | Tiếng Nhật |
+| 19. Công nghệ thông tin Việt-Pháp | Tiếng Pháp |
+| Các chương trình đào tạo hợp tác quốc tế | |
+| 1. Cơ khí Chế tạo máy (ĐH Đại học Griffith, Úc) | Tiếng Anh |
+| 2. Cơ điện tử (ĐH Nagaoka, Nhật Bản) | Tiếng Nhật |
+| 3. Điện tử - Viễn thông (ĐH Leibniz Hannover, Đức) | Tiếng Đức |
+| 4. Cơ điện tử (ĐH Leibniz Hannover, Đức) | Tiếng Đức |
+| 5. Quản trị kinh doanh (ĐH TROY, Mỹ) | Tiếng Anh |
+| 6. Khoa học Máy tính (ĐH TROY, Mỹ) | Tiếng Anh |
+
+PHỤ LỤC 2.
+DANH MỤC QUY ĐỔI TƯƠNG ĐƯƠNG CÁC CHỨNG CHỈ TIẾNG ANH
+Ngày 21/12/2022
+
+| TOEIC | TOEFL iBT | IELTS (Academic) | VSTEP | Cambridge English Tests | Cambridge Scale |
+|-------|-----------|------------------|-------|-------------------------|-----------------|
+| ≤ 345 | < 20      | ≤ 2.0            | Không có | Starters                | 80 ÷ 99         |
+| 350 ÷ 395 | 20 ÷ 24  | 2.5              | Không có | Movers                  | 100 ÷ 119       |
+| 400 ÷ 445 | 25 ÷ 31  | 3.0              | Không có | KET with grade C        | 120 ÷ 129       |
+| 450 ÷ 495 | 32 ÷ 33  | 3.5              | Không có | KET with grade B        | 130 ÷ 139       |
+| 500 ÷ 545 | 34 ÷ 37  | 4.0              | 4 ÷ 4.5 | KET with grade A <br> PET with “Pass” | 140 ÷ 145       |
+| 550 ÷ 595 | 38 ÷ 41  | 4.5              | 5     | KET with grade A <br> PET with “Pass” | 145 ÷ 150       |
+| 600 ÷ 645 | 42 ÷ 45  | 5.0              | 5.5   | PET with “Merit”        | 151 ÷ 159       |
+| ≥ 650 | 46 ÷ 114 | ≥ 5.5            | ≥ 6   | PET with Distinction <br> FCE with grade C/B/A <br> CAE, with grade C/B | 160 ÷ 199       |
+
+**Ghi chú:** Các trường hợp quy đổi tương đương khác do Hiệu trưởng quyết định.
+
+### III. Hạng mục công việc và người phụ trách
+| TT | Hạng mục | Hạng mục viết tắt | Gửi email tới/ vào link đặt câu hỏi | Mẫu đơn |
+|---|---|---|---|---|
+| 1 | Thắc mắc về học phí | [Học phí] | hung.tranle@hust.edu.vn |  |
+| 2 | Biên lai học phí |  |  |  |
+| 3 | Thắc mắc về miễn giảm học phí |  | Đặt câu hỏi tại đây |  |
+| 4 | Kết quả học tập các kỳ (GPA, CPA, tín chỉ nợ...) | [Kết quả HT] | hung.tranle@hust.edu.vn |  |
+| 5 | Mức học bổng A, B, C |  | Đặt câu hỏi tại đây |  |
+| 6 | Sửa thông tin cá nhân trên Cổng thông tin sinh viên, Cấp giấy xác nhận SV, Thủ tục khi bị mất thẻ sinh viên | [Hồ sơ cá nhân] | Đăng ký cấp giấy tờ hoặc sửa thông tin SV tại đây, Thắc mắc về việc cấp giấy tờ tại đây |  |
+| 7 | Công nhận học phần tương đương/thay thế | [Chuyển điểm] | thu.nguyenthiha@hust.edu.vn | Tải tại đây |
+| 8 | Miễn học phần thông thường, Miễn học phần ngoại ngữ, Miễn quân sự, thể dục khi đã có chứng chỉ | [Miễn điểm] | ninh.lequang@hust.edu.vn | Chuyên viên Lê Quang Ninh (202A-C1), Xem hướng dẫn tại đây |
+| 9 | Thắc mắc chưa thay đổi điểm do phúc tra | [Thắc mắc điểm] | ninh.lequang@hust.edu.vn |  |
+| 10 | Thắc mắc chưa nhập điểm hoặc chưa thấy có điểm trong bảng kết quả học tập | [Thắc mắc điểm] | Các bước cần thực hiện: Bước 1: Liên hệ với giảng viên/khoa, viện qua email để biết giảng viên đã nhập điểm lên hệ thống hay chưa. Bước 2: Nếu giảng viên thông báo đã nhập điểm mà chưa thấy có điểm trên hệ thống thì gửi chuyển tiếp (forward) chính email đã liên hệ với giảng viên đó tới địa chỉ: ninh.lequang@hust.edu.vn để được hỗ trợ. Lưu ý: Thời gian từ khi nhập điểm đến khi có điểm trên hệ thống có thể trong vòng 1 ngày (24 giờ) do cần đồng bộ và kiểm tra lại điểm. Xem thêm hướng dẫn tại đây. |  |
+| 11 | Phúc tra điểm |  | 1. Trước tiên sẽ trao đổi qua email với giảng viên giảng dạy học phần. 2. Trong trường hợp vẫn còn thắc mắc sau khi liên hệ với giảng viên: sẽ nộp đơn phúc tra điểm tới khoa, viện phụ trách giảng dạy học phần. 3. Ban Đào tạo không tiếp nhận đơn phúc tra điểm vì không đúng thẩm quyền. | Tham khảo mẫu đơn tại đây |
+| 12 | Thắc mắc về chương trình đào tạo | [Chương trình ĐT] | huong.nguyenthi1@hust.edu.vn |  |
+| 13 | Xét nhận Đồ án/khóa luận tốt nghiệp, Bù tín chỉ | [Xét ĐATN] | huong.nguyenthi1@hust.edu.vn | Tải tại đây |
+| 14 | Thắc mắc về đăng ký tốt nghiệp, Bù tín chỉ và đăng ký tốt nghiệp, Kết quả xét tốt nghiệp | [Xét tốt nghiệp] | huong.nguyenthi1@hust.edu.vn | Tải tại đây |
+| 15 | Lịch đăng ký học tập, Thắc mắc đăng ký học tập | [Lịch đăng ký], [Đăng ký học tập] | dat.nguyenquoc@hust.edu.vn |  |
+| 16 | Đăng ký lớp đầy |  | Liên hệ trực tiếp với trường/khoa/viện quản lý học phần. |  |
+| 17 | Rút/hủy đăng ký học phần | [Rút học phần] | dat.nguyenquoc@hust.edu.vn | Tải mẫu đơn tại đây |
+| 18 | Giới hạn tín chỉ đăng ký do mức cảnh báo, do ngoại ngữ | [Giới hạn TC] | dat.nguyenquoc@hust.edu.vn |  |
+| 19 | Thắc mắc về cập nhật điểm ngoại ngữ lên hệ thống | [TOEIC] | dat.nguyenquoc@hust.edu.vn | Sử dụng khi SV có thắc mắc về việc chưa được cập nhật điểm ngoại ngữ lên hệ thống sau khi thi. Các SV có chứng chỉ ngoại ngữ quốc tế cần gửi qua Trung tâm CLA để thẩm tra chứng chỉ, không nộp trực tiếp cho Ban Đào tạo. |
+| 20 | Thắc mắc về thời khóa biểu | [Thời khóa biểu] | thu.nguyenthiha@hust.edu.vn | Với SV các chương trình đào tạo hợp tác quốc tế, liên hệ chuyên viên Giang Hương: huong.giang@hust.edu.vn |
+| 21 | Xác nhận thứ hạng sinh viên | [Xếp hạng] | dat.nguyenquoc@hust.edu.vn | Chuyên viên Nguyễn Quốc Đạt (202A-C1) |
+| 22 | Xin thôi học và rút hồ sơ sinh viên |  | Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1 | hue.nguyenkim@hust.edu.vn, Chuyên viên tiếp nhận: Nguyễn Kim Huệ (202A-C1), Tải mẫu đơn tại đây |
+| 23 | Xin nghỉ học dài hạn (bảo lưu) | [Nghỉ học] | hue.nguyenkim@hust.edu.vn | Chuyên viên Nguyễn Kim Huệ (202A-C1) |
+| 24 | Tiếp nhận trở lại học sau khi nghỉ dài hạn | [Tiếp nhận học] | hue.nguyenkim@hust.edu.vn | Chuyên viên Nguyễn Kim Huệ (202A-C1), Tải tại đây |
+| 25 | Thủ tục chuyển trường trong nước, Thủ tục chuyển trường từ nước ngoài về |  | Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1, Giải đáp thắc mắc gửi qua email tới chuyên viên Nguyễn Kim Huệ: hue.nguyenkim@hust.edu.vn, Đơn cần nộp trực tiếp tại phòng 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ, Đơn chuyển trường trong nước tại đây (gồm cả phần hướng dẫn ở cuối đơn), Hướng dẫn chuyển trường nước ngoài về tại đây |
+| 26 | Chuyển tiếp từ CN lên kỹ sư | [CN lên KS] | hue.nguyenkim@hust.edu.vn | Chuyên viên Nguyễn Kim Huệ (202A-C1), Tải tại đây |
+| 27 | Chuyển ngành đào tạo/chương trình đào tạo | [Chuyển ngành] | hue.nguyenkim@hust.edu.vn | Chuyên viên Nguyễn Kim Huệ (202A-C1), Tải tại đây |
+| 28 | Chuyển sang học tại Trung tâm Đào tạo liên tục | [Chuyển hệ ĐTLT] | 1) Tải mẫu đơn và điền đầy đủ thông tin, Trường hợp có thắc mắc về thủ tục tại Ban Đào tạo sẽ liên hệ theo qua email: hue.nguyenkim@hust.edu.vn, 2) Nộp đơn tại Trung tâm Đào tạo liên tục (khu nhà TC) để được tư vấn và xếp lớp. Trường hợp cần tư vấn với Trung tâm Đào tạo liên tục sẽ liên hệ qua email: dtlt@hust.edu.vn, Tải tại đây |
+| 29 | Trích sao bảng điểm | [Trích sao] | hanh.tranthi@hust.edu.vn | Xem hướng dẫn tại đây |
+| 30 | Lịch thi học kỳ | [Lịch thi] | 1. Chuyên viên Trần Thị Hạnh: lịch thi cuối kỳ. Email: hanh.tranthi@hust.edu.vn, 2. Chuyên viên Giang Hương: lịch thi Đợt A; kiểm tra giữa kỳ; thi kỳ hè. Email: huong.giang@hust.edu.vn |  |
+| 31 | Hoãn thi cuối kỳ | [Hoãn thi](#) | Nộp đơn trực tiếp tại Ban Đào tạo 202-C1 (bàn số 4) <br> (chuyên viên tiếp nhận: Trần Thị Hạnh) <br> hanh.tranthi@hust.edu.vn <br> **LƯU Ý:** <br> (1) Hoãn thi với các học phần GDTC: liên hệ trực tiếp với giảng viên <br> (2) Hoãn thi với các học phần GDQP-AN: liên hệ với cô Nguyễn Thị Hà Giang (giang.nguyenthiha@hust.edu.vn) | [Tải mẫu đơn](#) |
+| 32 | Đăng ký thi bù do hoãn thi | [Thi bù](#) | Đăng ký thi bù tại [đây](#) (Cần đăng ký muộn nhất là 5 ngày trước ngày thi) <br> Nếu có thắc mắc liên hệ chuyên viên Trần Thị Hạnh: hanh.tranthi@hust.edu.vn | [Tải mẫu đơn](#) |
+| 33 | Reset mật khẩu tài khoản ctt-sis.hust.edu.vn | [Mật khẩu SIS](#) | hanh.tranthi@hust.edu.vn <br> Chuyên viên Trần Thị Hạnh (202A-C1) | |
+| 34 | Thắc mắc về bằng cấp, chứng chỉ | [Văn bằng](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) | |
+| 35 | Nhận bằng tốt nghiệp | [Nhận bằng](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) <br> Nhận bằng theo Biểu đồ kế hoạch học tập hoặc các ngày thứ 3, thứ 5 hàng tuần tại Ban Đào tạo. Yêu cầu mang thẻ căn cước công dân hoặc chứng minh thư nhân dân. Trong trường hợp người khác nhận thay phải có giấy ủy quyền có xác nhận của chính quyền. | |
+| 36 | Công tác lưu học sinh | [Lưu học sinh](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) | |
+| 37 | Xác minh văn bằng | [Xác minh](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) | |
+| 38 | Cấp bản sao văn bằng | [Bản sao văn bằng](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) | |
+| 39 | Cấp Giấy chứng nhận tốt nghiệp tạm thời | [Chứng nhận TN](#) | son.nguyenthanh1@hust.edu.vn hoặc son.nguyen@hust.edu.vn <br> Chuyên viên Nguyễn Thanh Sơn (202A-C1) <br> Tham khảo quy định tại Thông tư số 21/2019/TT-BGDĐT | |
+| 40 | Mật khẩu email | | Liên hệ Trung tâm mạng thông tin tại [đây](#) | |
+| 41 | Hướng dẫn chuyển tiếp sinh | [Chuyển tiếp sinh](#) | huong.giang@hust.edu.vn <br> Chuyên viên Giang Hương (316-C1) | |
+| 42 | (1) Thay đổi chương trình đào tạo KS chuyên sâu <br> (2) Xin hủy đăng ký học chương trình đào tạo KS chuyên sâu | [KS chuyên sâu](#) | hung.nguyenhuy@hust.edu.vn <br> Chuyên viên Nguyễn Huy Hùng | [Mẫu đơn của (1)](#) <br> [Mẫu đơn của (2)](#) |

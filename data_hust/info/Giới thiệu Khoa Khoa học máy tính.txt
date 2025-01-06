@@ -1,0 +1,67 @@
+1. Giới thiệu Khoa Khoa học máy tính
+Tên tiếng Anh: Faculty of Computer Science
+Trưởng khoa: TS. Phạm Đăng Hải
+Phó Trưởng khoa: PGS. Lê Thanh Hương; TS. Vũ Thị Hương Giang
+Địa chỉ: nhà B1, trường Đại học Bách khoa Hà Nội
+Tel.: +84 (0)24 38696121
+Email: cs@soict.hust.edu.vn
+Khoa Khoa học máy tính (The Department of Computer Science) được thành lập ngày 18/11/2021 trên cơ sở hợp thành từ 3 bộ môn Công nghệ phần mềm, Khoa học máy tính và Hệ thống thông tin của Viện Công nghệ Thông tin và Truyền thông (tiền thân của Trường Công nghệ Thông tin và Truyền thông hiện nay). Khoa Khoa học máy tính không những đảm nhận đào tạo các học phần cốt lõi trong chương trình đào tao chuẩn và chất lượng cao (Elitech) của trường CNTT&TT mà còn thực hiện chức năng đào tạo chuyên sâu về Khoa học máy tính ở các trình độ Cử nhân, Kỹ sư, Thạc sỹ và Tiến sỹ.
+Với sứ mạng đào tạo nguồn nhân lực chất lượng cao có khả năng tham gia vào quá trình tạo ra tri thức, sản phẩm mới phục vụ cho cuộc cách mạng công nghệ 4.0 và chuyển đổi số của đất nước, Khoa KHMT thực hiện đào tạo các chương trình sau
+Đào tạo đại học ngành Khoa học máy tính với các định hướng ứng dụng: Công nghệ phần mềm, Hệ thống thông tin và Phân tích dữ liệu thông minh.
+Đào tạo Thạc sĩ khoa học ngành Khoa học máy tính với các định hướng nghiên cứu Công nghệ phần mềm và Hệ thống thông tin.
+Đào tạo Thạc sĩ kỹ thuật ngành Công nghệ thông tin.
+Đào tạo Tiến sĩ ngành Khoa học máy tính, Hệ thống thông tin, Kỹ thuật phần mềm
+Tham gia đào tạo bậc đại học và sau đại học các chương trình đào tạo chất lượng cao của Trường CNTT&TT như Việt Nhật, Global ICT, Việt Pháp, Cyber Security, Data Science and Artificial Intelligence
+Đội ngũ cán bộ giảng dạy của Khoa có trình độ chuyên môn cao, tâm huyết với nghề với nghề. Các cán bộ trong Khoa đã công bố nhiều công trình khoa học trong các tạp chí uy tín; đã tham gia biên soạn và là chủ biên nhiều sách giáo trình, hiện đang được sử dụng để giảng dạy tại nhiều khoa CNTT trong nước; đã chủ trì nhiều đề tài nghiên cứu khoa học các cấp;  đã đạt được các giải thưởng về nghiên cứu và ứng dụng danh giá, trong đó tiêu biểu là giải thưởng Nhân tài đất Việt hay Quả cầu vàng. Các hướng nghiên cứu mạnh của Khoa gồm: Thuật toán và tối ưu hóa, Tính toán tiến hóa, Tính toán hiệu năng cao, Logic mờ và tính toán logic, Hệ phân tán, Học máy, Thị giác máy tính, Phân tích dữ liệu, Tích hợp dữ liệu, Tìm kiếm thông tin, Xử lý ngôn ngữ tự nhiên, Kiểm chứng và xác thực phần mềm, Quản lý và tối ưu dự án, Công nghệ phân mềm thông minh, Mô hình hóa phần mềm, Cơ sở dữ liệu và quản trị dữ liệu,…
+Hình 1. Các hướng nghiên cứu chính của Khoa KHMT
+Khoa có hợp tác với các trường đại học và các trung tâm nghiên cứu lớn nước ngoài như: Viện Tin học quốc gia Nhật Bản, Đại học kỹ thuật Nanyang (Singapore), Đại học khoa học và kỹ thuật Phương Nam (Trung Quốc), Đại học kỹ thuật Sydney,  Đại học Melbourne (Úc), Đại học Victoria Wellington (New Zealand), Đại học Bách Khoa Grenoble (Pháp), Trung tâm nghiên cứu quân đội Mỹ, Đại học Montreal (Canada); Những hợp tác này được mở rộng từ việc mời và gửi giáo viên tham gia vào các chương trình đào tạo, tham gia Hội đồng bảo vệ luận văn Thạc sỹ và Hội đồng chấm đồ án tốt nghiệp đại học, đồng hướng dẫn nghiên cứu sinh giữa hai bên cho đến hợp tác nghiên cứu và chuyển giao công nghệ.
+Khoa đã góp phần đào tạo ra hàng nghìn kỹ sư các ngành Công nghệ thông tin, Kỹ thuật phần mềm, Hệ thông tin và Khoa học máy tính, trong đó nhiều người đã trở thành giảng viên tại các trường đại học, hoặc nắm vai trò chủ chốt tại các công ty Công nghệ thông tin trong nước hay đang làm việc cho các tập đoàn công nghệ lớn trên thế giới. Khoa cũng là nơi ươm mầm, nuôi dưỡng và là cái nôi khởi nghiệp cho nhiều ý tưởng độc đáo và sáng tạo. Số lượng doanh nghiệp khởi nghiệp và thành công trong lĩnh vực CNTT xuất phát từ sinh viên và cựu sinh viên của Khoa tăng đều hàng năm.
+2. Kết quả nghiên cứu tiêu biểu
+Hệ thống ERP cho trường Đại học eUni:
+Là hệ thống quản lý tổng thể các nghiệp vụ trong trường đại học, giúp tự động hoá nhiều nghiệp vụ quản lý đào tạo, nghiên cứu khoa học, cơ sở vật chất, hợp tác doanh nghiệp,… của các Đơn vị trong Trường ĐH Bách Khoa Hà Nội. Hệ thống cũng đã tích hợp các cơ chế quản lý khối lượng công việc (giảng dạy, hướng dẫn, nghiên cứu, …) theo cơ chế mới về tự chủ đại học áp dụng tại trường Đại học Bách khoa Hà Nội.
+Liên hệ nhóm phát triển: TS. Nguyễn Thanh Hùng (hungnt@soict.hust.edu.vn)
+Hình 2. Hệ thống ERP cho trường Đại học eUni (https://qldt.hust.edu.vn)
+Hệ thống phát hiện sao chép hỗ trợ quản lý học tập và nghiên cứu
+Hệ thống được xây với hai chức năng:
+Phát hiện một tài liệu tiếng Việt có sao chép từ các tài liệu tiếng Việt khác hay không.
+Phát hiện một tài liệu tiếng Việt có sao chép từ các tài liệu tiếng Anh hay không.
+Các tài liệu xem xét bao gồm các báo cáo bài tập lớn, Đồ án tốt nghiệp đại học, luận văn cao học, Luận án tiến sỹ, bài báo, đề xuất/thuyết minh các đề tài khoa học, … bằng tiếng Anh và tiếng Việt của các Trường và Viện nghiên cứu và các dạng tài liệu khác có thể truy cập được trên Internet. Hệ thống hiện đã được tích hợp vào chức năng nộp bài trong hệ thống quản lý giảng dạy, đồ án và dịch vụ trực tuyến của Trường Đại học Bách Khoa Hà Nội.
+Liên hệ nhóm phát triển: PGS. TS. Lê Thanh Hương (huonglt@soict.hust.edu.vn)
+Hình 3. Hệ thống phát hiện sao chép
+OpenCBLV Framework
+OpenCBLS là một Framework mã nguồn mở được thiết kế và xây dựng (dựa trên kiến trúc chuẩn của tìm kiếm cục bộ dựa trên ràng buộc) cho phép người phát triển ứng dụng mô hình hóa và tìm kiếm lời giải cho nhiều bài toán tối ưu tổ hợp xuất hiện trong nhiều lĩnh vực quản lý điều hành lập kế hoạch.
+Framework một mặt có thể được sử dụng như một black-box theo nghĩa người phát triển ứng dụng mô hình hóa bài toán sử dụng các API của OpenCBLS và OpenCBLS sẽ tự vận hành để tìm kiếm lời giải. Mặt khác, người phát triển ứng dụng có thể tự thiết kế và cài đặt các module mới, tích hợp vào framework để đáp ứng các yêu cầu đặc thù mới đặt ra.
+OpenCBLS đã được sử dụng cho đào tạo, nghiên cứu cũng như triển khai 1 số ứng dụng trong đời sống như giải pháp lập lộ trình vận chuyển. OpenCBLS có thể được truy cập và sử dụng miễn phí tại https://github.com/dungkhmt/OpenCBLS
+Liên hệ nhóm phát triển: TS. Phạm Quang Dũng (dungpg@soict.hust.edu.vn)
+Hình 4. Nghiên cứu giải pháp lập lộ trình vận chuyển
+Giải pháp tổng hợp tiếng nói tiếng Việt (Text-To-Speech TTS) Vbee:
+Giải pháp này đã được phát triển để đi vào thực tế, giải quyết các bài toán số hoá dữ liệu, tự động hoá các nghiệp vụ trong các tổng đài chăm sóc khách hàng, ngân hàng và nhiều doanh nghiệp trong nước khác. Vbee đã được vinh dự trao các giải thưởng chuyển đổi số Việt Nam VDA, giải cao nhất của Nhân tài đất Việt năm 2018 lĩnh vực CNTT&TT.
+Liên hệ nhóm nghiên cứu: TS. Nguyễn Thị Thu Trang (trangntt@soict.hust.edu.vn)
+Hình 5. Giải pháp tổng hợp tiếng nói Vbee (https://vbee.vn)
+Sản phẩm giasan.vn 
+giasan.vn là trang thông tin phân tích dữ liệu bất động sản trực tuyến. giasan.vn dựa trên các công nghệ xử lý dữ liệu lớn cùng trí tuệ nhân tạo nhằm cung cấp cho người mua nhà và các nhà môi giới các thông tin phân tích trực quan, chi tiết nhất về thị trường bất động sản Việt Nam. giasan.vn hướng tới:
+minh bạch hoá dữ liệu thị trường bất động sản;
+tiết kiệm thời gian và chi phí nghiên cứu thị trường;
+kết nối người mua, người bán và nhà môi giới, nhà đầu tư tiềm năng thông qua phân tích dữ liệu.
+giasan.vn đã đạt được giải 3 Nhân Tài Đất Việt 2017 và được chuyển giao cho doanh nghiệp khai thác trong năm 2018.
+Liên hệ nhóm phát triển: TS. Trần Việt Trung (trungtv@soict.hust.edu.vn)
+Hình 6: Hệ thống thu thập dữ liệu lớn và định giá bất động sản
+Tối ưu bao phủ trong mạng cảm biến
+Tối ưu bao phủ như bao phủ vùng, bao phủ đối tượng, bao phủ biên có ứng dụng trong thành phố thông minh, quân sự. Nghiên cứu về tối ưu bao phủ trong mạng cảm biến đã được công bố trên các tạp chí uy tín như Information Sciences, Applied Soft Computing, Knowledge Based Systems…
+Nghiên cứu về kép dài thời gian sống của mạng với tối ưu vị trí đặt nút trạm ứng dụng trong dự báo thiên tai đã nhận được giải thưởng cho bài báo tốt nhất tại 2015 IEEE HTC.
+Nghiên cứu về tối ưu bao phủ đảm bảo kết nối đã được chọn trong 10 nhóm tốt nhất trong cuộc thi cho các nhà khoa học trẻ của IEEE vùng châu Á – Thái Bình Dương năm 2017
+Liên hệ nhóm nghiên cứu: PGS. TS.  Huỳnh Thị Thanh Bình (binhht@soict.hust.edu.vn)
+Hình 7. Nghiên cứu về tối ưu bao phủ trong mạng cảm biến
+Giao thức định tuyến thông minh cho mạng IoT:
+Là một  giao thức định tuyến sử dụng tính chất động của đường đi gói tin nhằm đảm bảo cân bằng tải trong toàn mạng, giảm thiểu độ trễ của các gói tin, tăng tỉ lệ gói tin tới đích. Giao thức này giúp kéo dài thời gian sống của các mạng IoT, tăng hiệu quả của việc truyền tin. Giao thức đặc biệt có ý nghĩa đối với các mạng cỡ lớn ứng dụng trong theo dõi môi trường, cảnh báo thiên tai, lũ lụt.
+Các kết quả nghiên cứu về giao thức định tuyến này đã được công bố tại 5 hội nghị lớn (LCN, CCNC, MASS, NCA, ICPADs), và 3 tạp chí uy tín hàng đầu (COMNET, JNCA, JSS), và nhận được nhiều giải thưởng nghiên cứu xuất sắc trong lĩnh vực mạng (giải thưởng bài báo xuất sắc nhất tại 3 hội nghị ISNIP 2014, SoICT 2015, ICT-DM 2019).
+Liên hệ nhóm nghiên cứu: TS. Nguyễn Phi Lê (lenp@soict.hust.edu.vn)
+Hình 8. Minh hoạ giao thức định tuyến
+Tiến hóa đa nhân tố giải bài toán tối ưu trên đồ thị và ứng dụng
+Tiến hóa đa nhân tố có thể áp dụng để giải nhiều bài toán tối ưu tương tự nhau cùng lúc. Kết quả nghiên cứu đã được công bố trên các tạp chí uy tín như Information Sciences, Knowledge Based Systems, Memetic Computing và hội thảo đầu ngành như IEEE Congress on Evolutionary Computation.
+Nhóm nghiên cứu đã giành Giải Nhất tại cuộc thi Tiến hóa đa nhiệm, Tối ưu đa nhiệm đơn mục tiêu, 2018 IEEE World Congress on Computational Intelligence.
+Liên hệ nhóm nghiên cứu: PGS. TS.  Huỳnh Thị Thanh Bình (binhht@soict.hust.edu.vn)
+Hình 9. Nghiên cứu về Tiến hóa đa nhân tố giải bài toán tối ưu trên đồ thị
+Sản phẩm V-Chain.vn: Nền tảng phát triển ứng dụng phi tập trung dựa trên công nghệ chuỗi khối
+V-Chain cung cấp giải pháp cho các doanh nghiệp, tổ chức, và chính phủ muốn triển khai áp dụng công nghệ chuỗi khối (blockchain) vào các ứng dụng và nghiệp vụ hiện tại của mình. Dịch vụ do V-Chain cung cấp hướng tới mô hình kinh doanh B2B. Người dùng đầu cuối sẽ hưởng lợi từ tính minh bạch, dữ liệu bất biến, và giảm bớt trung gian trong việc sử dụng công nghệ chuỗi khối khi ứng dụng V-Chain.
+Liên hệ nhóm phát triển: PGS. TS. Nguyễn Bình Minh (minhnb@soict.hust.edu.vn)

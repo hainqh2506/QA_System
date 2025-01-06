@@ -1,0 +1,7 @@
+Mỗi năm học có 3 học kỳ, trong đó có 2 học kỳ chính và 1 học kỳ hè. Khung kế hoạch thời gian của Trường ĐHBK Hà Nội gồm có các nội dung chính trong một năm học như sau:
+Lịch đăng ký học tập: Đăng ký, điều chỉnh đăng ký các học phần trong học kỳ; đăng ký nhận đồ án/ khóa luận tốt nghiệp.
+Lịch học tập: Lịch học các học kỳ chính, học kỳ hè; thời gian thực tập; thời gian làm đồ án/ khóa luận tốt nghiệp.
+Lịch thi: Thi/ kiểm tra giữa kỳ, cuối kỳ, bảo vệ đồ án/ khóa luận tốt nghiệp.
+Lịch đăng ký xét tốt nghiệp; lịch tổ chức Lễ tốt nghiệp và phát bằng tốt nghiệp.
+Lịch nộp học phí.
+Lịch nghỉ hè, nghỉ tết, nghỉ các ngày lễ trong năm.

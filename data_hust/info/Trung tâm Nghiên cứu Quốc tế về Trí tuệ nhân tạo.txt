@@ -1,0 +1,37 @@
+Giới thiệu chung:
+Tên tiếng Anh: the International Research Center for Artificial Intelligence (BK.AI)
+Giám đốc khoa học: GS. Hồ Tú Bảo
+Giám đốc điều hành:  TS. Nguyễn Phi Lê
+Phó giám đốc điều hành: TS. Đinh Viết Sang
+Địa chỉ: Tầng 10, Nhà B1, Đại học Bách khoa Hà Nội
+Email: bkai@soict.hust.edu.vn
+Website: bkai.ai
+Trung tâm Nghiên cứu quốc tế về Trí tuệ nhân tạo BK.AI được thành lập với mục tiêu xây dựng và phát triển một cơ quan nghiên cứu hàng đầu tại Việt Nam, đặc biệt trong việc đào tạo nhân lực trình độ cao về AI và nghiên cứu những nội dung chọn lọc quan trọng về AI. Trung tâm hướng tới xây dựng những nhóm nghiên cứu mạnh, tạo ra các công trình có tầm ảnh hưởng lớn trong khu vực và trên thế giới. Trung tâm cũng chú trọng chuyển giao công nghệ, thúc đẩy việc ứng dụng AI vào thực tiễn.
+Chức năng chính:
+Trung tâm có mô hình hoạt động mở, tạo điều kiện cho các nhà khoa học nghiên cứu về AI trong và ngoài trường, Việt Nam và Quốc tế triển khai các nghiên cứu trong lĩnh vực AI. Trong mục tiêu dài hạn, Trung tâm là nơi kết nối các nhóm nghiên cứu về trí tuệ nhân tạo trong trường đại học ĐHBK, nhằm phát huy sức mạnh, cùng nhau thực hiện các mục tiêu nghiên cứu, đào tạo, chuyển giao công nghệ trong lĩnh vực trí tuệ nhân tạo.
+Trung tâm có các chức năng chính sau đây:
+Tham gia các hoạt động đào tạo góp phần tạo ra nguồn nhân lực chất lượng cao trong lĩnh vực AI.
+Tổ chức thực hiện các hoạt động nghiên cứu khoa học và chuyển giao công nghệ. Tăng cường hợp tác với doanh nghiệp, các viện nghiên cứu, hiệp hội, các tổ chức và cá nhân khác trong chuyển giao để nâng cao chất nghiên cứu, đưa nghiên cứu tiến đến ứng dụng thực tế, đáp ứng nhu cầu xã hội.
+Tổ chức thực hiện các hoạt động dịch vụ khoa học – kỹ thuật. Mở rộng hợp tác với các đơn vị nghiên cứu trong / ngoài Trường, các cơ quan tài trợ nghiên cứu, các đối tác quốc tế, các địa chỉ ứng dụng (cơ quan quản lý nhà nước, doanh nghiệp) … để xây dựng các đề tài / dự án / chương trình nghiên cứu không những bắt nhịp với xu thế phát triển của Thế giới, mà còn có tiềm năng ứng dụng cao, qua đó nâng cao vị thế của đơn vị trong và ngoài nước.
+Làm cầu nối hợp tác giữa các nhóm nghiên cứu trong trường ĐHBK với các nhóm nghiên cứu trong và ngoài nước. Tổ chức các xê-mi-na khoa học thường xuyên, định kỳ giữa các nhóm nghiên cứu nhằm tăng cường trao đổi giữa các nhóm. Từ đó, góp phần tạo ra các nghiên cứu liên ngành.
+Các nhóm nghiên cứu chính:
+Trung tâm có 8 nhóm nghiên cứu chính: Học máy, Xử lý ngôn ngữ tự nhiên, Thị giác máy tính, Tin học y sinh, Công nghệ phần mềm thông minh, Tối ưu hoá, Hệ phân tán, và Mạng thông minh.
+Học máy:
+Nhóm nghiên cứu học máy tập trung vào các bài toán liên quan đến công nghệ lõi của học máy như: Nghiên cứu bài toán học từ luồng dữ liệu vô hạn giúp một máy tính không những có khả năng học liên tục từ dữ liệu, mà còn vận dụng tốt tri thức của con người. Các thuật toán học liên tục (continual learning):  giúp một máy tính có thể huấn luyện liên tục từ luồng các nhiệm vụ đến liên tục. Các mạng sinh sâu (deep generative models) có khả năng sinh ra những dữ liệu (ảnh, văn bản, câu nói,…) như thật. các hệ gợi ý (recommender system) có khả năng mô hình hoá các phản hồi của người dùng, các mối liên hệ ẩn bậc cao giữa người dùng và sản phẩm, để từ đó đưa ra các gợi ý chính xác.
+Xử lý ngôn ngữ tự nhiên:
+Các chủ đề nghiên cứu của nhóm xử lý ngôn ngữ tự nhiên bao gồm: 1. Xử lý văn bản (Text Processing), Tóm tắt văn bản (Text Summarization), Hệ thống hỏi đáp (QA System), Hệ thống thoại (Dialog System), Chuyển đổi văn bản sang giọng nói (Text-To-Speech), Phân tích quan điểm (Opinion analysis), Dịch máy (Machine translation), Trích rút sự kiện từ văn bản (Event extraction), Phát hiện sao chép (Copy detection), Chuyển đổi văn bản sang giọng nói (Text-To-Speech).
+Thị giác máy tính:
+Nhóm thị giác máy tính nghiên cứu các bài toán: OCR và trích xuất thông tin (OCR and information extraction), Phát hiện bệnh và khoanh vùng tổn thương trong y tế (Diseases detection and localization), Nhận dạng khuôn mặt (Face recognition), Phân loại và nhận dạng đối tượng (Object classification and recognition), Phát hiện và khoanh vùng đối tượng (Object detection and localization).
+Tối ưu hoá:
+Các nghiên cứu trong lĩnh vực tối ưu hoá tập trung vào việc sử dụng các thuật toán hướng tự nhiên, lý thuyết đồ thị, hình học tính toán, … để giải quyết các bài toán tối ưu trong nhiều lĩnh vực khác nhau. Một số chủ đề nghiên cứu tiêu biểu của nhóm nghiên cứu tối ưu hoá có thể kể tới như: Tối ưu hoá triển khai các loại mạng không dây (Network placement optimization), Tối ưu hoá lịch sạc trong mạng sạc không dây (Charging schedule optimization), Tối ưu trong bài toán giao vận (Optimization in the transport problems), Tối ưu hoá đa mục tiêu (Multi-objectives optimization).
+Mạng thông minh:
+Nhóm nghiên cứu về mạng thông minh tập trung nghiên cứu các mô hình, giao thức truyền tin thông minh, các loại mạng thế hệ mới (vd: mạng 5G, 6G, mạng IoT, mạng V2X), … Nhóm cũng tập trung nghiên cứu ứng dụng AI trong việc quản lý và điều phối hoạt động, nhằm nâng cao hiệu suất của mạng. Một số hướng nghiên cứu cụ thể có thể kể đến như sau: Quan trắc mạng (Traffic engginerring), Định tuyến thông minh (Intelligent routing), Mạng thế hệ mới (Next generation networks), Tối ưu mạng (Network optimization), Mạng định nghĩa bằng phần mềm (Software Defined Networks).
+Tin học y sinh:
+Tin sinh học là một lĩnh vực liên ngành nhằm mục đích ứng dụng công nghệ thông tin vào giải quyết các vấn đề quan trọng của sinh học, đặc biệt là sinh học phân tử. Với đô phức tạp rất lớn của DNA như số lượng lên tới khoảng 3 tỷ nucleotides trong DNA của tế bào cơ thể người, để hiểu được sự tương tác cũng như các đặc tính của các đoạn nucleotides thì sẽ cần sự hỗ trợ của các giải thuật tính toán có khả năng chạy trên các hệ máy tính mạnh. Các hướng nghiên cứu chính của nhóm Tin học y sinh bao gồm: Dự đoán cấu trúc và chức năng của protein (protein structural prediction), Dự đoán biểu hiện gen (gene expression).
+Hệ phân tán:
+Nhóm nghiên cứu về hệ phân tán tập trung vào 3 hướng chính như sau:
+Công nghệ lưu trữ phi tập trung: Nghiên cứu phát triển xây dựng ứng dụng phi tập trung; xây dựng hệ thống hỗ trợ tạo landing page dựa trên công nghệ lưu trữ phi tập trung IPFS.
+Ứng dụng công nghệ chuỗi khối cho các dịch vụ AI: Nghiên cứu phát triển thử nghiệm Hệ thống quản lý Sổ đỏ, nghiên cứu phát triển các hệ thống Truy xuất, Đối soát dữ liệu cho giáo dục, nông nghiệp, quản lý bất động sản, vận tải, …
+Hệ thống định danh KYC và Hợp đồng điện tử.
+Công nghệ phần mềm thông minh:
+Các nghiên cứu của nhóm công nghệ phần mềm thông minh tập trung vào hai hướng chính: Công nghệ phần mềm cho AI (Software engineering for AI) và Tự động hóa phần mềm (Software Automation). Công nghệ phần mềm cho AI (Software engineering for AI) nghiên cứu các phương pháp nhằm tự động phân tích, tìm lỗi trong các hệ thống AI; các phương pháp tiếp cận (phân tích, thử nghiệm, gỡ lỗi và xác minh) để đảm bảo độ tin cậy và bảo mật của hệ thống AI. Tự động hóa phần mềm (Software Automation) nghiên cứu tự động hoá các quy trình trong phát triển phần mềm: tự động sinh kịch bản kiểm thử, tự động kiểm thử, tự động tìm và sửa lỗi, …

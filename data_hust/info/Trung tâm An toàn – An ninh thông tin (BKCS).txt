@@ -1,0 +1,19 @@
+Giới thiệu chung
+Tên tiếng Anh: Bach khoa Cyber Security Center (BKCS)
+Giám đốc: PGS.TS. Trần Quang Đức
+Phó giám đốc: ThS. Bùi Trọng Tùng
+Địa chỉ: Phòng 405, Nhà B1, Đại học Bách khoa Hà Nội
+Email: bkcs@hust.edu.vn
+Website: bkcs.hust.edu.vn
+Trong xu thế phát triển của cuộc cách mạng công nghệp lần thứ tư, sự hội tụ của thiết bị di động, điện toán đám mây, công nghệ lưu trữ, trí tuệ nhân tạo và xử lý dữ liệu lớn đã và đang làm thay đổi cách thức tiếp cận, ứng dụng công nghệ thông tin, nhưng cũng tạo điều kiện phát sinh những nguy cơ mới liên quan đến an toàn và bảo mật. Cảnh báo về các cuộc tấn công có tổ chức, gián điệp công nghiệp, chiến tranh mạng ngày càng trở nên rõ rệt. Cải cách hành chính, chính phủ điện tử sẽ không thể thực hiện nếu an toàn thông tin không được đảm bảo. Các doanh nghiệp cũng không thể yên tâm hoạt động nếu hệ thống thông tin của họ bị đe dọa và phá hoại.
+​​Đại học Bách khoa Hà Nội luôn là trường đại học kỹ thuật hàng đầu của nền giáo dục Việt Nam. Lĩnh vực an ninh mạng cũng được Nhà trường chú trọng phát triển với việc thành lập Trung tâm an toàn an ninh thông tin (Bach Khoa Cyber Security Centre) theo quyết định số 3148/QĐ-ĐHBK-TCCB ngày 18 tháng 12 năm 2015.
+Chức năng chính:
+Tổ chức nghiên cứu và thực hiện đề tài nghiên cứu khoa học liên quan đến các vấn đề cơ bản liên quan đến rà soát quét lỗ hổng hệ thống, phát hiện điểm yếu hệ thống, các phương pháp phát hiện, ngăn chặn xâm nhập hệ thống, đánh giá kiểm định an toàn hệ thống thông tin, an ninh cho hạ tầng truyền thông và các mạng thế hệ mới, bảo vệ bản quyền số.
+Tổ chức tư vấn, lựa chọn và làm chủ công nghệ, giải pháp về an toàn an ninh thông tin, nâng cấp và cải tiến cho phù hợp với điều kiện ứng dụng tại Việt Nam.
+Thực hiện chuyển giao công nghệ mới cho các cơ sở công nghiệp có nhu cầu phát triển ứng dụng và dịch vụ an toàn an ninh thông tin. Hỗ trợ, tư vấn cho các cơ quan nhà nước và các tổ chức trong khu vực trong việc xây dựng các quy chuẩn, quy định quốc gia và áp dụng các quy trình đảm bảo an toàn an ninh thông tin theo chuẩn quốc tế ISO27001, ISO27005.
+Xây dựng các dự án hợp tác với các trường đại học, viện nghiên cứu trong và ngoài nước trong việc phát triển nội dung nghiên cứu và đào tạo về lĩnh vực an toàn an ninh thông tin.
+Tham gia hỗ trợ đào tạo đại học phát triển năng lực khoa học công nghệ cho sinh viên, trực tiếp tham gia công tác đào tạo và thực hiện các nhiệm vụ nghiên cứu thuộc các đề tài luận văn thạc sỹ, luận án tiến sỹ.
+Tập trung, thu hút nguồn lực và phát triển năng lực về an toàn an ninh thông tin của đội ngũ cán bộ Nhà trường, các viện, trung tâm nghiên cứu và các cơ sở công nghiệp.
+Bộ máy hoạt động của Trung tâm an toàn an ninh thông tin được tổ chức gọn nhẹ. Trung tâm hoạt động theo mô hình Phòng thí nghiệm mở là tập hợp của các nhà khoa học có trình độ chuyên môn cao từ các Viện nghiên cứu chuyên ngành của Trường Đại học Bách khoa Hà Nội, có nhiệm vụ tạo ra cầu nối liên kết giữa Nhà trường với các cơ sở nghiên cứu và đào tạo có uy tín trên thế giới.
+Thành tựu
+Giải Nhì Nhân tài Đất Việt 2019 trong lĩnh vực CNTT với sản phẩm “Giải pháp bảo mật toàn diện cho hệ thống camera an ninh”
