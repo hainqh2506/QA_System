@@ -17,7 +17,7 @@ class VietnameseEmbeddings(Embeddings):
     """Singleton Embeddings for Vietnamese using SentenceTransformer."""
     _instance: Optional['VietnameseEmbeddings'] = None
 
-    def __new__(cls, model_name: str = "dangvantuan/vietnamese-embedding"): #"dangvantuan/vietnamese-embedding" or "keepitreal/vietnamese-sbert"
+    def __new__(cls, model_name: str = "keepitreal/vietnamese-sbert"): #"dangvantuan/vietnamese-embedding" or "keepitreal/vietnamese-sbert"
         # Nếu chưa có instance, tạo mới
         if cls._instance is None:
             cls._instance = super().__new__(cls)
