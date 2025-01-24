@@ -8,6 +8,8 @@ import os
 # Configure logging with UTF-8 encoding
 load_dotenv()
 embeddings = VietnameseEmbeddings()
+# ELASTIC_URL = os.getenv("ELASTIC_URL")
+# api_key = os.getenv("api_key")
 ELASTIC_URL = "https://my-elasticsearch-project-cb212d.es.ap-southeast-1.aws.elastic.cloud:443"
 api_key = "eXlld1daUUI2VXkxblVYQ2NZSDU6UXhkWjRxM29RNnU4RUZMY0xYVlk0UQ=="
 
