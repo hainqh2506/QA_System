@@ -70,9 +70,9 @@ Objective: To create a hybrid search that combines sparse retrievers with dense 
 ### 6. LLM for Question Answering
 This component uses a Language Model (LLM) (chat GPT-4o-mini)to generate answers to user queries based on the context provided by the retrieved documents. It involves constructing prompts and invoking the LLM to generate accurate and relevant responses.
 
-### 7. Future: adding routing and chat history (upcoming)
+### 7. Future: adding routing and chat history 
 
-### 8. Video demo (upcoming)
+### 8. Video demo
 
 ### 9. Proposed system architecture
 ![Proposed system architecture](img/img3.png)
