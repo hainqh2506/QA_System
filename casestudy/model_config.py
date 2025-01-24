@@ -4,6 +4,7 @@ from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
 from transformers import AutoTokenizer
+from langchain_together import ChatTogether , Together
 from dotenv import load_dotenv
 import os
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
@@ -17,7 +18,7 @@ class VietnameseEmbeddings(Embeddings):
     """Singleton Embeddings for Vietnamese using SentenceTransformer."""
     _instance: Optional['VietnameseEmbeddings'] = None
 
-    def __new__(cls, model_name: str = "keepitreal/vietnamese-sbert"): #"dangvantuan/vietnamese-embedding" or "keepitreal/vietnamese-sbert"
+    def __new__(cls, model_name: str = "dangvantuan/vietnamese-embedding"): #"dangvantuan/vietnamese-embedding" or "keepitreal/vietnamese-sbert"
         # Nếu chưa có instance, tạo mới
         if cls._instance is None:
             cls._instance = super().__new__(cls)
@@ -89,23 +90,7 @@ def load_embedding_model(embedding_model: str = "dangvantuan/vietnamese-embeddin
     """
     return HuggingFaceEmbeddings(model_name=embedding_model)
 
-# Hàm tải mô hình tóm tắt
-def load_summarization_model(summarization_model_name: str = 'llama-3.1-70b-versatile', max_tokens: int = 458):
-    """
-    Hàm tải và khởi tạo mô hình tóm tắt từ ChatGroq.
-    
-    Tham số:
-    - summarization_model_name: Tên mô hình tóm tắt. Mặc định là 'llama-3.1-70b-versatile'.
-    - max_tokens: Số token tối đa cho mô hình tóm tắt. Mặc định là 458.
-    
-    Trả về: Đối tượng summarization model.
-    """
-    # Load API keys từ .env file
-    load_dotenv()
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-    
-    return ChatGroq(groq_api_key=GROQ_API_KEY, model_name=summarization_model_name, max_tokens=max_tokens)
-def load_gpt4o_mini_model( model_name: str = "gpt-4o-mini", max_tokens: int = 512):
+def load_gpt4o_mini_model( model_name: str = "gpt-4o-mini"):
     """
     Hàm tải và khởi tạo mô hình chat từ ChatOpenAI.
     
@@ -115,7 +100,7 @@ def load_gpt4o_mini_model( model_name: str = "gpt-4o-mini", max_tokens: int = 51
     load_dotenv()
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     
-    return ChatOpenAI(api_key=OPENAI_API_KEY, model=model_name, max_tokens=max_tokens)
+    return ChatOpenAI(api_key=OPENAI_API_KEY, model=model_name ,temperature=0.7)
 # gemini
 def load_gemini(model_name: str = "gemini-1.5-flash"): #-8b
         # Load API keys từ .env file
@@ -125,7 +110,7 @@ def load_gemini(model_name: str = "gemini-1.5-flash"): #-8b
     llm = ChatGoogleGenerativeAI(
     model=model_name,
     temperature=0.5,
-    max_tokens=456,
+    max_tokens=512,
     api_key = GEMINI_API_KEY
     # other params...
 )
@@ -134,11 +119,12 @@ def load_gemini(model_name: str = "gemini-1.5-flash"): #-8b
 def load_gemini2(model_name: str = "gemini-2.0-flash-exp"): #-8b
         # Load API keys từ .env file
     load_dotenv()
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY1")
     
     llm = ChatGoogleGenerativeAI(
     model=model_name,
-    api_key = GEMINI_API_KEY
+    api_key = GEMINI_API_KEY,
+    temperature=0.7
     # other params...
 )
     
@@ -147,7 +133,7 @@ def load_gemini2(model_name: str = "gemini-2.0-flash-exp"): #-8b
 def load_gemini15(model_name: str = "gemini-1.5-flash"): #-8b
         # Load API keys từ .env file
     load_dotenv()
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY1")
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY1") # doi api o day
     
     llm = ChatGoogleGenerativeAI(
     model=model_name,
@@ -157,13 +143,18 @@ def load_gemini15(model_name: str = "gemini-1.5-flash"): #-8b
 )
     
     return llm
-def load_chat_model(chat_model_name: str = 'llama-3.1-70b-versatile'):
+def load_groq_model(chat_model_name: str = "llama-3.3-70b-versatile"):  #lama3-8b-8192 llama-3.1-70b-versatile llama-3.3-70b-versatile llama-3.1-8b-instant  
   # Load API keys từ .env file
     load_dotenv()
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-    
-    return ChatGroq(groq_api_key=GROQ_API_KEY, model_name=chat_model_name)
+    return ChatGroq(api_key=GROQ_API_KEY, model_name=chat_model_name)
 
+
+def load_together_model(model_name: str = "meta-llama/Llama-3.3-70B-Instruct-Turbo"):  
+    load_dotenv()
+    TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")
+    return ChatTogether(api_key=TOGETHER_API_KEY, model_name=model_name)
+    
 # Hàm tải và khởi tạo tokenizer từ tiktoken (nếu cần)
 def load_tiktoken(tokenizer_name: str = "o200k_base"):  #cl100k_base
     """
