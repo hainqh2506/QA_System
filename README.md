@@ -10,7 +10,6 @@
     ```
 3.  
     ```sh
-    git clone https://github.com/hainqh2506/QA_System.git
     cd .\QA_System\casestudy
     ```
 4. setup file .env 
